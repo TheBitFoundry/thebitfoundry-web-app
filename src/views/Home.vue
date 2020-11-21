@@ -12,8 +12,8 @@
 </template>
 
 <script>
-  import Slider from "@/components/slider-component.vue";
-  import Skills from "@/components/slider.vue";
+  import Slider from "@/components/slider.vue";
+  import Skills from "@/components/skills.vue";
   import VideoComponent from "@/components/video-component.vue";
   import Portfolio from "@/components/portfolio.vue";
   import Services from "@/components/services.vue";
