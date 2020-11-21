@@ -51,10 +51,10 @@
 
 <script>
     import axios from "axios";
-    import resources from "../resource/resources";
+    import resources from "../resources";
 
     export default {
-        name: 'blog-display',
+        name: 'blog-section',
         data() {
             return {
                 blogs: [],
@@ -62,7 +62,7 @@
             }
         },
         created() {
-            axios.get(resources.data().endpoint).then(
+            axios.get(resources.allBlogs()).then(
                 response => {
                     this.blogs = response.data.objects;
                 }
