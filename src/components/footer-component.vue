@@ -122,6 +122,6 @@
 
 <script>
     export default {
-        name: 'footer'
+        name: 'footer-component'
     }
 </script>

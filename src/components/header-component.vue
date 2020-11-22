@@ -206,6 +206,6 @@
 
 <script>
     export default {
-        name: 'header'
+        name: 'header-component'
     }
 </script>

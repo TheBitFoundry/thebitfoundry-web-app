@@ -69,9 +69,9 @@
                             <div class="item widget-categories">
                                 <h4 class="title">Foundries</h4>
                                 <ul class="list-group list-group-flush">
-                                    <li class="list-group-item d-flex justify-content-between align-items-center">
-                                        <a href="#">Technology</a>
-                                        <span class="badge circle">23</span>
+                                    <li v-for="pageTag in pageTags" v-bind:key="pageTag.slug" class="list-group-item d-flex justify-content-between align-items-center">
+                                        <router-link :to="pageTag.link">{{ pageTag.title }}</router-link>
+<!--                                        <span class="badge circle">23</span>-->
                                     </li>
                                 </ul>
                             </div>
@@ -79,7 +79,7 @@
                             <!-- Widget [tags] -->
                             <div class="item widget-tags">
                                 <h4 class="title">Blog Tags</h4>
-                                <span v-for="category in blog.categories" v-bind:key="category" class="badge tag text-success">{{ category.value }}</span>
+                                <span v-for="category in blog.categories" v-bind:key="category.value" class="badge tag text-success">{{ category.value }}</span>
                             </div>
 
                             <!-- Widget [share-this] -->
@@ -120,15 +120,18 @@
 
 <script>
     import blogs from "./../resources/blogs";
+    import foundriesService from "./../resources/foundries-service";
 
     export default {
         name: 'blog-single',
         async mounted() {
             this.blog = await blogs.getSingleBlog(this.$route.params.slug);
+            this.pageTags = await foundriesService.getFoundries();
         },
         data() {
           return {
-              blog: {}
+              blog: {},
+              pageTags: []
           }
         }
     }

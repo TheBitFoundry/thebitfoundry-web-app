@@ -25,7 +25,7 @@ export default {
     getMultipleBlogs: async function(count) {
         let blogsLink = helper.allBlogsResourceLink(count);
         let response;
-        let blogs;
+        let blogs = [];
 
         try {
             let axiosResponse = await axios.get(blogsLink);
@@ -35,18 +35,21 @@ export default {
         }
 
         for(let blog of response.objects) {
+            console.log("blog service", blog)
             let obj = {
-                title: blog.title,
-                imageUrl: blog.metadata.titlecard.url,
-                except: blog.metadata.excerpt,
-                categories: blog.metadata.categories,
-                content: blog.content,
-                slug: blog.slug,
-                pageTag: blog.metadata.pagetag
+                title: blog.title||"",
+                imageUrl: blog.metadata.titlecard.url||"",
+                except: blog.metadata.excerpt||"",
+                categories: blog.metadata.categories||"",
+                content: blog.content||"",
+                slug: blog.slug||"",
+                foundryTag: blog.metadata.select_foundry.title||"",
+                dateAuthored: blog.metadata.data_authored||"",
+                author: blog.metadata.author||"",
+                authorLink: blog.metadata.author_link||""
             }
-            this.blogs.push(obj);
+            blogs.push(obj);
         }
-
         return blogs;
     }
 }

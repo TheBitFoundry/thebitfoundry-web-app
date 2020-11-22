@@ -3,18 +3,18 @@
         <div data-aos="zoom-in" data-aos-delay="200" data-aos-anchor="body" class="container">
             <div class="row content blog-grid masonry">
                 <main class="col-12 p-0">
-                    <div v-for="blog in blogs" v-bind:key="blog.title" class="bricklayer items columns-4">
+                    <div v-for="blog in blogs" v-bind:key="blog.title" class="bricklayer items columns-4" style="width: 33.30% !important; float: left !important; padding:10px;">
                         <div class="card p-0 text-center item">
                             <div class="image-over">
-                                <img :src="blog.metadata.titlecard.url" alt="Lorem ipsum">
+                                <img :src="blog.imageUrl" alt="Lorem ipsum">
                             </div>
                             <div class="card-caption col-12 p-0">
                                 <div class="card-body">
-                                    <a onclick="this.openSingleBlog()">{{ blog.title }}</a>
+                                    <router-link :to="/blogs/ + blog.slug"> {{ blog.title }}</router-link>
                                 </div>
                                 <div class="card-footer d-lg-flex align-items-center justify-content-center">
-                                    <a href="#" class="d-lg-flex align-items-center"><i class="icon-user"></i>John Doe</a>
-                                    <a href="#" class="d-lg-flex align-items-center"><i class="icon-clock"></i>3 Days Ago</a>
+                                    <a href="#" class="d-lg-flex align-items-center"><i class="icon-user"></i>{{ blog.author }}</a>
+                                    <a href="#" class="d-lg-flex align-items-center"><i class="icon-clock"></i>{{ blog.dateAuthored }}</a>
                                 </div>
                             </div>
                         </div>
@@ -60,13 +60,13 @@
                 errors: []
             }
         },
-        created() {
-            this.blogs = blogs.getMultipleBlogs(20)
+        async created() {
+            this.blogs = await blogs.getMultipleBlogs(20);
         },
         methods: {
             openSingleBlog: function(blog) {
                 this.$router.push({
-                    name: 'single',
+                    name: 'Blogs',
                     params: { slug: blog.slug }
                 });
             }

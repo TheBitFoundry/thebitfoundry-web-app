@@ -21,6 +21,6 @@
 
 <script>
     export default {
-        name: 'video'
+        name: 'video-component'
     }
 </script>
