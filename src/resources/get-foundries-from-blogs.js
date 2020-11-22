@@ -2,14 +2,25 @@ import blogService from "./blogs.js";
 export default {
     getFoundryTitlesWithCount: async function () {
         const blogs = await blogService.getMultipleBlogs(500);
-        let blogPageFilter = [];
+        let blogPageTags = [];
+        let returnObjects = [];
 
-        for(let blog of blogs) {
-            blogPageFilter.push({
-                title: blog.title
-            });
-        }
+        blogs.forEach((item) => {
+            blogPageTags.push(item.pageTag);
+        });
 
-        return blogPageFilter;
+        console.log(blogPageTags);
+
+        blogPageTags.forEach((item) => {
+           returnObjects.push({
+               name: "",
+               occurrence: this.getOccurrence(blogPageTags, item)
+           });
+        });
+
+        return blogPageTags;
+    },
+    getOccurrence: function(array, value) {
+        return array.filter((f) => (f === value)).length;
     }
 }

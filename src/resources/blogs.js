@@ -41,7 +41,8 @@ export default {
                 except: blog.metadata.excerpt,
                 categories: blog.metadata.categories,
                 content: blog.content,
-                slug: blog.slug
+                slug: blog.slug,
+                pageTag: blog.metadata.pagetag
             }
             this.blogs.push(obj);
         }
