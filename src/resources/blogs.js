@@ -2,19 +2,18 @@ import helper from "./index";
 import axios from "axios";
 
 export default {
-    getSingleBlog() {
-        let blogLink = helper.singleBlogResourceLink(helper.getSlug());
+    getSingleBlog: async function(slug) {
+        let blogLink = helper.singleBlogResourceLink(slug);
         let blog;
-        let errors;
 
-        axios.get(blogLink).then(
-            response => {
-                this.blog = response.data;
-            }
-        ).catch(e => {
-            this.errors.push(e);
-            console.log(errors);
-        })
+        try {
+            const data = await axios.get(blogLink);
+            blog = data.data;
+        } catch (error) {
+            console.log("error", error);
+        }
+
+        console.log("Things", blog);
 
         return {
             title: blog.object.title,
@@ -25,7 +24,7 @@ export default {
             slug: blog.object.slug
         }
     },
-    getMultipleBlogs(count) {
+    getMultipleBlogs: function(count) {
         let blogsLink = helper.allBlogsResourceLink(count);
         let response;
         let blogs;
@@ -34,13 +33,14 @@ export default {
         axios.get(blogsLink).then(
             response => {
                 this.response = response.data;
+                console.log(response.data);
             }
         ).catch(e => {
             this.errors.push(e);
             console.log(errors);
         })
 
-        for(let blog in response.objects) {
+        for(let blog of response.objects) {
             let obj = {
                 title: blog.title,
                 imageUrl: blog.metadata.titlecard.url,

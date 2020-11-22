@@ -1,3 +1,4 @@
+
 export default {
     allBlogsResourceLink: function(count) {
         if(count == null) count = 20;
@@ -5,20 +6,20 @@ export default {
             ?pretty=true
             &hide_metafields=true
             &type=blogs
-            &read_key=2bng6EQVujaDI6yCjX8VTErNFkbcvoTfNJWbi4jKNkBTTycWNc
+            &read_key=${this.getReadKeyToken()}
             &limit=${count}
-            &props=slug,title,content,metadata,`;
+            &props=slug,title,content,metadata,`.replace(/\s/g, '');
     },
     singleBlogResourceLink: function(slug) {
-        if(slug == null) return null;
         return `https://api.cosmicjs.com/v1/mainblog/object/
             ${slug}
             ?pretty=true
             &hide_metafields=true
-            &read_key=2bng6EQVujaDI6yCjX8VTErNFkbcvoTfNJWbi4jKNkBTTycWNc
-            &props=slug,title,content`;
+            &read_key=${this.getReadKeyToken()}
+            &props=slug,title,content,metadata`.replace(/\s/g, '');
     },
-    getSlug() {
-        return this.$route.params.slug;
+    getReadKeyToken() {
+        return "2bng6EQVujaDI6yCjX8VTErNFkbcvoTfNJWbi4jKNkBTTycWNc";
     }
 }
+
