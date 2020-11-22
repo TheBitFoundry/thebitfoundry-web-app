@@ -13,8 +13,6 @@ export default {
             console.log("error", error);
         }
 
-        console.log("Things", blog);
-
         return {
             title: blog.object.title,
             imageUrl: blog.object.metadata.titlecard.url,
@@ -24,21 +22,17 @@ export default {
             slug: blog.object.slug
         }
     },
-    getMultipleBlogs: function(count) {
+    getMultipleBlogs: async function(count) {
         let blogsLink = helper.allBlogsResourceLink(count);
         let response;
         let blogs;
-        let errors;
 
-        axios.get(blogsLink).then(
-            response => {
-                this.response = response.data;
-                console.log(response.data);
-            }
-        ).catch(e => {
-            this.errors.push(e);
-            console.log(errors);
-        })
+        try {
+            let axiosResponse = await axios.get(blogsLink);
+            response = axiosResponse.data;
+        } catch (error) {
+            console.log("error", error)
+        }
 
         for(let blog of response.objects) {
             let obj = {
