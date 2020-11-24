@@ -1174,8 +1174,11 @@ aside {
     color: var(--primary-color);
 }
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 61c0f856b5370aaeaf21c9816c636ddadc0845fa
 .showcase .no-image .card-caption *, .showcase .no-image .card-caption *:not(.btn) {
     color: var(--primary-t-color);
 }
@@ -2471,8 +2474,11 @@ header .navbar-expand .navbar-brand img {
     opacity: 0.5;
 }
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 61c0f856b5370aaeaf21c9816c636ddadc0845fa
 .card:not(.no-hover):hover:before,
 .card:not(.no-hover):hover:after {
     opacity: 0;
@@ -2485,7 +2491,11 @@ header .navbar-expand .navbar-brand img {
 .card:not(.no-hover):hover h3,
 .card:not(.no-hover):hover h4,
 .card:not(.no-hover):hover p {
+<<<<<<< HEAD
     color: #525252;
+=======
+    color: #f5f5f5;
+>>>>>>> 61c0f856b5370aaeaf21c9816c636ddadc0845fa
 }
 
 .card:not(.no-hover):hover span,
@@ -2509,14 +2519,24 @@ header .navbar-expand .navbar-brand img {
 .card:not(.no-hover):hover .icon,
 .card.sticky:not(.no-hover) .icon {
     background-color: transparent;
+<<<<<<< HEAD
     color: #666666;
     -webkit-text-fill-color: #696969;
+=======
+    color: #f5f5f5;
+    -webkit-text-fill-color: #f5f5f5;
+>>>>>>> 61c0f856b5370aaeaf21c9816c636ddadc0845fa
 }
 
 .card:hover .card-footer,
 .card.sticky .card-footer {
+<<<<<<< HEAD
     color: #636363;
     border-color: rgba(255, 255, 255, 0.24);
+=======
+    color: #f5f5f5;
+    border-color: rgba(255, 255, 255, 0.25);
+>>>>>>> 61c0f856b5370aaeaf21c9816c636ddadc0845fa
 }
 
 .card:hover .btn-icon {

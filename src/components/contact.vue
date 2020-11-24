@@ -37,19 +37,31 @@
                                 <!-- Step Title -->
                                 <div class="step-title">
                                     <h2 class="featured alt">Let's Talk?</h2>
+<<<<<<< HEAD
                                     <p>Don't wait until tomorrow. Get in touch today. Connect with the left &amp; right brain duo behind The Bit Foundry, Jess &amp; Caybo.<br/> Use the form or email <strong>team@thebitfoundry.net</strong></p>
+=======
+                                    <p>Don't wait until tomorrow. Talk to one of our consultants today and learn how to start leveraging your business.</p>
+>>>>>>> 61c0f856b5370aaeaf21c9816c636ddadc0845fa
                                 </div>
 
                                 <!-- Step Title -->
                                 <div class="step-title">
                                     <h2 class="featured alt">Almost There</h2>
+<<<<<<< HEAD
                                     <p>We need some important information to understand how we can help you in the best possible way.</p>
+=======
+                                    <p>We need some more important information to better understand how we can help you in the best possible way.</p>
+>>>>>>> 61c0f856b5370aaeaf21c9816c636ddadc0845fa
                                 </div>
 
                                 <!-- Step Title -->
                                 <div class="step-title">
                                     <h2 class="featured alt">Are you Ready?</h2>
+<<<<<<< HEAD
                                     <p>Tell us a little about your project or company.</p>
+=======
+                                    <p>Tell us a little about the project you need to create. This is valuable so that we can direct you to the ideal team.</p>
+>>>>>>> 61c0f856b5370aaeaf21c9816c636ddadc0845fa
                                 </div>
 
                             </div>
