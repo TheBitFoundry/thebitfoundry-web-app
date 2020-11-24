@@ -61,7 +61,7 @@
             }
         },
         async created() {
-            this.blogs = await blogs.getMultipleBlogs(20);
+            this.blogs = await blogs.getMultipleBlogs(100);
         },
         methods: {
             openSingleBlog: function(blog) {

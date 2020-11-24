@@ -55,12 +55,12 @@
                                     <li class="list-group-item">
                                         <a href="#" class="author">
                                             <img src="assets/images/team-1.jpg" alt="Lorem ipsum">
-                                            <h4 class="title">By John Doe</h4>
+                                            <h4 class="title">{{ blog.authorName }}</h4>
                                         </a>
-                                        <p class="biography">I am a fan of motorsport and music and my hobby is to collect miniatures of racing cars.</p>
+                                        <p class="biography">{{ blog.authorBio }}</p>
                                     </li>
                                     <li class="list-group-item d-flex justify-content-between align-items-center">
-                                        <span class="d-lg-flex align-items-center"><i class="icon-clock mr-2"></i>3 Days Ago</span> <span class="badge tag m-0 active">Technology</span>
+                                        <span class="d-lg-flex align-items-center"><i class="icon-clock mr-2"></i>3 Days Ago</span>
                                     </li>
                                 </ul>
                             </div>

@@ -19,7 +19,16 @@ export default {
             excerpt: blog.object.metadata.excerpt,
             categories: blog.object.metadata.categories,
             content: blog.object.content,
-            slug: blog.object.slug
+            slug: blog.object.slug,
+            foundryTag: blog.object.metadata.select_foundry.title||"",
+            dateAuthored: blog.object.metadata.data_authored||"",
+            authorName: blog.object.metadata.select_author.title||"",
+            authorLink: blog.object.metadata.select_author.metadata.author_link||"",
+            authorProfileImageUrl: blog.object.metadata.select_author.metadata.profile_picture.url||"",
+            authorBio: blog.object.metadata.select_author.metadata.author_bio||"",
+            shareLinkedIn: blog.object.metadata.linkedin||"",
+            shareFacebook: blog.object.metadata.facebook||"",
+            shareTwitter: blog.object.metadata.twitter||""
         }
     },
     getMultipleBlogs: async function(count) {
@@ -45,8 +54,10 @@ export default {
                 slug: blog.slug||"",
                 foundryTag: blog.metadata.select_foundry.title||"",
                 dateAuthored: blog.metadata.data_authored||"",
-                author: blog.metadata.author||"",
-                authorLink: blog.metadata.author_link||""
+                authorName: blog.metadata.select_author.title||"",
+                authorLink: blog.metadata.select_author.metadata.author_link||"",
+                authorProfileImageUrl: blog.metadata.select_author.metadata.profile_picture.url||"",
+                authorBio: blog.metadata.select_author.metadata.author_bio||""
             }
             blogs.push(obj);
         }
