@@ -11,10 +11,10 @@
                                 <div class="brand">
                                     <a href="/" class="logo">
                                         The Bit Foundry.
-                                        <!--
-                                            Custom Logo
-                                            <img src="assets/images/logo.svg" alt="Leverage">
-                                        -->
+                                        
+                                            <!-- Custom Logo
+                                            <img src="../img/TheBitFoundry-www.thebitfoundry.net.png" alt="The Bit Foundry"> -->
+                                       
                                     </a>
                                 </div>
                                 <p>Authentic and innovative.<br>We design, build and scale software solutions with a focus on reusability, optimization <br>and performance.</p>
@@ -96,7 +96,7 @@
                                 <a href="#" class="badge tag">Agriculture</a>
                                 <a href="#" class="badge tag">Technology</a>
                                 <a href="#" class="badge tag">Software</a>
-                                <a href="#" class="badge tag">Artificial Intelligence</a>
+                                <a href="#" class="badge tag">AI</a>
                                 <a href="#" class="badge tag">Machine Learning</a>
                                 <a href="#" class="badge tag">Education</a>
                                 <a href="#" class="badge tag">Business</a>
@@ -126,12 +126,14 @@
                 <div class="row">
                     <div class="col-12 col-md-6 p-3 text-center text-lg-left">
                         <p>© 2020 The Bit Foundry</p>
+
+                        
                         <!--
                             Suggestion: Replace the text above with a description of your website.
                          -->
                     </div>
                     <div class="col-12 col-md-6 p-3 text-center text-lg-right">
-                        <p>Proudly coded by <a href="https://codings.dev" target="_blank">Jess &amp; Caybo</a>.</p>
+                        <p>Proudly coded by <a href="#" target="_blank">Jess &amp; Caybo</a>.</p>
                     </div>
                 </div>
             </div>
