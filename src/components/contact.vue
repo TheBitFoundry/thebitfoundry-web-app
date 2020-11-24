@@ -136,31 +136,31 @@
 
                         <!-- Step 1 -->
                         <div class="gallery">
-                            <a class="step-image" data-poster="assets/images/about-2.jpg" href="https://www.youtube.com/watch?v=7e90gBu4pas">
+                            <a class="step-image" data-poster="assets/images/about-2.jpg" href="../../public/img/TheBitHeart-www.thebitfoundry.net-The-Bit-Foundry.png">
                                 <i class="play-video icon-control-play"></i>
                                 <div class="mask-radius"></div>
-                                <img src="assets/images/about-2.jpg" class="fit-image" alt="Contact Us">
+                                <img src="../../public/img/TheBitHeart-www.thebitfoundry.net-The-Bit-Foundry.png" class="fit-image" alt="Contact Us">
                             </a>
                         </div>
 
                         <!-- Step 2 -->
                         <div class="gallery">
                             <a class="step-image" href="assets/images/about-3.jpg">
-                                <img src="assets/images/about-3.jpg" class="fit-image" alt="Contact Us">
+                                <img src="../../public/img/TheBitHeart-www.thebitfoundry.net-The-Bit-Foundry.png" class="fit-image" alt="Contact Us">
                             </a>
                         </div>
 
                         <!-- Step 3 -->
                         <div class="gallery">
                             <a class="step-image" href="assets/images/about-4.jpg">
-                                <img src="assets/images/about-4.jpg" class="fit-image" alt="Contact Us">
+                                <img src="../../public/img/TheBitHeart-www.thebitfoundry.net-The-Bit-Foundry.png" class="fit-image" alt="Contact Us">
                             </a>
                         </div>
 
                         <!-- Step 4 -->
                         <div class="gallery">
                             <a class="step-image" href="assets/images/about-leverage.jpg">
-                                <img src="assets/images/about-leverage.jpg" class="fit-image" alt="Contact Us">
+                                <img src="../../public/img/TheBitHeart-www.thebitfoundry.net-The-Bit-Foundry.png" class="fit-image" alt="Contact Us">
                             </a>
                         </div>
 

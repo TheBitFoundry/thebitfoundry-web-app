@@ -20,33 +20,29 @@
                 <!-- Navbar Items -->
                 <ul class="navbar-nav items">
                     <li class="nav-item dropdown">
-                        <a href="#" class="nav-link">Foundries <i class="icon-arrow-down"></i></a>
+                        <a href="#" class="nav-link">foundries <i class="icon-arrow-down"></i></a>
                             <ul class="dropdown-menu">
-                                <li class="nav-item"><a href="/software" class="nav-link">Software</a></li>
-                                <li class="nav-item"><a href="/aerotechnical" class="nav-link">Aerotechnical</a></li>
-                                <li class="nav-item"><a href="/cleantech" class="nav-link">Clean Tech</a></li>
-                                <li class="nav-item"><a href="/creative" class="nav-link">Creative</a></li>
-                                <li class="nav-item"><a href="/scaleup" class="nav-link">Scale Up</a></li>
-                                <li class="nav-item"><a href="/blockchain" class="nav-link">Blockchain</a></li>
+                                <li class="nav-item"><a href="/software" class="nav-link">software</a></li>
+                                <li class="nav-item"><a href="/aerotechnical" class="nav-link">aerotechnical</a></li>
+                                <li class="nav-item"><a href="/cleantech" class="nav-link">cleantech</a></li>
+                                <li class="nav-item"><a href="/creative" class="nav-link">creative</a></li>
+                                <li class="nav-item"><a href="/scaleup" class="nav-link">scale up</a></li>
+                                <li class="nav-item"><a href="/blockchain" class="nav-link">blockchain</a></li>
                             </ul>
                     </li>
                     <li class="nav-item dropdown">
-                        <a href="#" class="nav-link">Services <i class="icon-arrow-down"></i></a>
+                        <a href="#" class="nav-link">services <i class="icon-arrow-down"></i></a>
                         <ul class="dropdown-menu">
-                            <li class="nav-item"><a href="/services" class="nav-link">Technical</a></li>
-                            <li class="nav-item"><a href="/thecreativebit" class="nav-link">Creative</a></li>
+                            <li class="nav-item"><router-link to="/technical-services" class="nav-link">technical</router-link></li>
+                            <li class="nav-item"><router-link to="/creative-services" class="nav-link">creative</router-link></li>
+                            
                         </ul>
                     </li>
-                    <li class="nav-item dropdown">
-                        <a href="#" class="nav-link">Portfolio <i class="icon-arrow-down"></i></a>
-                        <ul class="dropdown-menu">
-                            <li class="nav-item"><a href="#" class="nav-link">Content+</a></li>
-                            <li class="nav-item"><a href="#" class="nav-link">Content++</a></li>
-                            <li class="nav-item"><a href="#" class="nav-link">Content+++</a></li>
-                        </ul>
+                    <li class="nav-item">
+                        <a href="#" class="nav-link">portfolio</a>
                     </li>
                     <li class="nav-item dropdown">
-                        <a href="#" class="nav-link">Products <i class="icon-arrow-down"></i></a>
+                        <a href="#" class="nav-link">products <i class="icon-arrow-down"></i></a>
                         <ul class="dropdown-menu">
                             <li class="nav-item"><a href="#" class="nav-link">QuickConstruct</a></li>
                             <li class="nav-item"><a href="#" class="nav-link">PayRoute</a></li>
@@ -57,7 +53,7 @@
                         </ul>
                     </li>
                     <li class="nav-item">
-                        <a href="#" class="nav-link">Blog </a>
+                        <a href="#" class="nav-link">blog </a>
                     </li>
                 </ul>
 
@@ -91,7 +87,7 @@
                 <!-- Navbar Action -->
                 <ul class="navbar-nav action">
                     <li class="nav-item ml-3">
-                        <a href="/buy-at-themeforest" target="_blank" class="btn ml-lg-auto dark-button"><i class="icon-rocket"></i>Contact</a>
+                        <a href="#contact" class="btn ml-lg-auto dark-button smooth-anchor" data-aos="zoom-out-up" data-aos-delay="1200"><i class="icon-rocket"></i>Contact</a>
                         <!--
                             Suggestion: Replace the purchase button above with a contact button.
 

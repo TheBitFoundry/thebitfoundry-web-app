@@ -10,14 +10,15 @@
                             <div class="branding col-12 p-3 text-center text-lg-left item">
                                 <div class="brand">
                                     <a href="/" class="logo">
-                                        The Bit Foundry.
+                                        <!-- The Bit Foundry. -->
                                         
-                                            <!-- Custom Logo
-                                            <img src="../img/TheBitFoundry-www.thebitfoundry.net.png" alt="The Bit Foundry"> -->
+                                           <!-- Custom Logo -->
+                                            <img src="../../public/img/BitFoundry-Logo-thebitfoundry-www.thebitfoundry.net.png" alt="The Bit Foundry">
                                        
                                     </a>
                                 </div>
                                 <p>Authentic and innovative.<br>We design, build and scale software solutions with a focus on reusability, optimization <br>and performance.</p>
+
                                 <ul class="navbar-nav social share-list mt-0 ml-auto">
                                     <li class="nav-item">
                                         <a href="https://www.instagram.com/thebitfoundry/" class="nav-link" target="_blank"><i class="icon-social-instagram ml-0"></i></a>
@@ -58,8 +59,9 @@
                                     <li class="nav-item">
                                         <a href="#" class="nav-link">
                                             <i class="icon-location-pin mr-2"></i>
-                                            Kloof, KwaZulu-Natal
-                                            South Africa, RSA 3610
+                                                 Kloof, KwaZulu-Natal
+                                                 <br/>
+                                                 <span style="padding-left:28px;">South Africa, RSA 3610</span>
                                         </a>
                                     </li>
                                     <li class="nav-item">

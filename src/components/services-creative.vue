@@ -1,10 +1,10 @@
 <template>
-    <section id="services" class="section-4 odd offers featured right">
+    <section id="services-creative" class="section-4 odd offers featured right">
         <div class="container">
             <div class="row intro">
                 <div class="col-12 col-md-9 align-self-center text-center text-md-left">
                     <h2 class="featured">Paradise Foundry</h2>
-                    <p>A creative collective playing at the nexus of Art &amp; Science. Paradise Foundry is all about exploring the creative bits of the digital and natural world and the possibilities for your brand, story and business across meta, digital and physical.</p>
+                    <p>A creative collective playing at the nexus of Art &amp; Science. The Creative Foundry is all about exploring the avant-garde and blue-sky brands, business and individuals across meta, subliminal, digital and physical.</p>
                 </div>
                 <!-- <div class="col-12 col-md-3 align-self-end">
                     <a href="#" class="btn mx-auto mr-md-0 ml-md-auto primary-button"><i class="icon-grid"></i>VIEW ALL</a>
@@ -66,6 +66,6 @@
 
 <script>
     export default {
-        name: 'services'
+        name: 'services-creative'
     }
 </script>
