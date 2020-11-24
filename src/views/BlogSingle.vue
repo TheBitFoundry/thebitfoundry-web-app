@@ -7,14 +7,7 @@
                 <main class="col-12 col-lg-8 p-0">
                     <div class="row">
                         <div class="col-12 align-self-center">
-<<<<<<< HEAD
-                            <img :src="blog.imageUrl" alt="somethig"/>
-                            
-                            <h2 class="featured mt-0 ml-0 pt-5 pb-5">{{ blog.title }}</h2>
-
-=======
                             <h2 class="featured mt-0 ml-0">{{ blog.title }}</h2>
->>>>>>> 61c0f856b5370aaeaf21c9816c636ddadc0845fa
                             <div v-html="blog.content"></div>
 
                             <!-- Post Holder -->
