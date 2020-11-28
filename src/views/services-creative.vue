@@ -21,7 +21,6 @@
                             <li>Digital Campaign Planning and Execution</li>
                             <li>Creative Writing and Design</li>
                             <li>Search Engine Optimization</li>
-                            <li>Display Advertising</li>
                             <li>Search Engine Marketing</li>
                             <li>Event Design and Planning</li>
                         </ul>
