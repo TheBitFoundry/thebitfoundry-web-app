@@ -68,6 +68,6 @@
 
 <script>
     export default {
-        name: 'services-technical'
+        name: 'Services-Technical'
     }
 </script>

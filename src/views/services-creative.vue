@@ -68,7 +68,7 @@
     import styleService from "./../resources/style-service";
 
     export default {
-        name: 'services-creative',
+        name: 'Services-Creative',
         mounted() {
             styleService.applyStyling();
         }

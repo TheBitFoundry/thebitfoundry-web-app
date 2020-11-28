@@ -22,19 +22,19 @@
                     <li class="nav-item dropdown">
                         <a href="#" class="nav-link">foundries <i class="icon-arrow-down"></i></a>
                             <ul class="dropdown-menu">
-                                <li class="nav-item"><a href="/software" class="nav-link">software</a></li>
-                                <li class="nav-item"><a href="/aerotechnical" class="nav-link">aerotechnical</a></li>
-                                <li class="nav-item"><a href="/cleantech" class="nav-link">cleantech</a></li>
-                                <li class="nav-item"><a href="/creative" class="nav-link">creative</a></li>
-                                <li class="nav-item"><a href="/scaleup" class="nav-link">scale up</a></li>
-                                <li class="nav-item"><a href="/blockchain" class="nav-link">blockchain</a></li>
+                                <li class="nav-item"><router-link to="/software-foundry" class="nav-link">_software</router-link></li>
+                                <li class="nav-item"><router-link to="aerotechnical-foundry" class="nav-link">_aerotechnical</router-link></li>
+                                <li class="nav-item"><router-link to="/clean-tech-foundry" class="nav-link">_cleantech</router-link></li>
+                                <li class="nav-item"><router-link to="/blockchain-foundry" class="nav-link">_blockchain</router-link></li>
+                                <li class="nav-item"><router-link to="/creative-foundry" class="nav-link">_thecreativebit</router-link></li>
+                                <li class="nav-item"><router-link to="/scale-up-foundry" class="nav-link">_scaleup</router-link></li>
                             </ul>
                     </li>
                     <li class="nav-item dropdown">
                         <a href="#" class="nav-link">services <i class="icon-arrow-down"></i></a>
                         <ul class="dropdown-menu">
-                            <li class="nav-item"><router-link to="/technical-services" class="nav-link">technical</router-link></li>
-                            <li class="nav-item"><router-link to="/creative-services" class="nav-link">creative</router-link></li>
+                            <li class="nav-item"><router-link to="/technical-services" class="nav-link">_technical</router-link></li>
+                            <li class="nav-item"><router-link to="/creative-services" class="nav-link">_creative</router-link></li>
                             
                         </ul>
                     </li>
@@ -50,6 +50,7 @@
                             <li class="nav-item"><a href="#" class="nav-link">_BlueSight </a></li>
                             <li class="nav-item"><a href="#" class="nav-link">_FuturistEdu </a></li>
                             <li class="nav-item"><a href="#" class="nav-link">_RadioWorks </a></li>
+                            <li class="nav-item"><a href="#" class="nav-link">_TyreDev </a></li>
                         </ul>
                     </li>
                     <li class="nav-item">
