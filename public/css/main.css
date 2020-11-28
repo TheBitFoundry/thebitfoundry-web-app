@@ -1083,6 +1083,10 @@ aside {
     filter: brightness(0) invert(1);
 }
 
+.card {
+text-align: left !important;
+}
+
 .showcase.masonry .card {
     background-color: var(--white-color);
     box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.1);
@@ -3801,6 +3805,7 @@ footer .copyright a:not(.btn) {
 
     /* #region Section */
 
+    
     body .container {
         padding: 0 10px;
         max-width: 100%;
@@ -3942,6 +3947,10 @@ footer .copyright a:not(.btn) {
 @media(max-width: 767px) {
 
     /* #region General */
+
+    .festured .row .intro {
+        text-align: left !important;
+    }
 
     body h1,
     body .slide-content .title,
@@ -4257,6 +4266,10 @@ footer .copyright a:not(.btn) {
 @media(max-width: 374px) {
 
     /* #region General */
+
+    .container {
+        text-align: left !important;
+    }
 
     body h1,
     body .slide-content .title,

@@ -4,7 +4,7 @@
             <div class="row intro">
                 <div class="col-12 col-md-9 align-self-center text-center text-md-left">
                     <h2 class="featured">Some of our recent work</h2>
-                    <p>We are both creative and technical and strive to build beautiful and functional solutions for brands and industries.</p>
+                    <p>We are both creative and technical and strive to build beautiful and functional solutions for brands, business and industry.</p>
                 </div>
                 <div class="col-12 col-md-3 align-self-end">
                     <a href="#" class="btn mx-auto mr-md-0 ml-md-auto primary-button"><i class="icon-grid"></i>VIEW ALL</a>
@@ -24,11 +24,11 @@
                 </div>
                 <div class="col-12 col-md-6 col-lg-4 item">
                     <div class="card">
-                        <h4>Mobile Application Development</h4>
-                        <p>We built a complete mobile solution and progressive web app that enables our client to connect with their customers better.</p>
+                        <h4>API &amp; Application Development</h4>
+                        <p>The Bit Foundry worked on UI/UX and data integration for a aerospace platform. We used .NET to deliver a user-friendly interface and a flexible data integration solution. We developed the platform’s front-end and implemented technology to capture aerotechnical information, organize data, and generate reports and rich functionality to the UI.</p>
                         <div class="gallery">
                             <a href="assets/images/work-2.jpg">
-                                <img src="assets/images/work-2.jpg" alt="Abstract Design">
+                                <img src="assets/images/work-2.jpg" alt="Riserware">
                             </a>
                         </div>
                     </div>
