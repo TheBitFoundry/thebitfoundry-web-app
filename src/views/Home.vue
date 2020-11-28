@@ -20,6 +20,7 @@
   import Partner from "@/components/partner.vue";
   // import Contact from "@/components/contact.vue";
   import BlogSection from "@/components/blog-section.vue";
+  import styleService from "./../resources/style-service";
   //
   export default {
     name: 'Home',
@@ -32,6 +33,9 @@
       Partner,
       // Contact,
       BlogSection
+    },
+    mounted() {
+      styleService.applyStyling();
     }
   };
 </script>

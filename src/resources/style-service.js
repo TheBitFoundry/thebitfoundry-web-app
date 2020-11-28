@@ -1,8 +1,14 @@
 export default {
-    styleRoutes: [{
-        routeSlug: "creative-services",
-        theme: "theme-light-blue"
-    }],
+    name: 'styleService',
+    styleRoutes: [
+        {
+            routeSlug: "creative-services",
+            theme: "theme-light-blue"
+        },
+        {
+            routeSlug: "", //home page.
+            theme: "theme-light-green"
+        }],
     applyStyling: function() {
         let lastUrlSegment = document.location.href
             .substring(document.location.href
