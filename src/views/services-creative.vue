@@ -66,7 +66,12 @@
 </template>
 
 <script>
+    import styleService from "./../resources/style-service";
+
     export default {
-        name: 'services-creative'
+        name: 'services-creative',
+        mounted() {
+            styleService.applyStyling();
+        }
     }
 </script>
