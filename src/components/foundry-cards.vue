@@ -4,7 +4,7 @@
             <div class="row intro">
                 <div class="col-12 col-md-9 align-self-center text-center text-md-left">
                     <h2 class="featured">Meet The Bit Foundry</h2>
-                    <p>With a focused on results we strive to level up with our partners, clients and customers. We are passionate about freedom, adventure, science, art, software &amp; clean technology.</p>
+                    <p>With a focused on results we strive to level up with our partners, clients and customers. We are passionate about freedom, software, design, science, adventure &amp; clean technology.</p>
                 </div>
                 <!-- <div class="col-12 col-md-3 align-self-end">
                     <a href="#" class="btn mx-auto mr-md-0 ml-md-auto primary-button"><i class="icon-grid"></i>VIEW ALL</a>
@@ -14,8 +14,8 @@
                 <div class="col-12 col-md-6 col-lg-4 item">
                     <div class="card featured">
                         <i class="icon icon-mustache"></i>
-                        <h4>The Bit Foundry</h4>
-                        <p>The Bit Foundry is home to various software products and services. The Bit Foundry is a software first foundry that supports products, clients and partners with their AI, data, software and technology requirements. We build APIs, mobile apps, professional responsive websites and E-Commerce solutions optimized for our clients needs.</p>
+                        <h4>Bit Foundry</h4>
+                        <p>The Bit Foundry is home to various software products and services. The Bit Foundry is a software first foundry that supports products, clients and partners with their AI, data, software and technology requirements. We build APIs, mobile apps, professional responsive websites and Ecommerce solutions optimized for our clients needs.</p>
                         <!-- <a href="#"><i class="btn-icon icon-arrow-right-circle"></i></a> -->
                     </div>
                 </div>
@@ -38,8 +38,8 @@
                 <div class="col-12 col-md-6 col-lg-4 item">
                     <div class="card">
                         <i class="icon icon-chemistry"></i>
-                        <h4>Paradise Foundry</h4>
-                        <p>Paradise Foundry is our creative collective playing at the nexus of Art &amp; Science. Working in the realm where logic and creativity meet our creative team takes the lead on all things art, design, production, writing, marketing, advertising and media distribution.</p>
+                        <h4>Creative Foundry</h4>
+                        <p>our Creative Foundry is a collective playing at the nexus of Art &amp; Science. Working in the realm where logic and creativity meet our creative team takes the lead on all things art, design, production, writing, marketing, advertising and media distribution.</p>
                         <!-- <a href="#"><i class="btn-icon icon-arrow-right-circle"></i></a> -->
                     </div>
                 </div>
@@ -54,8 +54,8 @@
                 <div class="col-12 col-md-6 col-lg-4 item">
                     <div class="card featured">
                         <i class="icon icon-docs"></i>
-                        <h4>The Blockchain Foundry</h4>
-                        <p>The Blockchain Foundry works with corpoates, government and institutions to develop blockchain solutions that improve transparency, security and accessibility across various domains.</p>
+                        <h4>Blockchain Foundry</h4>
+                        <p>The Blockchain Foundry works with corporate, government and institutions to develop blockchain solutions that improve transparency, security and accessibility across various domains.</p>
                         <!-- <a href="#"><i class="btn-icon icon-arrow-right-circle"></i></a> -->
                     </div>
                 </div>

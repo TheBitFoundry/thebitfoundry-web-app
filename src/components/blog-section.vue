@@ -3,7 +3,7 @@
         <div data-aos="zoom-in" data-aos-delay="200" data-aos-anchor="body" class="container">
             <div class="row content blog-grid masonry">
                 <main class="col-12 p-0">
-                    <div v-for="blog in blogs" v-bind:key="blog.title" class="bricklayer items columns-4" style="width: 33.30% !important; float: left !important; padding:10px;">
+                    <div v-for="blog in blogs" v-bind:key="blog.title" class=" blog-item bricklayer items columns-4">
                         <div class="card p-0 text-center item">
                             <div class="image-over">
                                 <img :src="blog.imageUrl" alt="Lorem ipsum">
@@ -49,6 +49,25 @@
     </section>
 </template>
 
+<style>
+
+.blog-item {
+    width: 33.30% !important; 
+    float: left !important; 
+    padding:10px;
+}
+
+@media(max-width: 767px) {
+
+.blog-item {
+width: 100% !important; 
+float: left !important; 
+padding:10px;
+
+} }
+
+</style>
+
 <script>
     import blogs from "../resources/blogs";
 
@@ -74,3 +93,4 @@
     };
 
 </script>
+
