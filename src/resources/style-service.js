@@ -6,6 +6,26 @@ export default {
             theme: "theme-light-blue"
         },
         {
+            routeSlug: "creative-foundry",
+            theme: "theme-light-blue"
+        },
+        {
+            routeSlug: "aerotechnical-foundry",
+            theme: "theme-blue"
+        },
+        {
+            routeSlug: "clean-tech-foundry",
+            theme: "theme-yellow"
+        },
+        {
+            routeSlug: "blockchain-foundry",
+            theme: "theme-orange"
+        },
+        {
+            routeSlug: "scale-up-foundry",
+            theme: "theme-pink"
+        },
+        {
             routeSlug: "", //home page.
             theme: "theme-light-green"
         }],

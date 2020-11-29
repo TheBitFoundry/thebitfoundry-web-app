@@ -24,7 +24,13 @@
 </template>
 
 <script>
+
+    import StyleServices from "./../resources/style-service"
+    
     export default {
-        name: 'Clean Tech Foundry'
+        name: 'Clean Tech Foundry',
+        mounted () {
+            StyleServices.applyStyling();
+        }
     }
 </script>
