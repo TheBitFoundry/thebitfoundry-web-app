@@ -19,7 +19,6 @@ export default {
             let obj = {
                 title: item.title||"",
                 content: item.content||"",
-                imageUrl: item.metadata.titlecard.url||"",
                 excerpt: item.metadata.excerpt||"",
                 projectTags: item.metadata.select_project_tags||"",
             }
@@ -31,7 +30,7 @@ export default {
 
     },
     getAllPortfolioTags: async function() {
-        let portfolioTagsLink = helper.allPortfolioItemsResourceLink();
+        let portfolioTagsLink = helper.allPortfolioItemTagsResourceLink();
         let response;
         let projectTags = [];
 
@@ -46,10 +45,6 @@ export default {
             console.log("portfolio service", item)
             let obj = {
                 title: item.title||"",
-                content: item.content||"",
-                imageUrl: item.metadata.titlecard.url||"",
-                excerpt: item.metadata.excerpt||"",
-                projectTags: item.metadata.select_project_tags||"",
             }
             projectTags.push(obj);
         }

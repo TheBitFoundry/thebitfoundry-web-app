@@ -11,21 +11,13 @@
                     <div class="row justify-content-center text-center">
                         <div class="col-12">
                             <div class="btn-group btn-group-toggle" data-toggle="buttons">
-                                <label class="btn active">
+                                <label v-for="item in this.projectTags" v-bind:key="item.title" class="btn">
                                     <input type="radio" value="all" checked class="btn-filter-item">
-                                    <span>All</span>
-                                </label>
-                                <label class="btn">
-                                    <input type="radio" value="software" class="btn-filter-item">
-                                    <span>Software</span>
-                                </label>
-                                <label class="btn">
-                                    <input type="radio" value="creative" class="btn-filter-item">
-                                    <span>Creative</span>
+                                    <span>{{ item.title }}</span>
                                 </label>
                             </div>
                         </div>
-                    </div>                  
+                    </div>
                     <div class="row items filter-items">
                        <div class="col-12 col-md-6 col-lg-4 item filter-item" data-groups='["technology","branding"]'>
                             <div class="row card p-0 text-center">
@@ -42,9 +34,9 @@
                                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
                                     </div>
                                 </div>
-                            </div> 
+                            </div>
                         </div>
-                    
+
                         <div class="col-1 filter-sizer"></div>
                     </div>
                 </div>
@@ -73,22 +65,22 @@
                 </div>
             </div>
 
-        </section>    
+        </section>
 </template>
 
 <style>
 
 .blog-item {
-    width: 33.30% !important; 
-    float: left !important; 
+    width: 33.30% !important;
+    float: left !important;
     padding:10px;
 }
 
 @media(max-width: 767px) {
 
 .blog-item {
-width: 100% !important; 
-float: left !important; 
+width: 100% !important;
+float: left !important;
 padding:10px;
 
 } }
@@ -96,26 +88,18 @@ padding:10px;
 </style>
 
 <script>
-    import blogs from "../resources/blogs";
-
     export default {
-        name: 'blog-section',
-        data() {
-            return {
-                blogs: [],
-                errors: []
+        name: 'portfolio-section',
+        props: {
+            projects: {
+                type: Array
+            },
+            projectTags: {
+                type: Array
             }
         },
-        async created() {
-            this.blogs = await blogs.getMultipleBlogs(100);
-        },
-        methods: {
-            openSingleBlog: function(blog) {
-                this.$router.push({
-                    name: 'Blogs',
-                    params: { slug: blog.slug }
-                });
-            }
+        mounted() {
+            console.log(this.projectTags);
         }
     };
 

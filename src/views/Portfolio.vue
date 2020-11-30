@@ -1,5 +1,8 @@
 <template>
-    <portfolio-section></portfolio-section>
+    <portfolio-section
+            v-bind:projects="portfolioItems"
+            v-bind:projectTags="portfolioTags">
+    </portfolio-section>
 </template>
 
 <script>
@@ -9,11 +12,14 @@
         name: 'portfolio-page',
         data() {
             return {
-                portfolioItems: []
+                portfolioItems: [],
+                portfolioTags: []
             }
         },
         async mounted() {
-            this.portfolioItems = await portfolioService.getAllPortfolioItems()
+            // this.portfolioItems = await portfolioService.getAllPortfolioItems()
+            //     .then(response => console.log(response))
+            this.portfolioTags = await portfolioService.getAllPortfolioTags();
         },
 
         components: {
