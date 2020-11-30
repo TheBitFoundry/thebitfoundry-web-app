@@ -1,12 +1,12 @@
 <template>
-    <section id="blog" class="section-1 showcase blog-grid masonry news">
-        <div data-aos="zoom-in" data-aos-delay="200" data-aos-anchor="body" class="container">
+    <section id="blog-section" class="section-1 showcase blog-grid masonry news">
+        <div data-aos="zoom-in" data-aos-delay="6" data-aos-anchor="body" class="container">
             <div class="row content blog-grid masonry">
                 <main class="col-12 p-0">
                     <div v-for="blog in blogs" v-bind:key="blog.title" class=" blog-item bricklayer items columns-4">
                         <div class="card p-0 text-center item">
                             <div class="image-over">
-                                <img :src="blog.imageUrl" alt="Lorem ipsum">
+                                <img :src="blog.imageUrl" alt="The Bit Foundry">
                             </div>
                             <div class="card-caption col-12 p-0">
                                 <div class="card-body">

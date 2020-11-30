@@ -20,6 +20,14 @@
                 <!-- Navbar Items -->
                 <ul class="navbar-nav items">
                     <li class="nav-item dropdown">
+                        <a href="#" class="nav-link">services <i class="icon-arrow-down"></i></a>
+                        <ul class="dropdown-menu">
+                            <li class="nav-item"><router-link to="/technical-services" class="nav-link">_technical</router-link></li>
+                            <li class="nav-item"><router-link to="/creative-services" class="nav-link">_creative</router-link></li>
+                            
+                        </ul>
+                    </li>
+                    <li class="nav-item dropdown">
                         <a href="#" class="nav-link">foundries <i class="icon-arrow-down"></i></a>
                             <ul class="dropdown-menu">
                                 <li class="nav-item"><router-link to="/software-foundry" class="nav-link">_software</router-link></li>
@@ -31,30 +39,22 @@
                             </ul>
                     </li>
                     <li class="nav-item dropdown">
-                        <a href="#" class="nav-link">services <i class="icon-arrow-down"></i></a>
-                        <ul class="dropdown-menu">
-                            <li class="nav-item"><router-link to="/technical-services" class="nav-link">_technical</router-link></li>
-                            <li class="nav-item"><router-link to="/creative-services" class="nav-link">_creative</router-link></li>
-                            
-                        </ul>
-                    </li>
-                    <li class="nav-item">
-                        <a href="#" class="nav-link">portfolio</a>
-                    </li>
-                    <li class="nav-item dropdown">
                         <a href="#" class="nav-link">products <i class="icon-arrow-down"></i></a>
                         <ul class="dropdown-menu">
-                            <li class="nav-item"><a href="#" class="nav-link">_QuickConstruct</a></li>
-                            <li class="nav-item"><a href="#" class="nav-link">_PayRoute</a></li>
-                            <li class="nav-item"><a href="#" class="nav-link">_Riserware</a></li>
-                            <li class="nav-item"><a href="#" class="nav-link">_BlueSight </a></li>
-                            <li class="nav-item"><a href="#" class="nav-link">_FuturistEdu </a></li>
-                            <li class="nav-item"><a href="#" class="nav-link">_RadioWorks </a></li>
-                            <li class="nav-item"><a href="#" class="nav-link">_TyreDev </a></li>
+                            <li class="nav-item"><a href="#" class="nav-link">_quickconstruct</a></li>
+                            <li class="nav-item"><a href="#" class="nav-link">_payroute</a></li>
+                            <li class="nav-item"><a href="#" class="nav-link">_riserware</a></li>
+                            <li class="nav-item"><a href="#" class="nav-link">_bluesight </a></li>
+                            <li class="nav-item"><a href="#" class="nav-link">_futuristedu </a></li>
+                            <li class="nav-item"><a href="#" class="nav-link">_radioworks </a></li>
+                            <li class="nav-item"><a href="#" class="nav-link">_tyreDev </a></li>
                         </ul>
                     </li>
                     <li class="nav-item">
-                        <a href="#" class="nav-link">blog </a>
+                        <router-link to="/portfolio" class="nav-link">portfolio</router-link>
+                    </li>
+                     <li class="nav-item">
+                         <router-link to="/blog" class="nav-link">blog</router-link>
                     </li>
                 </ul>
 

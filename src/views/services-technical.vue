@@ -67,7 +67,12 @@
 </template>
 
 <script>
+    import styleService from "./../resources/style-service";
+
     export default {
-        name: 'Services-Technical'
+        name: 'Services-Technical',
+        mounted() {
+            styleService.applyStyling();
+        }
     }
 </script>

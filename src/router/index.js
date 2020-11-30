@@ -1,6 +1,7 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
 import Home from '../views/Home.vue'
+import Blog from "../views/Blog"
 import BlogSingle from "../views/BlogSingle"
 import ServicesCreative from "../views/Services-Creative"
 import ServicesTechnical from "../views/Services-Technical"
@@ -18,6 +19,11 @@ const routes = [
     path: '/',
     name: 'Home',
     component: Home
+  },
+  {
+    path: '/blog',
+    name: 'Blog',
+    component: Blog
   },
   {
     path: '/blogs/:slug',
@@ -48,14 +54,9 @@ const routes = [
     component: FoundryAerotechnical
   },
   {
-    path: '/aerotechnical-foundry',
-    name: 'Aerotechnical',
-    component: FoundryAerotechnical
-  },
-  {
     path: '/blockchain-foundry',
     name: 'Blockchain',
-    component: FoundryBlockchain
+    component: FoundryBlockchain,
   },
   {
     path: '/clean-tech-foundry',
@@ -84,3 +85,4 @@ const router = new VueRouter({
 })
 
 export default router
+
