@@ -29,6 +29,24 @@ export default {
     },
     getReadKeyToken() {
         return "2bng6EQVujaDI6yCjX8VTErNFkbcvoTfNJWbi4jKNkBTTycWNc";
+    },
+    allPortfolioItemsResourceLink: function() {
+        return `https://api.cosmicjs.com/v1/mainblog/objects
+        ?pretty=true
+        &hide_metafields=true
+        &type=projects
+        &read_key=${this.getReadKeyToken()}
+        &limit=20
+        &props=slug,title,content,metadata,`.replace(/\s/g, '');
+    },
+    allPortfolioItemTagsResourceLink: function() {
+        return `https://api.cosmicjs.com/v1/mainblog/objects
+        ?pretty=true
+        &hide_metafields=true
+        &type=project-tags
+        &read_key=${this.getReadKeyToken()}
+        &limit=20
+        &props=slug,title,content,metadata,`.replace(/\s/g, '');
     }
 }
 

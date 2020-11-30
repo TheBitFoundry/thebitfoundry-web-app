@@ -17,8 +17,8 @@
   // import Skills from "@/components/skills.vue";
   // import VideoComponent from "@/components/video-component.vue";
   // import Portfolio from "@/components/portfolio.vue";
-  import ServicesTechnical from "@/components/services-technical.vue";
-  import ServicesCreative from "@/components/services-creative.vue";
+  import ServicesTechnical from "@/components/Services-Technical.vue";
+  import ServicesCreative from "@/components/Services-Creative.vue";
   import Partner from "@/components/partner.vue";
   // import Contact from "@/components/contact.vue";
   import BlogSection from "@/components/blog-section.vue";

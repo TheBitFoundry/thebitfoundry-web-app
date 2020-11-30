@@ -1,16 +1,17 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
 import Home from '../views/Home.vue'
-import Blog from "../views/Blog"
-import BlogSingle from "../views/BlogSingle"
-import ServicesCreative from "../views/Services-Creative"
-import ServicesTechnical from "../views/Services-Technical"
-import FoundryAerotechnical from "../views/Foundry-Aerotechnical"
-import FoundryBlockchain from "../views/Foundry-Blockchain"
-import FoundryCleanTech from "../views/Foundry-Clean-Tech"
-import FoundryCreative from "../views/Foundry-Creative"
-import FoundryScaleUp from "../views/Foundry-Scale-Up"
-import FoundrySoftware from "../views/Foundry-Software"
+import Blog from '../views/Blog'
+import BlogSingle from '../views/BlogSingle'
+import ServicesCreative from '../views/Services-Creative'
+import ServicesTechnical from '../views/Services-Technical'
+import FoundryAerotechnical from '../views/Foundry-Aerotechnical'
+import FoundryBlockchain from '../views/Foundry-Blockchain'
+import FoundryCleanTech from '../views/Foundry-Clean-Tech'
+import FoundryCreative from '../views/Foundry-Creative'
+import FoundryScaleUp from '../views/Foundry-Scale-Up'
+import FoundrySoftware from '../views/Foundry-Software'
+import PortfolioPage from '../views/Portfolio';
 
 Vue.use(VueRouter)
 
@@ -19,6 +20,11 @@ const routes = [
     path: '/',
     name: 'Home',
     component: Home
+  },
+  {
+    path: '/portfolio',
+    name: 'Portfolio',
+    component: PortfolioPage
   },
   {
     path: '/blog',
