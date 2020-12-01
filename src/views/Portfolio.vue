@@ -17,8 +17,7 @@
             }
         },
         async mounted() {
-            // this.portfolioItems = await portfolioService.getAllPortfolioItems()
-            //     .then(response => console.log(response))
+            this.portfolioItems = await portfolioService.getAllPortfolioItems();
             this.portfolioTags = await portfolioService.getAllPortfolioTags();
         },
 

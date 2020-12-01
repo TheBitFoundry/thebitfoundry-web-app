@@ -11,31 +11,34 @@
                     <div class="row justify-content-center text-center">
                         <div class="col-12">
                             <div class="btn-group btn-group-toggle" data-toggle="buttons">
-                                <label v-for="item in this.projectTags" v-bind:key="item.title" class="btn">
-                                    <input type="radio" value="all" checked class="btn-filter-item">
+                                <label v-for="item in this.projectTags"
+                                       v-bind:key="item.title" class="btn">
+
+                                    <input type="radio" :value="item.title" class="btn-filter-item">
                                     <span>{{ item.title }}</span>
                                 </label>
                             </div>
                         </div>
                     </div>
                     <div class="row items filter-items">
-                       <div class="col-12 col-md-6 col-lg-4 item filter-item" data-groups='["technology","branding"]'>
+                       <div class="col-12 col-md-6 col-lg-4 item filter-item" v-for="project in projects"
+                            v-bind:key="project.title">
                             <div class="row card p-0 text-center">
                                 <div class="gallery">
                                     <a href="assets/images/news-8-h.jpg" class="image-over">
-                                        <img src="assets/images/news-8-h.jpg" alt="Lorem ipsum">
+                                        <img :src="project.imageUrl" alt="The BitFoundry">
                                     </a>
                                 </div>
                                 <div class="card-caption col-12 p-0">
                                     <div class="card-body">
-                                        <h4 class="m-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</h4>
+                                        <h4 class="m-0">{{ project.title }}</h4>
                                     </div>
                                     <div class="card-footer d-lg-flex align-items-center justify-content-center">
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
+                                        <p>{{ project.excerpt }}</p>
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                       </div>
 
                         <div class="col-1 filter-sizer"></div>
                     </div>
@@ -90,6 +93,12 @@ padding:10px;
 <script>
     export default {
         name: 'portfolio-section',
+        data() {
+            return {
+                projectTagArray: [],
+                displayProjectTags: []
+            }
+        },
         props: {
             projects: {
                 type: Array
@@ -98,8 +107,23 @@ padding:10px;
                 type: Array
             }
         },
+        watch: {
+            projectTags: function() {
+                this.projectTags.forEach(f => {
+                    this.displayProjectTags.push(f.title);
+                    console.log(f.title);
+                });
+            }
+        },
         mounted() {
-            console.log(this.projectTags);
+            this.displayProjectTags = this.projectTags;
+        },
+        computed: {
+            pullTagsFromProject: function(project) {
+                const tags = [];
+                project.projectTags.forEach(f => tags.push(f.title));
+                return tags;
+            }
         }
     };
 

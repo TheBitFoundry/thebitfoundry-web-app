@@ -15,12 +15,12 @@ export default {
         }
 
         for(let item of response.objects) {
-            console.log("portfolio service", item)
             let obj = {
                 title: item.title||"",
                 content: item.content||"",
                 excerpt: item.metadata.excerpt||"",
                 projectTags: item.metadata.select_project_tags||"",
+                imageUrl: item.metadata.image.url||""
             }
             projectItems.push(obj);
         }
@@ -42,7 +42,6 @@ export default {
         }
 
         for(let item of response.objects) {
-            console.log("portfolio service", item)
             let obj = {
                 title: item.title||"",
             }
