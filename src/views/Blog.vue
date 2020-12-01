@@ -1,5 +1,10 @@
 <template>
+  <div class="align-self-center text-center">
+                    <h2 class="featured">Latest blog posts</h2>
+                    <p>We are both creative and technical and strive to build beautiful and functional solutions for brands, business and industry.</p>
+            </div>
        <BlogSection></BlogSection>
+  </div>
 </template>
 
 <style>

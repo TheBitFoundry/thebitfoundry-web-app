@@ -3,7 +3,7 @@
         <div class="container">
             <div class="row intro">
                 <div class="col-12 col-md-9 align-self-center text-center text-md-left">
-                    <h2 class="featured">Some of our recent work</h2>
+                    <h2 class="featured">Some of our recent projects</h2>
                     <p>We are both creative and technical and strive to build beautiful and functional solutions for brands, business and industry.</p>
                 </div>
                 <div class="col-12 col-md-3 align-self-end">
