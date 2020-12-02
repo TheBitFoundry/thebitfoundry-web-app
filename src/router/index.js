@@ -11,7 +11,9 @@ import FoundryCleanTech from '../views/Foundry-Clean-Tech'
 import FoundryCreative from '../views/Foundry-Creative'
 import FoundryScaleUp from '../views/Foundry-Scale-Up'
 import FoundrySoftware from '../views/Foundry-Software'
-import PortfolioPage from '../views/Portfolio';
+import PortfolioPage from '../views/Portfolio'
+import PortfolioItemTemplate from '../views/portfolio-items/Portfolio-Item-Template'
+import AgapeLuxury from '../views/portfolio-items/Agape-Luxury';
 
 Vue.use(VueRouter)
 
@@ -83,6 +85,16 @@ const routes = [
     path: '/software-foundry',
     name: 'Software',
     component: FoundrySoftware
+  },
+  {
+    path: '/portfolio/portfolio-item-template',
+    name: 'Portfolio Item Template',
+    component: PortfolioItemTemplate
+  },
+  {
+    path: '/portfolio/agape-luxury',
+    name: 'Agape Luxury',
+    component: AgapeLuxury
   }
 ]
 

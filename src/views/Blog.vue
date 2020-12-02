@@ -1,10 +1,34 @@
 <template>
-  <div class="align-self-center text-center">
-                    <h2 class="featured">Latest blog posts</h2>
-                    <p>We are both creative and technical and strive to build beautiful and functional solutions for brands, business and industry.</p>
+<div>
+    <!-- Hero -->
+        <section id="slider" class="hero p-0 odd featured">
+            <div class="swiper-container no-slider slider-h-75">
+                <div class="swiper-wrapper">
+
+                    <!-- Item 1 -->
+                    <div class="swiper-slide slide-center">
+                        
+                        <!-- <img src="assets/images/bg-5.jpg" class="full-image" data-mask="70"> -->
+                        
+                        <div class="slide-content row text-center">
+                            <div class="col-12 mx-auto inner">
+                                <h1 data-aos="zoom-out-up" data-aos-delay="400" class="title effect-static-text">Blog Posts</h1>
+                                <nav data-aos="zoom-out-up" data-aos-delay="800" aria-label="breadcrumb">
+                                    <ol class="breadcrumb">
+                                        <li class="breadcrumb-item"><a href="/#demos">Home</a></li>
+                                        <li class="breadcrumb-item active" aria-current="page">Blog</li>
+                                    </ol>
+                                    <p class="breadcrumb-item active">We are both creative and technical and strive to build beautiful and functional solutions for brands, business and industry.</p>
+                                </nav>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
-       <BlogSection></BlogSection>
-  </div>
+        </section>
+    <BlogSection></BlogSection>
+</div>
+
 </template>
 
 <style>

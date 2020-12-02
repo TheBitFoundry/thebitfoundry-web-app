@@ -1,4 +1,5 @@
 <template>
+<div>
     <section id="portfolio" class="section-3 odd offers secondary featured left">
         <div class="container">
             <div class="row intro">
@@ -202,7 +203,7 @@
             </div>
         </section>
     </section>
-   
+</div>   
 </template>
 
 <script>

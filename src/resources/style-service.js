@@ -2,6 +2,10 @@ export default {
     name: 'styleService',
     styleRoutes: [
         {
+            routeSlug: "agape-luxury",
+            theme: "theme-white"
+        },
+        {
             routeSlug: "creative-services",
             theme: "theme-light-blue"
         },
