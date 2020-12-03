@@ -43,7 +43,6 @@
                                         <li>consulting</li>
                                         <li>blockchain development</li>
                                         <li>application development</li>
-                                        <li>website development</li>
                                         <li>custom integrations</li>
                                     </ul>
                                 </p>
