@@ -21,9 +21,11 @@
                         </div>
                     </div>
                     <div class="row items filter-items">
+                        <!-- Portfolio Item -->
                        <div class="col-12 col-md-6 col-lg-4 item filter-item" v-for="project in projects"
-                            v-bind:key="project.title">
-                            <div class="row card p-0 text-center">
+                            v-bind:key="project.title"
+                            :data-groups="pullTagsFromProject(project)">
+                            <div class="row card p-0 text-center" style="margin-bottom: 100px;">
                                 <div class="gallery">
                                     <a href="assets/images/news-8-h.jpg" class="image-over">
                                         <img :src="project.imageUrl" alt="The BitFoundry">
@@ -39,34 +41,35 @@
                                 </div>
                             </div>
                        </div>
+                        <!-- END -- Portfolio Item -->
 
                         <div class="col-1 filter-sizer"></div>
                     </div>
                 </div>
             </div>
 
-            <div class="row">
-                <div class="col-12">
-                    <nav>
-                        <ul class="pagination justify-content-center">
-                            <li class="page-item">
-                                <a class="page-link" href="#" tabindex="-1">
-                                    <i class="icon-arrow-left"></i>
-                                </a>
-                            </li>
-                            <li class="page-item"><a class="page-link" href="#">1</a></li>
-                            <li class="page-item"><a class="page-link" href="#">2</a></li>
-                            <li class="page-item active"><a class="page-link" href="#">3</a></li>
-                            <li class="page-item"><a class="page-link" href="#">4</a></li>
-                            <li class="page-item">
-                                <a class="page-link" href="#">
-                                    <i class="icon-arrow-right"></i>
-                                </a>
-                            </li>
-                        </ul>
-                    </nav>
-                </div>
-            </div>
+<!--            <div class="row">-->
+<!--                <div class="col-12">-->
+<!--                    <nav>-->
+<!--                        <ul class="pagination justify-content-center">-->
+<!--                            <li class="page-item">-->
+<!--                                <a class="page-link" href="#" tabindex="-1">-->
+<!--                                    <i class="icon-arrow-left"></i>-->
+<!--                                </a>-->
+<!--                            </li>-->
+<!--                            <li class="page-item"><a class="page-link" href="#">1</a></li>-->
+<!--                            <li class="page-item"><a class="page-link" href="#">2</a></li>-->
+<!--                            <li class="page-item active"><a class="page-link" href="#">3</a></li>-->
+<!--                            <li class="page-item"><a class="page-link" href="#">4</a></li>-->
+<!--                            <li class="page-item">-->
+<!--                                <a class="page-link" href="#">-->
+<!--                                    <i class="icon-arrow-right"></i>-->
+<!--                                </a>-->
+<!--                            </li>-->
+<!--                        </ul>-->
+<!--                    </nav>-->
+<!--                </div>-->
+<!--            </div>-->
 
         </section>
 </template>
@@ -109,6 +112,7 @@ padding:10px;
         },
         watch: {
             projectTags: function() {
+                this.displayProjectTags = [];
                 this.projectTags.forEach(f => {
                     this.displayProjectTags.push(f.title);
                     console.log(f.title);
@@ -119,10 +123,21 @@ padding:10px;
             this.displayProjectTags = this.projectTags;
         },
         computed: {
+        },
+        methods: {
             pullTagsFromProject: function(project) {
-                const tags = [];
-                project.projectTags.forEach(f => tags.push(f.title));
-                return tags;
+                let startSegment = '["';
+                let endSegment = "\"]";
+                let tags = []
+                project.projectTags.forEach(f => {
+                    tags.push(f.title)
+                });
+                return startSegment.concat(tags.join("\",\""), endSegment);
+            },
+            DoThingsInAWhile: function (project) {
+                console.log(document.getElementById(project.title));
+                document.getElementById(project.title).setAttribute("data-groups", "asdf");
+                console.log("hello from the other side...")
             }
         }
     };
