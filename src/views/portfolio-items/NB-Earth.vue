@@ -18,7 +18,7 @@
                                     <ol class="breadcrumb">
                                         <li class="breadcrumb-item"><a href="/">home</a></li>
                                         <li class="breadcrumb-item"><a href="/portfolio">portfolio</a></li>
-                                        <li class="breadcrumb-item active" aria-current="page">agape luxury</li>
+                                        <li class="breadcrumb-item active" aria-current="page">nb earth</li>
                                     </ol>
                                 </nav>
                             </div>
@@ -36,13 +36,14 @@
                         <div class="row intro mb-0">
                             <div class="col-12 p-0">
                                 <h2 class="featured">overview</h2>
-                                <p>Agape is a fashion art brand exploring reality, spirituality, love, truth, science, stoicism, philosophy and fortitude in the age of technocracy and digital disruption.</p>
+                                <p>NB Earth is a decentralized blockchain solution and sustainable development initiative advocating for investment in clean tech, conservation and sustainable design in Africa. The project is launching in 2021 and is dedicated to contributing to a smart sustainable world by supporting sustainable development and conservation across the continent.</p>
                                 <h2>scope</h2>
                                 <p class="featured breadcrumb-item active">
                                     <ul class="text-left">
-                                        <li>eCommerce development</li>
-                                        <li>graphic design</li>
-                                        <li>custom integrations</li>
+                                        <li>consulting</li>
+                                        <li>blockchain development</li>
+                                        <li>digital asset creation</li>
+                                        <li>social media management</li>
                                     </ul>
                                 </p>
                             </div>
@@ -71,10 +72,10 @@
                     <div class="col-12 col-md-6 pl-md-5 align-self-center text-center text-md-left">
                         <div class="row intro mb-0">
                             <div class="col-12 p-0">
-                                <h2 class="featured">the creative bit</h2>
-                                <p>Seeing agape come together from concept to creation was a project close to our hearts. We are excited to grow with and support the brand and agape team on their endevours.</p>
-                                <blockquote>Agape (Ancient Greek ἀγάπη, agapē) is a Greco-Christian term referring to unconditional love, "the highest form of love, charity".</blockquote>
-                                <p>See the project: <a href="www.agape.luxury" target="_blank">Agape Luxury</a></p>
+                                <h2 class="featured">the blockchain bit</h2>
+                                <p>Operating in energy, health and sustainability areana, NB Earth is an initiative worth learning about.</p>
+                                <blockquote>NB earth is literally building trust. We are dedicated to prioritising our environment in the digital age and dedicated to long-term prosperity, health and growth. We are passionate about science, technology, the environment and human KIND.</blockquote>
+                                <p>See the project: <a href="www.nbearth.com" target="_blank">NB Earth Initiative</a></p>
                             </div>
                         </div>
                     </div>
@@ -90,9 +91,7 @@
                         <div class="row intro mb-0">
                             <div class="col-12 p-0">
                                 <h2 class="featured">services</h2>
-                                <p>We built the agape website from the ground up in the most beautiful and functional way so that it made a statement about the agape brand and enabled them to start telling their story. The website is a starting point for a story to be told, a clean eCommerce solution with social media integration and all relevant information related to agape products, the brand and their projects all accessible and presented in one centralised hub.</p>
-                                <blockquote>"Thank you team for our awesome website, we love it and so do our customers"
-                                - Agape Team</blockquote>
+                                <p>Finding the balance for human, business and environmental sucess is no easy task. We are proud to be working on a solution that enables and supports companies and NGOs that want to make a positive impact and promote the use of industry leading technology across multiple sectors.</p>
                             </div>
                         </div>
                     </div>
