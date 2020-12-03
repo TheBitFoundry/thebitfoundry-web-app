@@ -4,7 +4,7 @@
     <!-- <VideoComponent></VideoComponent> -->
     <BlogSection></BlogSection>
     <Skills></Skills>
-    <Portfolio></Portfolio>
+    <PortfolioSectionStatic></PortfolioSectionStatic>
     <FoundryCards></FoundryCards>
     <Partner></Partner>
     <!-- <Contact></Contact> -->
@@ -15,12 +15,13 @@
   import Slider from "@/components/slider.vue";
   import Skills from "@/components/skills.vue";
   // import VideoComponent from "@/components/video-component.vue";
-  import Portfolio from "@/components/portfolio.vue";
+  // import Portfolio from "@/components/portfolio.vue";
   import FoundryCards from "@/components/foundry-cards.vue";
   import Partner from "@/components/partner.vue";
   // import Contact from "@/components/contact.vue";
   import BlogSection from "@/components/blog-section.vue";
   import styleService from "./../resources/style-service";
+  import PortfolioSectionStatic from "../components/portfolio-section-static.vue";
   //
   export default {
     name: 'Home',
@@ -28,11 +29,12 @@
       Slider,
       Skills,
       // VideoComponent,
-      Portfolio,
+      // Portfolio,
       FoundryCards,
       Partner,
       // Contact,
-      BlogSection
+      BlogSection,
+      PortfolioSectionStatic,
     },
     mounted() {
       styleService.applyStyling();
