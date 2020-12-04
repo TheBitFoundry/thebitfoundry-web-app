@@ -16,7 +16,7 @@
                         <i class="icon icon-mustache"></i>
                         <h4>Bit Foundry</h4>
                         <p>The Bit Foundry is home to various software products and services. The Bit Foundry is a software first foundry that supports products, clients and partners with their AI, data, software and technology requirements. We build APIs, mobile apps, professional responsive websites and Ecommerce solutions optimized for our clients needs.</p>
-                        <a href="/software-foundry"><i class="btn-icon icon-arrow-right-circle"></i></a>
+                        <router-link to="/software-foundry"><i class="btn-icon icon-arrow-right-circle"></i></router-link>
                     </div>
                 </div>
                 <div class="col-12 col-md-6 col-lg-4 item">

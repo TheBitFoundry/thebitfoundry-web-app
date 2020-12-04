@@ -23,28 +23,28 @@
             </div>
 
             <!-- Pagination -->
-            <div class="row">
-                <div class="col-12">
-                    <nav>
-                        <ul class="pagination justify-content-center">
-                            <li class="page-item">
-                                <a class="page-link" href="#" tabindex="-1">
-                                    <i class="icon-arrow-left"></i>
-                                </a>
-                            </li>
-                            <li class="page-item"><a class="page-link" href="#">1</a></li>
-                            <li class="page-item"><a class="page-link" href="#">2</a></li>
-                            <li class="page-item active"><a class="page-link" href="#">3</a></li>
-                            <li class="page-item"><a class="page-link" href="#">4</a></li>
-                            <li class="page-item">
-                                <a class="page-link" href="#">
-                                    <i class="icon-arrow-right"></i>
-                                </a>
-                            </li>
-                        </ul>
-                    </nav>
-                </div>
-            </div>
+<!--            <div class="row">-->
+<!--                <div class="col-12">-->
+<!--                    <nav>-->
+<!--                        <ul class="pagination justify-content-center">-->
+<!--                            <li class="page-item">-->
+<!--                                <a class="page-link" href="#" tabindex="-1">-->
+<!--                                    <i class="icon-arrow-left"></i>-->
+<!--                                </a>-->
+<!--                            </li>-->
+<!--                            <li class="page-item"><a class="page-link" href="#">1</a></li>-->
+<!--                            <li class="page-item"><a class="page-link" href="#">2</a></li>-->
+<!--                            <li class="page-item active"><a class="page-link" href="#">3</a></li>-->
+<!--                            <li class="page-item"><a class="page-link" href="#">4</a></li>-->
+<!--                            <li class="page-item">-->
+<!--                                <a class="page-link" href="#">-->
+<!--                                    <i class="icon-arrow-right"></i>-->
+<!--                                </a>-->
+<!--                            </li>-->
+<!--                        </ul>-->
+<!--                    </nav>-->
+<!--                </div>-->
+<!--            </div>-->
         </div>
     </section>
 </template>
@@ -52,16 +52,16 @@
 <style>
 
 .blog-item {
-    width: 33.30% !important; 
-    float: left !important; 
+    width: 33.30% !important;
+    float: left !important;
     padding:10px;
 }
 
 @media(max-width: 767px) {
 
 .blog-item {
-width: 100% !important; 
-float: left !important; 
+width: 100% !important;
+float: left !important;
 padding:10px;
 
 } }
