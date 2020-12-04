@@ -19,10 +19,9 @@
                           <ul>
                             <li>Brand Development and Storytelling</li>
                             <li>Digital Campaign Planning and Execution</li>
-                            <li>Creative Writing and Design</li>
-                            <li>Search Engine Optimization</li>
-                            <li>Search Engine Marketing</li>
-                            <li>Event Design and Planning</li>
+                            <li>Creative Direction</li>
+                            <li>Graphic Design</li>
+                            <li>Motion Graphics</li>
                         </ul>
                         <!-- <a href="#"><i class="btn-icon icon-arrow-right-circle"></i></a> -->
                     </div>
@@ -33,11 +32,11 @@
                         <h4>Social Media &amp; Campaign Marketing</h4>
                         <p>We are experts in the field of SEO, Google ranking and Google advertising. We help businesses and brands target their ideal clients and generate leads through optimized account and campaign management solutions.</p>
                         <ul>
-                            <li>Targeted and Paid Adertising</li>
-                            <li>Digital Campaign Planning and Execution</li>
-                            <li>Creative Writing and Design</li>
-                            <li>Search Engine Optimization</li>
+                            <li>Targeted and Paid Advertising</li>
+                            <li>Social Media Management</li>
                             <li>Display Advertising</li>
+                            <li>Copywriting</li>
+                            <li>Search Engine Optimization</li>
                             <li>Search Engine Marketing</li>
                         </ul>
                         <!-- <a href="#"><i class="btn-icon icon-arrow-right-circle"></i></a> -->

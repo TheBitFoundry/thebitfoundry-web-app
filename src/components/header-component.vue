@@ -2,7 +2,7 @@
     <header id="header">
 
         <!-- Navbar -->
-        <nav data-aos="zoom-out" data-aos-delay="800" class="navbar navbar-expand">
+        <nav class="navbar navbar-expand">
             <div class="container header">
 
                 <!-- Navbar Brand-->
@@ -24,7 +24,7 @@
                         <ul class="dropdown-menu">
 
                             <li class="nav-item"><router-link to="/technical-services" onclick="makeItJazzy();" v-on:click="reloadFunc()" class="nav-link">_technical</router-link></li>
- 
+
                             <li class="nav-item"><router-link to="/creative-services" onclick="makeItJazzy();" class="nav-link">_creative</router-link>
                             </li>
                         </ul>
@@ -119,7 +119,7 @@
 <style scoped>
     @media screen and (max-width: 420px) {
         #search {
-            display: none;            
+            display: none;
         }
     }
 </style>
