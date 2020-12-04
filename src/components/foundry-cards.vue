@@ -24,7 +24,7 @@
                         <i class="icon icon-plane"></i>
                         <h4>Aerotechnical Foundry</h4>
                         <p>The Aerotechical Foundry works with partners to explore and exibit aerosports opportunity, electric aircrafts and VTOL concepts and provide products and services pertaining to air freight logistics, aerosports and recreation. Some products include sports management systems, air transport logistics solutions, training and booking systems and indoor skydiving wind tunnel technology.</p>
-                        <a href="/aerotechnical-foundry"><i class="btn-icon icon-arrow-right-circle"></i></a>
+                        <router-link to="/aerotechnical-foundry"><i class="btn-icon icon-arrow-right-circle"></i></router-link>
                     </div>
                 </div>
                 <div class="col-12 col-md-6 col-lg-4 item">
@@ -32,7 +32,7 @@
                         <i class="icon icon-power"></i>
                         <h4>Clean Tech Foundry</h4>
                         <p>The Clean Tech Foundry is passionate about energy innovation, sustainable design and building systems and solutions that optimize agriculture, health and energy efficiency. Together with our partners we prioritize solar, construction automation and off-grid projects.</p>
-                        <a href="/clean-tech-foundry"><i class="btn-icon icon-arrow-right-circle"></i></a>
+                        <router-link to="/clean-tech-foundry"><i class="btn-icon icon-arrow-right-circle"></i></router-link>
                     </div>
                 </div>
                 <div class="col-12 col-md-6 col-lg-4 item">
@@ -40,7 +40,7 @@
                         <i class="icon icon-chemistry"></i>
                         <h4>Creative Foundry</h4>
                         <p>The Creative Foundry is a collective playing at the nexus of Art &amp; Science. Working in the realm where logic and creativity meet the creative foundry takes the lead on all things brand, design, marketing and media.</p>
-                        <a href="/creative-foundry"><i class="btn-icon icon-arrow-right-circle"></i></a>
+                        <router-link to="/creative-foundry"><i class="btn-icon icon-arrow-right-circle"></i></router-link>
                     </div>
                 </div>
                 <div class="col-12 col-md-6 col-lg-4 item">
@@ -48,7 +48,7 @@
                         <i class="icon icon-chart"></i>
                         <h4>Scale Up Foundry</h4>
                         <p>The Scale up Foundry supports entreprenuers and SMEs via strategic partnerships, cutting edge web and software solutions, hackathons and events. We help businesses scale.</p>
-                        <a href="/scale-up-foundry"><i class="btn-icon icon-arrow-right-circle"></i></a>
+                        <router-link to="/scale-up-foundry"><i class="btn-icon icon-arrow-right-circle"></i></router-link>
                     </div>
                 </div>
                 <div class="col-12 col-md-6 col-lg-4 item">
@@ -56,7 +56,7 @@
                         <i class="icon icon-docs"></i>
                         <h4>Blockchain Foundry</h4>
                         <p>The Blockchain Foundry works with corporate, government and institutions to develop blockchain solutions that improve transparency, security and accessibility across various domains.</p>
-                        <a href="/blockchain-foundry"><i class="btn-icon icon-arrow-right-circle"></i></a>
+                        <router-link to="/blockchain-foundry"><i class="btn-icon icon-arrow-right-circle"></i></router-link>
                     </div>
                 </div>
             </div>
