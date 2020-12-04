@@ -11,7 +11,7 @@
                             <div class="left align-self-center text-center text-md-left">
                                 <h1 data-aos="zoom-out-up" data-aos-delay="400" class="title effect-static-text">Welcome</h1>
                                 <p data-aos="zoom-out-up" data-aos-delay="800" class="description">We are a creative technology foundry providing cutting edge software, AI, data &amp; design solutions.</p>
-                                <a href="#contact" data-aos="zoom-out-up" data-aos-delay="1200" class="smooth-anchor ml-auto mr-auto ml-md-0 mt-4 btn dark-button"><i class="icon-cup"></i>GET STARTED</a>
+                                <a href="mailto:info@thebitfoundry.net" data-aos="zoom-out-up" data-aos-delay="1200" class="ml-auto mr-auto ml-md-0 mt-4 btn dark-button"><i class="icon-cup"></i>GET STARTED</a>
                             </div>
                         </div>
                     </div>

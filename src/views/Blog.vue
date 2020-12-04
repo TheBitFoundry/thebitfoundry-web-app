@@ -18,7 +18,7 @@
                                         <li class="breadcrumb-item"><a href="/#demos">Home</a></li>
                                         <li class="breadcrumb-item active" aria-current="page">Blog</li>
                                     </ol>
-                                    <p class="breadcrumb-item active">We are both creative and technical and strive to build beautiful and functional solutions for brands, business and industry.</p>
+                                    <!-- <p class="breadcrumb-item active"></p> -->
                                 </nav>
                             </div>
                         </div>

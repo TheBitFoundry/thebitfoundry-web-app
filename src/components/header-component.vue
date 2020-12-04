@@ -22,16 +22,18 @@
                     <li class="nav-item dropdown">
                         <a href="#" class="nav-link">services <i class="icon-arrow-down"></i></a>
                         <ul class="dropdown-menu">
-                            <li class="nav-item"><router-link to="/technical-services" class="nav-link">_technical</router-link></li>
-                            <li class="nav-item"><router-link to="/creative-services" class="nav-link">_creative</router-link></li>
-                            
+
+                            <li class="nav-item"><router-link to="/technical-services" onclick="makeItJazzy();" v-on:click="reloadFunc()" class="nav-link">_technical</router-link></li>
+ 
+                            <li class="nav-item"><router-link to="/creative-services" onclick="makeItJazzy();" class="nav-link">_creative</router-link>
+                            </li>
                         </ul>
                     </li>
                     <li class="nav-item dropdown">
                         <a href="#" class="nav-link">foundries <i class="icon-arrow-down"></i></a>
                             <ul class="dropdown-menu">
-                                <li class="nav-item"><router-link to="/software-foundry" class="nav-link">_software</router-link></li>
-                                <li class="nav-item"><router-link to="aerotechnical-foundry" class="nav-link">_aerotechnical</router-link></li>
+                                <li class="nav-item"><router-link to="/software-foundry" onclick="makeItJazzy();"  class="nav-link">_software</router-link></li>
+                                <li class="nav-item"><router-link to="aerotechnical-foundry" onclick="makeItJazzy();" class="nav-link">_aerotechnical</router-link></li>
                                 <li class="nav-item"><router-link to="/clean-tech-foundry" class="nav-link">_cleantech</router-link></li>
                                 <li class="nav-item"><router-link to="/blockchain-foundry" class="nav-link">_blockchain</router-link></li>
                                 <li class="nav-item"><router-link to="/creative-foundry" class="nav-link">_thecreativebit</router-link></li>
@@ -51,16 +53,16 @@
                         </ul>
                     </li>
                     <li class="nav-item">
-                        <router-link to="/portfolio" class="nav-link">portfolio</router-link>
+                        <router-link to="/portfolio" onclick="makeItJazzy();" class="nav-link">portfolio</router-link>
                     </li>
                      <li class="nav-item">
-                         <router-link to="/blog" class="nav-link">blog</router-link>
+                         <router-link to="/blog" class="nav-link" onclick="makeItJazzy();" data-dismiss="modal">blog</router-link>
                     </li>
                 </ul>
 
                 <!-- Navbar Icons -->
                 <ul class="navbar-nav icons">
-                    <li class="nav-item">
+                    <li class="nav-item" id="search">
                         <a href="#" class="nav-link" data-toggle="modal" data-target="#search">
                             <i class="icon-magnifier"></i>
                         </a>
@@ -104,6 +106,20 @@
 
 <script>
     export default {
-        name: 'header-component'
+        name: 'header-component',
+        methods: {
+            reloadFunc: function() {
+                console.log("BastardTriggered;");
+                // this.document.location.reload();
+            }
+        }
     }
 </script>
+
+<style scoped>
+    @media screen and (max-width: 420px) {
+        #search {
+            display: none;            
+        }
+    }
+</style>

@@ -53,7 +53,7 @@
                         <p>The Bit Foundry is working closely with NGO's to build a blockchain solution that builds trust and transparency into conservation, education and clean technology investment initiatives for corpoarte and government.</p>
                         <div class="gallery">
                             <a href="./portfolio/Agape-Luxury">
-                                <img src="../../public/img/Portfolio/fashiontech-thebitfoundry.net.png" alt="Agape Luxury">
+                                <img src="#" alt="Agape Luxury">
                             </a>
                         </div>
                     </div>
@@ -72,7 +72,7 @@
                 <div class="col-12 col-md-6 col-lg-4 item">
                     <div class="card featured">
                         <h4>InsureTech</h4>
-                        <p>We create a facility design and building model for a Modern Activity Center</p>
+                        <p>We built a custom solution for the insurance industry customizing a suitable solution for optimized policy management.</p>
                         <div class="gallery">
                             <a href="assets/images/work-3.jpg">
                                 <img src="assets/images/work-3.jpg" alt="Tyre Dev">

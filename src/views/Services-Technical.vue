@@ -4,7 +4,7 @@
             <div class="row intro">
                 <div class="col-12 col-md-9 align-self-left text-left text-md-left">
                     <h2 class="featured">Technical Services</h2>
-                    <p>The Bit Foundry, lead by Caybo &amp; Jessica, is a team of highly skilled creative technologists and engineers that specialize in digital strategy consulting, product development, design, data management and software. The Bit Foundry is especially interested in developing solutions for effective data management and using software and machine intelligence to improve business, process, produce. product and quality of life. </p>
+                    <p>The Bit Foundry, lead by Caybo &amp; Jess, is a team of highly skilled creative technologists and engineers that specialize in digital strategy consulting, product development, design, data management and software. The Bit Foundry is especially interested in developing solutions for effective data management and using software and machine intelligence to improve business, process, produce. product and quality of life. </p>
                 </div>
                 <!-- <div class="col-12 col-md-3 align-self-end">
                     <a href="#" class="btn mx-auto mr-md-0 ml-md-auto primary-button"><i class="icon-grid"></i>VIEW ALL</a>
@@ -22,7 +22,7 @@
                             <li>API Development</li>
                             <li>Custom Software Development</li>
                             <li>Dev-Ops Implemenatations</li>
-                            <li>Ecommerce Website Development</li>
+                            <li>eCommerce Website Development</li>
                             <li>Web and Cloud Hosting</li>
                             <li>Application Support</li>
                         </ul>
@@ -40,7 +40,7 @@
                             <li>IT Consulting</li>
                             <li>Software and SaaS Consulting</li>
                             <li>CRM Consulting</li>
-                            <li>Ecommerce Consulting</li>
+                            <li>eCommerce Consulting</li>
                         </ul>
                         <!-- <a href="#"><i class="btn-icon icon-arrow-right-circle"></i></a> -->
                     </div>
