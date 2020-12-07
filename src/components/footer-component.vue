@@ -45,13 +45,13 @@
                                 <h4 class="title">Get in Touch</h4>
                                 <ul class="navbar-nav">
                                     <li class="nav-item">
-                                        <a href="#" class="nav-link">
+                                        <a href="tel:+27832349009" class="nav-link">
                                             <i class="icon-phone mr-2"></i>
                                             (+27) 83 234 9009
                                         </a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="#" class="nav-link">
+                                        <a href="mailto:info@thebitfoundry.net" class="nav-link">
                                             <i class="icon-envelope mr-2"></i>
                                             info@thebitfoundry.net
                                         </a>
@@ -65,7 +65,7 @@
                                         </a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="#contact" class="mt-4 mr-auto ml-auto ml-lg-0 btn dark-button smooth-anchor"><i class="icon-speech"></i>SEND A MESSAGE</a>
+                                        <a href="mailto:info@thebitfoundry.net" class="mt-4 mr-auto ml-auto ml-lg-0 btn dark-button smooth-anchor"><i class="icon-speech"></i>EMAIL US</a>
                                     </li>
                                 </ul>
                             </div>
