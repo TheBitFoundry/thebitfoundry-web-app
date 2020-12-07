@@ -14,7 +14,7 @@
                                 <a href="mailto:info@thebitfoundry.net" data-aos="zoom-out-up" data-aos-delay="1200" class=" ml-auto mr-auto ml-md-0 mt-4 btn dark-button"><i class="icon-social-github"></i>Work with us</a>
                                 <a href="https://www.instagram.com/thebitfoundry/" target="_blank" data-aos="zoom-out-up" data-aos-delay="1200" class="ml-auto mr-auto ml-md-0 mt-4 btn dark-button"><i class="icon-social-instagram"></i> @thebitfoundry</a>
                                 <a href="https://www.facebook.com/thebitfoundry/" target="_blank" data-aos="zoom-out-up" data-aos-delay="1200" class="ml-auto mr-auto ml-md-0 mt-4 btn dark-button"><i class="icon-social-facebook"></i> @thebitfoundry</a>
-                                <a href="https://www.twitter.com/realbitfoundry/" target="_blank" data-aos="zoom-out-up" data-aos-delay="1200" class="ml-auto mr-auto ml-md-0 mt-4 btn dark-button"><i class="icon-social-twitter"></i> @thebitfoundry</a>
+                                <a href="https://www.twitter.com/realbitfoundry/" target="_blank" data-aos="zoom-out-up" data-aos-delay="1200" class="ml-auto mr-auto ml-md-0 mt-4 btn dark-button"><i class="icon-social-twitter"></i> @realbitfoundry</a>
                                 <a href="https://www.linkedin.com/company/the-bit-foundry/" target="_blank" data-aos="zoom-out-up" data-aos-delay="1200" class="ml-auto mr-auto ml-md-0 mt-4 btn dark-button"><i class="icon-social-linkedin"></i> The Bit Foundry</a>
                             </div>
                         </div>
@@ -34,7 +34,7 @@
     import ServicesTechnical from "./Services-Technical"
     
     export default {
-        name: 'Software Foundry',
+        name: 'software-foundry',
         components: {
             ServicesTechnical
         },
