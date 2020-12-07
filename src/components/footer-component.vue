@@ -117,7 +117,7 @@
                          -->
                     </div>
                     <div class="col-12 col-md-6 p-3 text-center text-lg-right">
-                        <p>Proudly coded by <a href="#" target="_blank">Jess &amp; Caybo</a>.</p>
+                        <p>Proudly coded by <a href="https://www.linkedin.com/in/jessica-k/" target="_blank">Jess &amp; Caybo</a></p>
                     </div>
                 </div>
             </div>

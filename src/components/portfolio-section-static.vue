@@ -8,7 +8,7 @@
                     <p>We are both creative and technical and strive to build beautiful and functional solutions for brands, business and industry.</p>
                 </div>
 <!--                &lt;!&ndash; <div class="col-12 col-md-3 align-self-end">-->
-<!--                    <a href="#" class="btn mx-auto mr-md-0 ml-md-auto primary-button"><i class="icon-grid"></i>VIEW ALL</a>-->
+<!--                    <a href=git pg"#" class="btn mx-auto mr-md-0 ml-md-auto primary-button"><i class="icon-grid"></i>VIEW ALL</a>-->
 <!--                </div> &ndash;&gt;-->
             </div>
             <div class="row justify-content-center text-center items">
