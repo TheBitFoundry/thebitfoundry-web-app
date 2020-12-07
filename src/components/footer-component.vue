@@ -72,31 +72,14 @@
                             <div class="col-12 col-lg-4 p-3 text-center text-lg-left item">
                                 <h4 class="title">Our Services</h4>
                                 <ul class="navbar-nav">
-                                    <li class="nav-item">
-                                        <a href="#" class="nav-link">Software Development</a>
-                                    </li>
-                                    <li class="nav-item">
-                                        <a href="#" class="nav-link">Application Development</a>
-                                    </li>
-                                    <li class="nav-item">
-                                        <a href="#" class="nav-link">Machine Learning</a>
-                                    </li>
-                                    <li class="nav-item">
-                                        <a href="#" class="nav-link">Product Engineering</a>
-                                    </li>
-                                    <li class="nav-item">
-                                        <a href="#" class="nav-link">Branding and Design</a>
-                                    </li>
-                                    <li class="nav-item">
-                                        <a href="#" class="nav-link">SEO and Digital Marketing</a>
-                                    </li>
+                                        <li class="nav-item"><router-link to="/technical-services" onclick="makeItJazzy();"  class="nav-link">_technical</router-link></li>
+                                         <li class="nav-item"><router-link to="/creative-services" onclick="makeItJazzy();"  class="nav-link">_creative</router-link></li>
                                 </ul>
                             </div>
                             <div class="col-12 col-lg-4 p-3 text-center text-lg-left item">
                                 <h4 class="title">Popular Tags</h4>
                                 <a href="#" class="badge tag">Mobile</a>
                                 <a href="#" class="badge tag">Agriculture</a>
-                                <a href="#" class="badge tag">Technology</a>
                                 <a href="#" class="badge tag">Software</a>
                                 <a href="#" class="badge tag">AI</a>
                                 <a href="#" class="badge tag">Machine Learning</a>
@@ -106,7 +89,6 @@
                                 <a href="#" class="badge tag">Automation</a>
                                 <a href="#" class="badge tag">Clean Technology</a>
                                 <a href="#" class="badge tag">Aerospace</a>
-                                <a href="#" class="badge tag">Aerosport</a>
                                 <a href="#" class="badge tag">Design</a>
                                 <a href="#" class="badge tag">Creative</a>
                                 <a href="#" class="badge tag">Finance</a>
