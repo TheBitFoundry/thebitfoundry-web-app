@@ -31,7 +31,7 @@
                     <div class="card">
                         <i class="icon icon-power"></i>
                         <h4>Clean Tech Foundry</h4>
-                        <p>The Clean Tech Foundry is passionate about energy innovation, sustainable design and building systems and solutions that optimize agriculture, health and energy efficiency. Together with our partners we prioritize solar, construction automation and off-grid projects.</p>
+                        <p>The Clean Tech Foundry is passionate about clean energy innovation, sustainable design and building systems and solutions that optimize agriculture, health and energy efficiency. Together with our partners we work on solar, construction automation, private and commercial projects.</p>
                         <router-link to="/clean-tech-foundry" onclick="makeItJazzy();"><i class="btn-icon icon-arrow-right-circle"></i></router-link>
                     </div>
                 </div>

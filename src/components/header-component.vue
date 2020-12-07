@@ -34,22 +34,24 @@
                             <ul class="dropdown-menu">
                                 <li class="nav-item"><router-link to="/software-foundry" onclick="makeItJazzy();"  class="nav-link">_software</router-link></li>
                                 <li class="nav-item"><router-link to="aerotechnical-foundry" onclick="makeItJazzy();" class="nav-link">_aerotechnical</router-link></li>
-                                <li class="nav-item"><router-link to="/clean-tech-foundry" class="nav-link">_cleantech</router-link></li>
-                                <li class="nav-item"><router-link to="/blockchain-foundry" class="nav-link">_blockchain</router-link></li>
-                                <li class="nav-item"><router-link to="/creative-foundry" class="nav-link">_thecreativebit</router-link></li>
-                                <li class="nav-item"><router-link to="/scale-up-foundry" class="nav-link">_scaleup</router-link></li>
+                                <li class="nav-item"><router-link to="/clean-tech-foundry" onclick="makeItJazzy();"  class="nav-link">_cleantech</router-link></li>
+                                <li class="nav-item"><router-link to="/blockchain-foundry" onclick="makeItJazzy();"  class="nav-link">_blockchain</router-link></li>
+                                <li class="nav-item"><router-link to="/creative-foundry" onclick="makeItJazzy();"  class="nav-link">_thecreativebit</router-link></li>
+                                <li class="nav-item"><router-link to="/scale-up-foundry" onclick="makeItJazzy();"  class="nav-link">_scaleup</router-link></li>
                             </ul>
                     </li>
                     <li class="nav-item dropdown">
                         <a href="#" class="nav-link">products <i class="icon-arrow-down"></i></a>
                         <ul class="dropdown-menu">
                             <li class="nav-item"><a href="#" class="nav-link">_quickconstruct</a></li>
-                            <li class="nav-item"><a href="#" class="nav-link">_payroute</a></li>
                             <li class="nav-item"><a href="#" class="nav-link">_riserware</a></li>
                             <li class="nav-item"><a href="#" class="nav-link">_bluesight </a></li>
-                            <li class="nav-item"><a href="#" class="nav-link">_futuristedu </a></li>
+                            <li class="nav-item"><a href="#" class="nav-link">_tyredev </a></li>
+                            <li class="nav-item"><a href="#" class="nav-link">_instantecommerce</a></li>
+                            <li class="nav-item"><a href="#" class="nav-link">_omnidesk </a></li>
+                            <!-- <li class="nav-item"><a href="#" class="nav-link">_futuristedu </a></li>
                             <li class="nav-item"><a href="#" class="nav-link">_radioworks </a></li>
-                            <li class="nav-item"><a href="#" class="nav-link">_tyreDev </a></li>
+                            <li class="nav-item"><a href="#" class="nav-link">_payroute</a></li> -->
                         </ul>
                     </li>
                     <li class="nav-item">

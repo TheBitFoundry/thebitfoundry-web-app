@@ -28,9 +28,9 @@
                         <h4>API &amp; Application Development</h4>
                         <p>The Bit Foundry worked on UI/UX and data integration for a aerospace platform. We used .NET to deliver a user-friendly interface and a flexible data integration solution. We developed the platform’s front-end and implemented technology to capture aerotechnical information, organize data, and generate reports and rich functionality to the UI.</p>
                         <div class="gallery">
-<!--                            <a href="assets/images/work-2.jpg">-->
-<!--                                <img src="assets/images/work-2.jpg" alt="Riserware">-->
-<!--                            </a>-->
+                            <a href="assets/images/work-2.jpg">
+                                <img src="assets/images/work-2.jpg" alt="Riserware">
+                            </a>
                         </div>
                     </div>
                 </div>
@@ -39,9 +39,9 @@
                         <h4>Custom CRM Development</h4>
                         <p>We worked closely with a client to develop a custom CRM solution for their business needs. We build software that integrates with business operation allowing companies to operate more effectively, manage risk and save costs.</p>
                         <div class="gallery">
-<!--                            <a href="assets/images/work-3.jpg">-->
-<!--                                <img src="assets/images/work-3.jpg" alt="BitLogistics">-->
-<!--                            </a>-->
+                            <a href="assets/images/work-3.jpg">-->
+                                <img src="assets/images/work-3.jpg" alt="BitLogistics">
+                            </a>
                         </div>
                     </div>
                 </div>
@@ -52,9 +52,9 @@
                         <h4>dApp &amp; Blockchain Development</h4>
                         <p>The Bit Foundry is working closely with NGO's to build a blockchain solution that builds trust and transparency into conservation, education and clean technology investment initiatives for corpoarte and government.</p>
                         <div class="gallery">
-<!--                            <a href="./portfolio/Agape-Luxury">-->
-<!--                                <img src="#" alt="Agape Luxury">-->
-<!--                            </a>-->
+                            <a href="./portfolio/Agape-Luxury">
+                                <img src="#" alt="Agape Luxury">
+                            </a>
                         </div>
                     </div>
                 </div>
@@ -63,9 +63,9 @@
                         <h4>Mobile &amp; Application Development</h4>
                         <p>We recently build a clean project management web application for the construction industry. We used .NET to deliver a user-friendly interface and effective accounting solution. We developed the platform’s front-end and implemented technology to capture project information, manage data, and generate reports for effective project management.</p>
                         <div class="gallery">
-<!--                            <a href="assets/images/work-2.jpg">-->
-<!--                                <img src="assets/images/work-2.jpg" alt="Riserware">-->
-<!--                            </a>-->
+                            <a href="assets/images/work-2.jpg">
+                                <img src="assets/images/work-2.jpg" alt="Riserware">
+                            </a>
                         </div>
                     </div>
                 </div>
@@ -74,9 +74,9 @@
                         <h4>InsureTech</h4>
                         <p>We built a custom solution for the insurance industry customizing a suitable solution for optimized policy management.</p>
                         <div class="gallery">
-<!--                            <a href="assets/images/work-3.jpg">-->
-<!--                                <img src="assets/images/work-3.jpg" alt="Tyre Dev">-->
-<!--                            </a>-->
+                            <a href="assets/images/work-3.jpg">
+                                <img src="assets/images/work-3.jpg" alt="Tyre Dev">
+                           </a>
                         </div>
                     </div>
                 </div>

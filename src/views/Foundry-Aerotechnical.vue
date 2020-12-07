@@ -10,8 +10,13 @@
                         <div class="col-12 d-flex inner">
                             <div class="left align-self-center text-center text-md-left">
                                 <h5 data-aos="zoom-out-up" data-aos-delay="400" class="title effect-static-text">aero-technical</h5>
-                                <p data-aos="zoom-out-up" data-aos-delay="800" class="description">We do stuff</p>
-                                <a href="mailto:aerotechnical@thebitfoundry.net" data-aos="zoom-out-up" data-aos-delay="1200" class="ml-auto mr-auto ml-md-0 mt-4 btn dark-button"><i class="icon-plane"></i>Lets Fly</a>
+                                <p data-aos="zoom-out-up" data-aos-delay="800" class="description">The Flight Foundry aka The Adventure Foundry is all about our spirit of adventure. We work on projects and products for industry leaders in aero-sport, aerospace, indoor skydiving, VTOL and electric aviation. Join our <a href="https://www.instagram.com/theflightfoundry/" target="_blank"> #odysseytoflight</a></p>
+                                <a href="mailto:aerotechnical@thebitfoundry.net" target="_black" data-aos="zoom-out-up" data-aos-delay="1200" class="ml-auto mr-auto ml-md-0 mt-4 btn dark-button"><i class="icon-plane"></i>Email us</a>
+                               <a href="https://www.instagram.com/theflightfoundry/" target="_black" data-aos="zoom-out-up" data-aos-delay="1200" class="ml-auto mr-auto ml-md-0 mt-4 btn dark-button"><i class="icon-social-instagram"></i> @theflighfoundry</a>
+                                <a href="https://www.facebook.com/theflightfoundry/" target="_black" data-aos="zoom-out-up" data-aos-delay="1200" class="ml-auto mr-auto ml-md-0 mt-4 btn dark-button"><i class="icon-social-facebook"></i> @theflighfoundry</a>
+                                <a href="https://www.facebook.com/theflightfoundry/" target="_black" data-aos="zoom-out-up" data-aos-delay="1200" class="ml-auto mr-auto ml-md-0 mt-4 btn dark-button"><i class="icon-social-twitter"></i> @flighfoundry</a>
+                                <a href="https://www.facebook.com/theflightfoundry/" target="_black" data-aos="zoom-out-up" data-aos-delay="1200" class="ml-auto mr-auto ml-md-0 mt-4 btn dark-button"><i class="icon-social-linkedin"></i> The Flight Foundry</a>
+                                <a href="https://www.facebook.com/theflightfoundry/" target="_black" data-aos="zoom-out-up" data-aos-delay="1200" class="ml-auto mr-auto ml-md-0 mt-4 btn dark-button"><i class="icon-social-linkedin"></i> Indoor Skydiving Academy</a>
                             </div>
                         </div>
                     </div>

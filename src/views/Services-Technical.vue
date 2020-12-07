@@ -37,7 +37,7 @@
                          <ul>
                             <li>UX and UI Design Consulting</li>
                             <li>Prototyping</li>
-                            <li>IT Consulting</li>
+                            <li>IT & Architecture Consulting</li>
                             <li>Software and SaaS Consulting</li>
                             <li>CRM Consulting</li>
                             <li>eCommerce Consulting</li>
@@ -56,7 +56,7 @@
                             <li>Data Processing and Management</li>
                             <li>CRMs and Business Technology</li>
                             <li>Mobile Solution Development</li>
-                            <li>Tracking and Tracing</li>
+                            <li>Tracking Solutions</li>
                         </ul>
                         <!-- <a href="#"><i class="btn-icon icon-arrow-right-circle"></i></a> -->
                     </div>
