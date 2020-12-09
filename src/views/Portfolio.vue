@@ -1,5 +1,8 @@
 <template>
-    <portfolio-section-static></portfolio-section-static>
+    <div>
+        <portfolio-section-static></portfolio-section-static>
+        <portfolio-filter></portfolio-filter>
+    </div>
     <!-- <portfolio-section
             v-bind:projects="portfolioItems"
             v-bind:projectTags="portfolioTags">
@@ -8,9 +11,11 @@
 
 <script>
     // import portfolioSection from "../components/portfolio-section";
-import PortfolioSectionStatic from '../components/portfolio-section-static.vue';
-// import PortfolioSection from '../components/portfolio-section.vue';
+    import PortfolioSectionStatic from '../components/portfolio-section-static.vue';
+    // import PortfolioSection from '../components/portfolio-section.vue';
     import portfolioService from "../resources/portfolio-service";
+    import portfolioFilter from "../components/portfolio-filter";
+
     export default {
         name: 'portfolio-page',
         data() {
@@ -26,6 +31,7 @@ import PortfolioSectionStatic from '../components/portfolio-section-static.vue';
 
         components: {
             PortfolioSectionStatic,
+            portfolioFilter
         }
     }
 </script>
