@@ -64,11 +64,11 @@
 
                 <!-- Navbar Icons -->
                 <ul class="navbar-nav icons">
-                    <li class="nav-item" id="search">
+                    <!-- <li class="nav-item" id="search">
                         <a href="#" class="nav-link" data-toggle="modal" data-target="#search">
                             <i class="icon-magnifier"></i>
                         </a>
-                    </li>
+                    </li> -->
                     <li class="nav-item social">
                         <a href="https://www.twitter.com/realbitfoundry" class="nav-link" target="_blank"><i class="icon-social-twitter"></i></a>
                     </li>
@@ -92,7 +92,7 @@
                 <!-- Navbar Action -->
                 <ul class="navbar-nav action">
                     <li class="nav-item ml-3">
-                        <a href="#contact" class="btn ml-lg-auto dark-button smooth-anchor" data-aos="zoom-out-up" data-aos-delay="1200"><i class="icon-rocket"></i>Contact</a>
+                        <a href="mailto:info@thebitfoundry.net" class="btn ml-lg-auto dark-button smooth-anchor" data-aos="zoom-out-up" data-aos-delay="1200"><i class="icon-rocket"></i>Contact</a>
                         <!--
                             Suggestion: Replace the purchase button above with a contact button.
 

@@ -42,7 +42,7 @@
                     <div class="col-12 col-lg-9 p-0">
                         <div class="row">
                             <div class="col-12 col-lg-4 p-3 text-center text-lg-left item">
-                                <h4 class="title">Get in Touch</h4>
+                                <h4 class="title">get in touch</h4>
                                 <ul class="navbar-nav">
                                     <li class="nav-item">
                                         <a href="tel:+27832349009" class="nav-link">
@@ -65,19 +65,19 @@
                                         </a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="mailto:info@thebitfoundry.net" class="mt-4 mr-auto ml-auto ml-lg-0 btn dark-button smooth-anchor"><i class="icon-speech"></i>EMAIL US</a>
+                                        <a href="mailto:info@thebitfoundry.net" class="mt-4 mr-auto ml-auto ml-lg-0 btn dark-button smooth-anchor"><i class="icon-speech"></i>email us</a>
                                     </li>
                                 </ul>
                             </div>
                             <div class="col-12 col-lg-4 p-3 text-center text-lg-left item">
-                                <h4 class="title">Our Services</h4>
+                                <h4 class="title">our services</h4>
                                 <ul class="navbar-nav">
                                         <li class="nav-item"><router-link to="/technical-services" onclick="makeItJazzy();"  class="nav-link">_technical</router-link></li>
                                          <li class="nav-item"><router-link to="/creative-services" onclick="makeItJazzy();"  class="nav-link">_creative</router-link></li>
                                 </ul>
                             </div>
                             <div class="col-12 col-lg-4 p-3 text-center text-lg-left item">
-                                <h4 class="title">Popular Tags</h4>
+                                <h4 class="title">popular tags</h4>
                                 <a href="#" class="badge tag">Mobile</a>
                                 <a href="#" class="badge tag">Agriculture</a>
                                 <a href="#" class="badge tag">Software</a>

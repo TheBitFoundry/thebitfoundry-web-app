@@ -10,8 +10,6 @@
                             <img class="pb-5" :src="blog.imageUrl"/>
                             <h2 class="featured mt-0 ml-0 pb-3">{{ blog.title }}</h2>
                             <div v-html="blog.content"></div>
-
-                            <!-- Post Holder -->
                             <ul class="mb-5 post-holder">
                                 <li class="post-meta-item">
                                     <time class="date"><span class="posted-on">Posted on <a href="#" rel="bookmark"><time class="entry-date published updated" datetime="2018-11-01T06:18:46+00:00">November 12, 2020</time></a></span></time>
