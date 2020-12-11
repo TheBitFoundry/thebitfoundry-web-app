@@ -1,5 +1,5 @@
 <template>
-    <section id="portfolio-grid" class="section-1 showcase portfolio blog-grid filter-section">
+    <section id="stack-filter-static" class="section-1 showcase portfolio blog-grid filter-section">
         <div class="overflow-holder">
             <div class="container">
                 <div class="row text-center intro">
@@ -228,6 +228,6 @@
 </template>
 <script>
     export default {
-        name: 'portfolio-filter'
+        name: 'stack-filter-static'
     }
 </script>

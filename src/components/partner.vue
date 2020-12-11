@@ -5,28 +5,28 @@
                 <div class="swiper-container min-slider">
                     <div class="swiper-wrapper">
                         <div class="swiper-slide slide-center item">
-                            <img src="../../public/img/TheBitHeart-www.thebitfoundry.net-The-Bit-Foundry.png" class="fit-image w-85" alt="Fit Image">
+                            <img src="@/assets/img/brand/TheBitHeart-www.thebitfoundry.net-The-Bit-Foundry.png" class="fit-image w-85" alt="Fit Image">
                         </div>
                         <div class="swiper-slide slide-center item">
-                            <img src="../../public/img/TheBitHeart-www.thebitfoundry.net-The-Bit-Foundry.png" class="fit-image w-85" alt="Fit Image">
+                            <img src="@/assets/img/brand/TheBitHeart-www.thebitfoundry.net-The-Bit-Foundry.png" class="fit-image w-85" alt="Fit Image">
                         </div>
                         <div class="swiper-slide slide-center item">
-                            <img src="../../public/img/TheBitHeart-www.thebitfoundry.net-The-Bit-Foundry.png" class="fit-image w-85" alt="Fit Image">
+                            <img src="@/assets/img/brand/TheBitHeart-www.thebitfoundry.net-The-Bit-Foundry.png" class="fit-image w-85" alt="Fit Image">
                         </div>
                         <div class="swiper-slide slide-center item">
-                            <img src="../../public/img/TheBitHeart-www.thebitfoundry.net-The-Bit-Foundry.png" class="fit-image w-85" alt="Fit Image">
+                            <img src="@/assets/img/brand/TheBitHeart-www.thebitfoundry.net-The-Bit-Foundry.png" class="fit-image w-85" alt="Fit Image">
                         </div>
                         <div class="swiper-slide slide-center item">
-                            <img src="../../public/img/TheBitHeart-www.thebitfoundry.net-The-Bit-Foundry.png" class="fit-image w-85" alt="Fit Image">
+                            <img src="@/assets/img/brand/TheBitHeart-www.thebitfoundry.net-The-Bit-Foundry.png" class="fit-image w-85" alt="Fit Image">
                         </div>
                         <div class="swiper-slide slide-center item">
-                            <img src="../../public/img/TheBitHeart-www.thebitfoundry.net-The-Bit-Foundry.png" class="fit-image w-85" alt="Fit Image">
+                            <img src="@/assets/img/brand/TheBitHeart-www.thebitfoundry.net-The-Bit-Foundry.png" class="fit-image w-85" alt="Fit Image">
                         </div>
                         <div class="swiper-slide slide-center item">
-                            <img src="../../public/img/TheBitHeart-www.thebitfoundry.net-The-Bit-Foundry.png" class="fit-image w-85" alt="Fit Image">
+                            <img src="@/assets/img/brand/TheBitHeart-www.thebitfoundry.net-The-Bit-Foundry.png" class="fit-image w-85" alt="Fit Image">
                         </div>
                         <div class="swiper-slide slide-center item">
-                            <img src="../../public/img/TheBitHeart-www.thebitfoundry.net-The-Bit-Foundry.png" class="fit-image w-85" alt="Fit Image">
+                            <img src="@/assets/img/brand/TheBitHeart-www.thebitfoundry.net-The-Bit-Foundry.png" class="fit-image w-85" alt="Fit Image">
                         </div>
                     </div>
                 </div>

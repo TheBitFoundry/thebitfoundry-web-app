@@ -2,11 +2,11 @@
   <div>
     <Slider></Slider>
     <!-- <VideoComponent></VideoComponent> -->
-    <BlogSection></BlogSection>
     <Skills></Skills>
     <PortfolioSectionStatic></PortfolioSectionStatic>
     <FoundryCards></FoundryCards>
     <Partner></Partner>
+    <BlogSection></BlogSection>
     <!-- <Contact></Contact> -->
   </div>
 </template>

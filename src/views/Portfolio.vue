@@ -1,6 +1,5 @@
 <template>
     <div>
-        <portfolio-section-static></portfolio-section-static>
         <portfolio-filter></portfolio-filter>
     </div>
     <!-- <portfolio-section
@@ -11,10 +10,10 @@
 
 <script>
     // import portfolioSection from "../components/portfolio-section";
-    import PortfolioSectionStatic from '../components/portfolio-section-static.vue';
     // import PortfolioSection from '../components/portfolio-section.vue';
-    import portfolioService from "../resources/portfolio-service";
+    // import portfolioService from "../resources/portfolio-service";
     import portfolioFilter from "../components/portfolio-filter";
+    import StyleServices from "./../resources/style-service";
 
     export default {
         name: 'portfolio-page',
@@ -23,15 +22,19 @@
                 portfolioItems: [],
                 portfolioTags: []
             }
+            
         },
-        async mounted() {
-            this.portfolioItems = await portfolioService.getAllPortfolioItems();
-            this.portfolioTags = await portfolioService.getAllPortfolioTags();
-        },
+        // async mounted() {
+        //     this.portfolioItems = await portfolioService.getAllPortfolioItems();
+        //     this.portfolioTags = await portfolioService.getAllPortfolioTags();
+        // },
 
         components: {
-            PortfolioSectionStatic,
-            portfolioFilter
+            portfolioFilter,
+        },
+        mounted () {
+            StyleServices.applyStyling();
         }
     }
+
 </script>

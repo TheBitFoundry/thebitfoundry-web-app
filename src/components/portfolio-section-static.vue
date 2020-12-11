@@ -1,82 +1,39 @@
 <template>
 <div>
-    <section id="portfolio" class="section-3 odd offers secondary featured left">
+    <section id="recent-projects-static" class="section-3 odd offers secondary featured left">
         <div class="container">
             <div class="row intro">
                 <div class="col-12 col-md-9 align-self-center text-center text-md-left">
-                    <h2 class="featured">Recent work</h2>
-                    <p>We are both creative and technical and strive to build beautiful and functional solutions for brands, business and industry.</p>
+                    <h2 class="featured pb-5">Recent projects</h2>
                 </div>
-<!--                &lt;!&ndash; <div class="col-12 col-md-3 align-self-end">-->
-<!--                    <a href=git pg"#" class="btn mx-auto mr-md-0 ml-md-auto primary-button"><i class="icon-grid"></i>VIEW ALL</a>-->
-<!--                </div> &ndash;&gt;-->
-            </div>
-            <div class="row justify-content-center text-center items">
-                <div class="col-12 col-md-6 col-lg-4 item">
-                    <div class="card featured">
-                        <h4>eCommerce &amp; Brand Development</h4>
-                        <p>We designed and built a clean eCommerce solution and helped a slow fashion brand establsih their digital identity. </p>
-                        <div class="gallery">
-                            <a href="portfolio/Agape-Luxury">
-                                <img src="../../public/img/Portfolio/fashiontech-thebitfoundry.net.png" alt="Agape Luxury">
-                            </a>
-                        </div>
-                    </div>
-                </div>
+            <div class="col-12 col-md-3 align-self-end pb-5">
+                   <router-link to="/portfolio" class="btn mx-auto mr-md-0 ml-md-auto primary-button" onclick="makeItJazzy();"><i class="icon-grid"></i>view all</router-link>
+             </div>
+            
                 <div class="col-12 col-md-6 col-lg-4 item">
                     <div class="card">
                         <h4>API &amp; Application Development</h4>
                         <p>The Bit Foundry worked on UI/UX and data integration for a aerospace platform. We used .NET to deliver a user-friendly interface and a flexible data integration solution. We developed the platform’s front-end and implemented technology to capture aerotechnical information, organize data, and generate reports and rich functionality to the UI.</p>
                         <div class="gallery">
-                            <a href="assets/images/work-2.jpg">
-                                <img src="assets/images/work-2.jpg" alt="Riserware">
-                            </a>
+                                <img src="@/assets/img/brand/BitFoundry-Logo-thebitfoundry-www.thebitfoundry.net.png" alt="Riserware">
                         </div>
                     </div>
                 </div>
                 <div class="col-12 col-md-6 col-lg-4 item">
                     <div class="card featured">
-                        <h4>Custom CRM Development</h4>
+                        <h4>Bespoke Logistics CRM Development</h4>
                         <p>We worked closely with a client to develop a custom CRM solution for their business needs. We build software that integrates with business operation allowing companies to operate more effectively, manage risk and save costs.</p>
                         <div class="gallery">
-                            <a href="assets/images/work-3.jpg">-->
-                                <img src="assets/images/work-3.jpg" alt="BitLogistics">
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-             <div class="row justify-content-center text-center items">
-                <div class="col-12 col-md-6 col-lg-4 item">
-                    <div class="card featured">
-                        <h4>dApp &amp; Blockchain Development</h4>
-                        <p>The Bit Foundry is working closely with NGO's to build a blockchain solution that builds trust and transparency into conservation, education and clean technology investment initiatives for corpoarte and government.</p>
-                        <div class="gallery">
-                            <a href="./portfolio/Agape-Luxury">
-                                <img src="#" alt="Agape Luxury">
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-12 col-md-6 col-lg-4 item">
-                    <div class="card">
-                        <h4>Mobile &amp; Application Development</h4>
-                        <p>We recently build a clean project management web application for the construction industry. We used .NET to deliver a user-friendly interface and effective accounting solution. We developed the platform’s front-end and implemented technology to capture project information, manage data, and generate reports for effective project management.</p>
-                        <div class="gallery">
-                            <a href="assets/images/work-2.jpg">
-                                <img src="assets/images/work-2.jpg" alt="Riserware">
-                            </a>
+                            <img src="@/assets/img/brand/BitFoundry-Logo-thebitfoundry-www.thebitfoundry.net.png" alt="BitLogistics">
                         </div>
                     </div>
                 </div>
                 <div class="col-12 col-md-6 col-lg-4 item">
                     <div class="card featured">
-                        <h4>InsureTech</h4>
-                        <p>We built a custom solution for the insurance industry customizing a suitable solution for optimized policy management.</p>
+                        <h4>Brand Creation & Digital Asset Design</h4>
+                        <p>We worked on the corporate identity and brand elements for an up and coming TV show.</p>
                         <div class="gallery">
-                            <a href="assets/images/work-3.jpg">
-                                <img src="assets/images/work-3.jpg" alt="Tyre Dev">
-                           </a>
+                            <img src="@/assets/img/brand/BitFoundry-Logo-thebitfoundry-www.thebitfoundry.net.png" alt="BitLogistics">
                         </div>
                     </div>
                 </div>
@@ -113,8 +70,8 @@
                         <div class="col-12 col-md-6 col-lg-4 item filter-item" data-groups='["technology","digital-marketing","photography"]'>
                             <div class="row card p-0 text-center">
                                 <div class="gallery">
-                                    <a href="assets/images/news-7-h.jpg" class="image-over">
-                                        <img src="assets/images/news-7-h.jpg" alt="Lorem ipsum">
+                                    <a href="@/assets/img/brand/BitFoundry-Logo-thebitfoundry-www.thebitfoundry.net.png" class="image-over">
+                                        <img src="@/assets/img/brand/BitFoundry-Logo-thebitfoundry-www.thebitfoundry.net.png" alt="Lorem ipsum">
                                     </a>
                                 </div>
                                 <div class="card-caption col-12 p-0">
@@ -196,7 +153,7 @@ padding:10px;
 
 <script>
     export default {
-        name: 'portfolio-section-static',
+        name: 'recent-projects-static',
         data() {
             return {
                 projectTagArray: [],

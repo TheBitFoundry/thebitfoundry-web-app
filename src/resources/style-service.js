@@ -30,6 +30,10 @@ export default {
             theme: "theme-pink"
         },
         {
+            routeSlug: "portfolio",
+            theme: "theme-light-green"
+        },
+        {
             routeSlug: "", //home page.
             theme: "theme-light-green"
         }],

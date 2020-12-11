@@ -9,7 +9,7 @@
                     <!-- Item 1 -->
                     <div class="swiper-slide slide-center">
                         
-                        <img src="assets/images/bg-8.jpg" class="full-image" data-mask="70">
+                        <img src="@/assets/img/brand/BitFoundry-Logo-thebitfoundry-www.thebitfoundry.net.png" class="full-image" data-mask="70">
                         
                         <div class="slide-content row text-center">
                             <div class="col-12 mx-auto inner">
@@ -50,8 +50,8 @@
                         </div>
                     </div>
                     <div class="gallery col-12 col-md-6">
-                        <a href="assets/images/news-9-h.jpg">
-                            <img src="assets/images/news-9-h.jpg" class="fit-image" alt="About Us">
+                        <a href="@/assets/img/brand/BitFoundry-Logo-thebitfoundry-www.thebitfoundry.net.png">
+                            <img src="@/assets/img/brand/BitFoundry-Logo-thebitfoundry-www.thebitfoundry.net.png" class="fit-image" alt="About Us">
                         </a>
                     </div>
                 </div>
@@ -63,10 +63,10 @@
             <div class="container">
                 <div class="row">
                     <div class="gallery col-12 col-md-6">
-                        <a data-poster="../../../public/img/BitFoundry-Logo-thebitfoundry-www.thebitfoundry.net.png" href="https://www.youtube.com/channel/UCAb60rVrvVQVfSgrX1UWb0g">
+                        <a data-poster="@/assets/img/brand/BitFoundry-Logo-thebitfoundry-www.thebitfoundry.net.png" href="https://www.youtube.com/channel/UCAb60rVrvVQVfSgrX1UWb0g">
                             <i class="play-video icon-control-play"></i>
                             <div class="mask-radius"></div>
-                            <img src="../../../public/img/BitFoundry-Logo-thebitfoundry-www.thebitfoundry.net.png" class="fit-image" alt="The Bit Foundry">
+                            <img src="@/assets/img/brand/BitFoundry-Logo-thebitfoundry-www.thebitfoundry.net.png" class="fit-image" alt="The Bit Foundry">
                         </a>
                     </div>
                     <div class="col-12 col-md-6 pl-md-5 align-self-center text-center text-md-left">
@@ -96,8 +96,8 @@
                         </div>
                     </div>
                     <div class="gallery col-12 col-md-6">
-                        <a href="assets/images/news-7-h.jpg">
-                            <img src="assets/images/news-7-h.jpg" class="fit-image" alt="The Bit Foundry">
+                        <a href="@/assets/img/brand/BitFoundry-Logo-thebitfoundry-www.thebitfoundry.net.png">
+                            <img src="@/assets/img/brand/BitFoundry-Logo-thebitfoundry-www.thebitfoundry.net.png" class="fit-image" alt="The Bit Foundry">
                         </a>
                     </div>
                 </div>
@@ -111,7 +111,7 @@
     import StyleServices from "./../../resources/style-service"
     
     export default {
-        name: 'Agape Luxury',
+        name: 'nb-earth',
         mounted () {
             StyleServices.applyStyling();
         }

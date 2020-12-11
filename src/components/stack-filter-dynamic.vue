@@ -1,5 +1,5 @@
 <template>
-    <section id="stack-filter" class="section-1 showcase blog-grid masonry news">
+    <section id="stack-filter-dynamic" class="section-1 showcase blog-grid masonry news">
         <div data-aos="zoom-in" data-aos-delay="200" data-aos-anchor="body" class="container">
             <div class="row content blog-grid masonry">
                 <main class="col-12 p-0">
@@ -53,7 +53,7 @@
     import blogs from "../resources/blogs";
 
     export default {
-        name: 'stack-filter',
+        name: 'stack-filter-dynamic',
         data() {
             return {
                 blogs: [],

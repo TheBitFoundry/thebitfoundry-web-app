@@ -1,5 +1,5 @@
 <template>
-    <section id="Blockchain Foundry" class="hero p-0 odd featured right">
+    <section id="blockchain-foundry" class="hero p-0 odd featured right">
         <div class="swiper-container no-slider animation slider-h-100">
             <div class="swiper-wrapper">
 

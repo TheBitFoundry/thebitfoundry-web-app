@@ -13,11 +13,11 @@
                                         <!-- The Bit Foundry. -->
                                         
                                            <!-- Custom Logo -->
-                                            <img src="../../public/img/BitFoundry-Logo-thebitfoundry-www.thebitfoundry.net.png" alt="The Bit Foundry">
+                                            <img src="@/assets/img/brand/BitFoundry-Logo-thebitfoundry-www.thebitfoundry.net.png" alt="The Bit Foundry">
                                        
                                     </a>
                                 </div>
-                                <p>Authentic and innovative.<br>We design, build and scale software solutions with a focus on reusability, optimization <br>and performance.</p>
+                                <p>We are both creative and technical and strive to build beautiful and functional solutions for brands, business and industry. We design, build and scale software solutions with a focus on reusability, optimization and performance.</p>
 
                                 <ul class="navbar-nav social share-list mt-0 ml-auto">
                                     <li class="nav-item">
@@ -81,22 +81,17 @@
                                 <a href="#" class="badge tag">Mobile</a>
                                 <a href="#" class="badge tag">Agriculture</a>
                                 <a href="#" class="badge tag">Software</a>
-                                <a href="#" class="badge tag">AI</a>
-                                <a href="#" class="badge tag">Machine Learning</a>
-                                <a href="#" class="badge tag">Education</a>
-                                <a href="#" class="badge tag">Business</a>
-                                <a href="#" class="badge tag">Health</a>
                                 <a href="#" class="badge tag">Automation</a>
+                                <a href="#" class="badge tag">Machine Intelligence</a>
+                                <a href="#" class="badge tag">Education</a>
+                                <a href="#" class="badge tag">Health</a>
                                 <a href="#" class="badge tag">Clean Technology</a>
                                 <a href="#" class="badge tag">Aerospace</a>
                                 <a href="#" class="badge tag">Design</a>
-                                <a href="#" class="badge tag">Creative</a>
                                 <a href="#" class="badge tag">Finance</a>
                                 <a href="#" class="badge tag">Blockchain</a>
-                                <a href="#" class="badge tag">Entertainment</a>
                                 <a href="#" class="badge tag">Sports &amp; Recreation</a>
                                 <a href="#" class="badge tag">Environment</a>
-                                <a href="#" class="badge tag">Agriculture</a>
                             </div>
                         </div>
                     </div>
@@ -117,7 +112,7 @@
                          -->
                     </div>
                     <div class="col-12 col-md-6 p-3 text-center text-lg-right">
-                        <p>Proudly coded by <a href="https://www.linkedin.com/in/jessica-k/" target="_blank">Jess &amp; Caybo</a></p>
+                        <p>coded with ♥ by <a href="https://www.linkedin.com/in/jessica-k/" target="_blank">Jess &amp; Caybo</a></p>
                     </div>
                 </div>
             </div>

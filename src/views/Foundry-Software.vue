@@ -1,11 +1,11 @@
 <template>
-    <section id="Software Foundry" class="hero p-0 odd featured right">
+    <section id="software-foundry" class="hero p-0 odd featured right">
         <div class="swiper-container no-slider animation slider-h-100">
             <div class="swiper-wrapper">
 
                 <!-- Item 1 -->
                 <div class="swiper-slide slide-center">
-                    <img data-aos="zoom-out-up" data-aos-delay="800" src="../../public/img/Foundry Pixel Art/BitMoji-RealBitBot-The-Bit-Foundry-Digital-Consulting-1500.png" class="hero-image" alt="Hero Image">
+                    <img data-aos="zoom-out-up" data-aos-delay="800" src="@/assets/img/foundry pixel art/BitMoji-RealBitBot-The-Bit-Foundry-Digital-Consulting-1500.png" class="hero-image" alt="Hero Image">
                     <div class="slide-content row" data-mask-768="70">
                         <div class="col-12 d-flex inner">
                             <div class="left align-self-center text-center text-md-left">
