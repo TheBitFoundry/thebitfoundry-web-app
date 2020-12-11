@@ -10,30 +10,30 @@
                    <router-link to="/portfolio" class="btn mx-auto mr-md-0 ml-md-auto primary-button" onclick="makeItJazzy();"><i class="icon-grid"></i>view all</router-link>
              </div>
             
-                <div class="col-12 col-md-6 col-lg-4 item">
+                <div class="col-12 col-md-6 col-lg-4 item pb-4">
                     <div class="card">
                         <h4>API &amp; Application Development</h4>
                         <p>The Bit Foundry worked on UI/UX and data integration for a aerospace platform. We used .NET to deliver a user-friendly interface and a flexible data integration solution. We developed the platform’s front-end and implemented technology to capture aerotechnical information, organize data, and generate reports and rich functionality to the UI.</p>
                         <div class="gallery">
-                                <img src="@/assets/img/brand/BitFoundry-Logo-thebitfoundry-www.thebitfoundry.net.png" alt="Riserware">
+                                <img src="@/assets/img/logos/riserware-logo.png" alt="Riserware">
                         </div>
                     </div>
                 </div>
-                <div class="col-12 col-md-6 col-lg-4 item">
+                <div class="col-12 col-md-6 col-lg-4 item pb-4">
                     <div class="card featured">
                         <h4>Bespoke Logistics CRM Development</h4>
                         <p>We worked closely with a client to develop a custom CRM solution for their business needs. We build software that integrates with business operation allowing companies to operate more effectively, manage risk and save costs.</p>
                         <div class="gallery">
-                            <img src="@/assets/img/brand/BitFoundry-Logo-thebitfoundry-www.thebitfoundry.net.png" alt="BitLogistics">
+                            <img src="@/assets/img/logos/translink-logo.png" alt="BitLogistics">
                         </div>
                     </div>
                 </div>
-                <div class="col-12 col-md-6 col-lg-4 item">
+                <div class="col-12 col-md-6 col-lg-4 item pb-4">
                     <div class="card featured">
                         <h4>Brand Creation & Digital Asset Design</h4>
                         <p>We worked on the corporate identity and brand elements for an up and coming TV show.</p>
                         <div class="gallery">
-                            <img src="@/assets/img/brand/BitFoundry-Logo-thebitfoundry-www.thebitfoundry.net.png" alt="BitLogistics">
+                            <img src="@/assets/img/logos/invade-text-only-logo.png" alt="Invade TV">
                         </div>
                     </div>
                 </div>
@@ -153,52 +153,8 @@ padding:10px;
 
 <script>
     export default {
-        name: 'recent-projects-static',
-        data() {
-            return {
-                projectTagArray: [],
-                displayProjectTags: []
-            }
-        },
-        props: {
-            projects: {
-                type: Array
-            },
-            projectTags: {
-                type: Array
-            }
-        },
-        watch: {
-            projectTags: function() {
-                this.displayProjectTags = [];
-                this.projectTags.forEach(f => {
-                    this.displayProjectTags.push(f.title);
-                    console.log(f.title);
-                });
-            }
-        },
-        mounted() {
-            this.displayProjectTags = this.projectTags;
-        },
-        computed: {
-        },
-        methods: {
-            pullTagsFromProject: function(project) {
-                let startSegment = '["';
-                let endSegment = "\"]";
-                let tags = []
-                project.projectTags.forEach(f => {
-                    tags.push(f.title)
-                });
-                return startSegment.concat(tags.join("\",\""), endSegment);
-            },
-            DoThingsInAWhile: function (project) {
-                console.log(document.getElementById(project.title));
-                document.getElementById(project.title).setAttribute("data-groups", "asdf");
-                console.log("hello from the other side...")
-            }
-        }
-    };
+        name: 'recent-projects-static'
+    }  
 
 </script>
 

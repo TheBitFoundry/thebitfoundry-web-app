@@ -42,15 +42,15 @@
                         <div class="row card p-0 text-center">
                             <div class="gallery">
                                 <a href="#" class="image-over">
-                                    <img src="@/assets/img/hero-image-1.png" alt="Lorem ipsum">
+                                    <img src="@/assets/img/portfolio/agape-luxury-ecommerce.png" alt="Lorem ipsum">
                                 </a>
                             </div>
                             <div class="card-caption col-12 p-0">
                                 <div class="card-body">
-                                    <h4 class="m-0">We designed and built a clean eCommerce solution and helped a slow fashion brand establsih their digital identity.</h4>
+                                    <h4 class="m-0">Agape Luxury</h4>
                                 </div>
                                 <div class="card-footer d-lg-flex align-items-center justify-content-center">
-                                    <p>Agape Luxury</p>
+                                    <p>We designed and built a clean eCommerce solution and helped a slow fashion brand establsih their digital identity.</p>
                                 </div>
                             </div>
                         </div>
@@ -60,15 +60,15 @@
                         <div class="row card p-0 text-center">
                             <div class="gallery">
                                 <a href="#" class="image-over">
-                                    <img src="@/assets/img/hero-image-1.png" alt="Lorem ipsum">
+                                    <img src="@/assets/img/portfolio/nb-earth-project.png" alt="Lorem ipsum">
                                 </a>
                             </div>
                             <div class="card-caption col-12 p-0">
                                 <div class="card-body">
-                                    <h4 class="m-0">The Bit Foundry is working closely with NGO's to build a blockchain solution that builds trust and transparency into conservation, education and clean technology investment initiatives for corpoarte and government.</h4>
+                                    <h4 class="m-0">NB Earth</h4>
                                 </div>
                                 <div class="card-footer d-lg-flex align-items-center justify-content-center">
-                                    <p>NB Earth </p>
+                                    <p>The Bit Foundry is working closely with NGO's to build a blockchain solution that builds trust and transparency into conservation, education and clean technology investment initiatives for corpoarte and government.</p>
                                 </div>
                             </div>
                         </div>
@@ -78,15 +78,15 @@
                         <div class="row card p-0 text-center">
                             <div class="gallery">
                                 <a href="#" class="image-over">
-                                    <img src="@/assets/img/hero-image-1.png" alt="Lorem ipsum">
+                                    <img src="@/assets/img/portfolio/roag-event-data-management.png" alt="Roag">
                                 </a>
                             </div>
                             <div class="card-caption col-12 p-0">
                                 <div class="card-body">
-                                    <h4 class="m-0">Not much to see here because all our work is behind the scenes. We provide Roag with technical support and data management solutions.</h4>
+                                    <h4 class="m-0">Roag</h4>
                                 </div>
                                 <div class="card-footer d-lg-flex align-items-center justify-content-center">
-                                    <p>Roag </p>
+                                    <p>Not much to see here because all our work is behind the scenes. We provide Roag with technical support and data management solutions.</p>
                                 </div>
                             </div>
                         </div>
@@ -115,16 +115,16 @@
                     <div class="col-12 col-md-6 col-lg-4 item filter-item" data-groups='["mobile","web","brand", "product"]'>
                         <div class="row card p-0 text-center">
                             <div class="gallery">
-                                <a href="assets/images/news-10-h.jpg" class="image-over">
-                                    <img src="@/assets/img/hero-image-1.png" alt="Lorem ipsum">
+                                <a href="#" class="image-over">
+                                    <img src="@/assets/img/portfolio/translink-custom-crm.png" alt="Translink">
                                 </a>
                             </div>
                             <div class="card-caption col-12 p-0">
                                 <div class="card-body">
-                                    <h4 class="m-0">We worked closely with a client to develop a custom CRM solution for their business needs. We build software that integrates with business operation allowing companies to operate more effectively, manage risk and save costs.</h4>
+                                    <h4 class="m-0">Translink Logistics</h4>
                                 </div>
                                 <div class="card-footer d-lg-flex align-items-center justify-content-center">
-                                    <p>Translink Logistics</p>
+                                    <p>We worked closely with a client to develop a custom CRM solution for their business needs. We build software that integrates with business operation allowing companies to operate more effectively, manage risk and save costs.</p>
                                 </div>
                             </div>
                         </div>
@@ -133,34 +133,34 @@
                     <div class="col-12 col-md-6 col-lg-4 item filter-item" data-groups='["mobile","web","product"]'>
                         <div class="row card p-0 text-center">
                             <div class="gallery">
-                                <a href="assets/images/news-10-h.jpg" class="image-over">
-                                    <img src="@/assets/img/hero-image-1.png" alt="Lorem ipsum">
+                                <a href="#" class="image-over">
+                                    <img src="@/assets/img/portfolio/quick-custom-crm.png" alt="Quick">
                                 </a>
                             </div>
                             <div class="card-caption col-12 p-0">
                                 <div class="card-body">
-                                    <h4 class="m-0">We built web application for the renewable energy and construction industry. We used .NET to deliver a user-friendly interface and effective project management solution and implemented technology to capture project information, manage data and generate reports for effective project management.</h4>
+                                    <h4 class="m-0">Quick</h4>
                                 </div>
                                 <div class="card-footer d-lg-flex align-items-center justify-content-center">
-                                    <p>Quick</p>
+                                    <p>We built web application for the energy and construction industry. Using .NET we delivered a user-friendly project management app. We implemented features to capture project information, manage data and generate reports for effective project management.</p>
                                 </div>
                             </div>
                         </div>
                     </div>
 
-                    <div class="col-12 col-md-6 col-lg-4 item filter-item" data-groups='["web","product"]'>
+                    <div class="col-12 col-md-6 col-lg-4 item filter-item" data-groups='["mobile","web",]'>
                         <div class="row card p-0 text-center">
                             <div class="gallery">
-                                <a href="assets/images/news-11-h.jpg" class="image-over">
-                                    <img src="@/assets/img/hero-image-1.png" alt="Lorem ipsum">
+                                <a href="#" class="image-over">
+                                    <img src="@/assets/img/portfolio/on-form-website.png" alt="On Form">
                                 </a>
                             </div>
                             <div class="card-caption col-12 p-0">
                                 <div class="card-body">
-                                    <h4 class="m-0">We built a custom solution for our clients in the insurance industry customizing a suitable solution for optimized data and policy management.</h4>
+                                    <h4 class="m-0">Forms Control</h4>
                                 </div>
                                 <div class="card-footer d-lg-flex align-items-center justify-content-center">
-                                    <p>BitSure</p>
+                                    <p>We build a simple professional responsive WordPress website for Forms Control and the On Form brand.</p>
                                 </div>
                             </div>
                         </div>
@@ -169,52 +169,16 @@
                     <div class="col-12 col-md-6 col-lg-4 item filter-item" data-groups='["web","eCommerce"]'>
                         <div class="row card p-0 text-center">
                             <div class="gallery">
-                                <a href="assets/images/news-11-h.jpg" class="image-over">
-                                    <img src="@/assets/img/hero-image-1.png" alt="Lorem ipsum">
+                                <a href="#" class="image-over">
+                                    <img src="@/assets/img/portfolio/rethink-ecommerce.png" alt="Rethink Redesign">
                                 </a>
                             </div>
                             <div class="card-caption col-12 p-0">
                                 <div class="card-body">
-                                    <h4 class="m-0">Custom eCommerce website development, technical support and hosting for a zero-waste home and lifestyle start up.</h4>
+                                    <h4 class="m-0">Rethink Redesign</h4>
                                 </div>
                                 <div class="card-footer d-lg-flex align-items-center justify-content-center">
-                                    <p>Rethink Redesign</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-12 col-md-6 col-lg-4 item filter-item" data-groups='["brand"]'>
-                        <div class="row card p-0 text-center">
-                            <div class="gallery">
-                                <a href="assets/images/news-11-h.jpg" class="image-over">
-                                    <img src="@/assets/img/hero-image-1.png" alt="Lorem ipsum">
-                                </a>
-                            </div>
-                            <div class="card-caption col-12 p-0">
-                                <div class="card-body">
-                                    <h4 class="m-0">The Creative Bit produced a vibrant corporate identity and logo for a new TV show, Invade.</h4>
-                                </div>
-                                <div class="card-footer d-lg-flex align-items-center justify-content-center">
-                                    <p>Invade</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-12 col-md-6 col-lg-4 item filter-item" data-groups='["web","brand","mobile"]'>
-                        <div class="row card p-0 text-center">
-                            <div class="gallery">
-                                <a href="assets/images/news-12-h.jpg" class="image-over">
-                                    <img src="@/assets/img/hero-image-1.png" alt="Lorem ipsum">
-                                </a>
-                            </div>
-                            <div class="card-caption col-12 p-0">
-                                <div class="card-body">
-                                    <h4 class="m-0">The Bit Foundry worked on UI/UX and data integration for a aerospace platform. We used .NET to deliver a user-friendly interface and a flexible data integration solution. We developed the platform’s front-end and implemented technology to capture aerotechnical information, organize data, and generate reports and rich functionality to the UI.</h4>
-                                </div>
-                                <div class="card-footer d-lg-flex align-items-center justify-content-center">
-                                    <p>Riser </p>
+                                    <p>Custom eCommerce website development, technical support and hosting for a zero-waste home and lifestyle start up.</p>
                                 </div>
                             </div>
                         </div>

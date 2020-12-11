@@ -3,7 +3,7 @@
     <Slider></Slider>
     <!-- <VideoComponent></VideoComponent> -->
     <Skills></Skills>
-    <PortfolioSectionStatic></PortfolioSectionStatic>
+    <RecentProjectsStatic></RecentProjectsStatic>
     <FoundryCards></FoundryCards>
     <Partner></Partner>
     <BlogSection></BlogSection>
@@ -20,8 +20,8 @@
   import Partner from "@/components/partner.vue";
   // import Contact from "@/components/contact.vue";
   import BlogSection from "@/components/blog-section.vue";
-  import styleService from "./../resources/style-service";
-  import PortfolioSectionStatic from "../components/portfolio-section-static.vue";
+  import styleService from "@/resources/style-service";
+  import RecentProjectsStatic from "@/components/recent-projects-static.vue";
   //
   export default {
     name: 'Home',
@@ -34,7 +34,7 @@
       Partner,
       // Contact,
       BlogSection,
-      PortfolioSectionStatic,
+      RecentProjectsStatic,
     },
     mounted() {
       styleService.applyStyling();
