@@ -10,9 +10,9 @@
                 <div class="row justify-content-center text-center">
                     <div class="col-12">
                         <div class="btn-group btn-group-toggle" data-toggle="buttons">
-                            <label class="btn active">
-                                <input type="radio" value="all" checked class="btn-filter-item">
-                                <span>All</span>
+                            <label class="btn">
+                                <input type="radio" value="web" checked class="btn-filter-item">
+                                <span>web</span>
                             </label>
                             <label class="btn">
                                 <input type="radio" value="eCommerce" class="btn-filter-item">
@@ -29,10 +29,6 @@
                             <label class="btn">
                                 <input type="radio" value="mobile" class="btn-filter-item">
                                 <span>mobile</span>
-                            </label>
-                            <label class="btn">
-                                <input type="radio" value="web" class="btn-filter-item">
-                                <span>web</span>
                             </label>
                         </div>
                     </div>
@@ -112,7 +108,7 @@
                         </div>
                     </div> -->
 
-                    <div class="col-12 col-md-6 col-lg-4 item filter-item" data-groups='["mobile","web","brand", "product"]'>
+                    <div class="col-12 col-md-6 col-lg-4 item filter-item" data-groups='["mobile", "web", "brand", "product"]'>
                         <div class="row card p-0 text-center">
                             <div class="gallery">
                                 <a href="#" class="image-over">
@@ -129,7 +125,7 @@
                             </div>
                         </div>
                     </div>
-                    
+
                     <div class="col-12 col-md-6 col-lg-4 item filter-item" data-groups='["mobile","web","product"]'>
                         <div class="row card p-0 text-center">
                             <div class="gallery">
@@ -148,7 +144,7 @@
                         </div>
                     </div>
 
-                    <div class="col-12 col-md-6 col-lg-4 item filter-item" data-groups='["mobile","web",]'>
+                    <div class="col-12 col-md-6 col-lg-4 item filter-item" data-groups='["mobile","web"]'>
                         <div class="row card p-0 text-center">
                             <div class="gallery">
                                 <a href="#" class="image-over">
