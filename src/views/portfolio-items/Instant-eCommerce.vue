@@ -18,7 +18,7 @@
                                     <ol class="breadcrumb">
                                         <li class="breadcrumb-item"><a href="/">home</a></li>
                                         <li class="breadcrumb-item"><a href="/portfolio">portfolio</a></li>
-                                        <li class="breadcrumb-item active" aria-current="page">template</li>
+                                        <li class="breadcrumb-item active" aria-current="page">iCommerce</li>
                                     </ol>
                                 </nav>
                             </div>

@@ -14,7 +14,9 @@ import FoundrySoftware from '../views/Foundry-Software'
 import PortfolioPage from '../views/Portfolio'
 import PortfolioItemTemplate from '../views/portfolio-items/Portfolio-Item-Template'
 import AgapeLuxury from '../views/portfolio-items/Agape-Luxury'
-import TyreDev from '../views/portfolio-items/Tyre-Dev';
+import TyreDev from '../views/portfolio-items/Tyre-Dev'
+import InstantECommerce from '../views/portfolio-items/Instant-eCommerce'
+import Quick from '../views/portfolio-items/Quick';
 
 
 Vue.use(VueRouter)
@@ -102,6 +104,16 @@ const routes = [
     path: '/portfolio/tyre-dev',
     name: 'tyre dev',
     component: TyreDev
+  },
+  {
+    path: '/portfolio/instant-ecommerce',
+    name: 'instant-ecommerce',
+    component: InstantECommerce
+  },
+  {
+    path: '/portfolio/quick',
+    name: 'quick',
+    component: Quick
   }
 ]
 

@@ -18,7 +18,7 @@
                                     <ol class="breadcrumb">
                                         <li class="breadcrumb-item"><a href="/">home</a></li>
                                         <li class="breadcrumb-item"><a href="/portfolio">portfolio</a></li>
-                                        <li class="breadcrumb-item active" aria-current="page">template</li>
+                                        <li class="breadcrumb-item active" aria-current="page">quick</li>
                                     </ol>
                                 </nav>
                             </div>
@@ -36,13 +36,17 @@
                         <div class="row intro mb-0">
                             <div class="col-12 p-0">
                                 <h2 class="featured">overview</h2>
-                                <p>We focus on monitoring systems and software for automotive, logistics & transport. Tyre Dev builds software and sells automotive TPMS products.</p>
+                                <p>Quick is a mobile solution for Project and Product Managers who want to stay on top of their projects and ensure project schedule, budget and team members are on track.</p>
                                 <h2>scope</h2>
                                 <p class="featured breadcrumb-item active">
                                     <ul class="text-left">
-                                        <li>software development</li>
-                                        <li>graphic design</li>
+                                        <li>mobile application development</li>
+                                        <li>technical design</li>
                                         <li>custom integrations</li>
+                                        <li>UX/UI design</li>
+                                        <li>brand identity</li>
+                                        <li>cloud architecture</li>
+                                        <li>cloud hosting</li>
                                     </ul>
                                 </p>
                             </div>
