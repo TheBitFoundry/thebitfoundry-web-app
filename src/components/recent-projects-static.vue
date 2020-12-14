@@ -18,6 +18,7 @@
                         <div class="gallery">
                                 <img src="@/assets/img/logos/riserware.png" alt="Riserware">
                         </div>
+                        <p>Phase: Private Use</p>
                     </div>
                 </div>
                 <div class="col-12 col-md-6 col-lg-4 item pb-4">
@@ -25,8 +26,9 @@
                         <h4>Bespoke Logistics CRM Development</h4>
                         <p>We worked closely with a partner and client to develop a custom CRM solution for their business needs. We build software that integrates with business operation allowing companies to operate more effectively, manage risk and save costs.</p>
                         <div class="gallery">
-                            <img src="@/assets/img/logos/translink.png" alt="BitLogistics">
+                            <img src="@/assets/img/portfolio/translink-custom-crm.png" alt="Translink">
                         </div>
+                        <p>Phase: Closed Beta Testing</p>
                     </div>
                 </div>
                 <div class="col-12 col-md-6 col-lg-4 item pb-4">
@@ -34,8 +36,9 @@
                         <h4>Platform Development</h4>
                         <p>We are currently developing a brand and platform to enable NPO's to take control of their data and create a new way for corporates and individuals to invest in their communities.</p>
                         <div class="gallery">
-                            <img src="@/assets/img/logos/nb-earth.png" alt="NB Earth">
+                            <img src="@/assets/img/portfolio/nb-earth-project.png" alt="NB Earth">
                         </div>
+                        <p>Phase: Closed Beta Testing</p>
                     </div>
                 </div>
             </div>

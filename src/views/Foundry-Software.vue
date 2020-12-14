@@ -24,6 +24,7 @@
             <div class="swiper-pagination"></div>
         </div>
         <BitServices></BitServices>
+        <StackFilterStatic></StackFilterStatic>
     </section>
     
 </template>
@@ -32,11 +33,13 @@
 
     import StyleServices from "./../resources/style-service"
     import BitServices from "@/components/bit-services"
+    import StackFilterStatic from "@/components/stack-filter-static"
     
     export default {
         name: 'software-foundry',
         components: {
-            BitServices
+            BitServices,
+            StackFilterStatic
         },
         mounted () {
             StyleServices.applyStyling();
