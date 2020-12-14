@@ -4,7 +4,8 @@
             <div class="container">
                 <div class="row text-center intro">
                     <div class="col-12">
-                        <h2 class="mb-0">Recent projects</h2>
+                        <h2 class="mb-0">Technology we work with</h2>
+                        <p>Thechnologies used on projects vary depending on the project scope and objectives. We have experience with a wide range of technologies and work with the best options based on specific challenges.</p>
                     </div>
                 </div>
                 <div class="row justify-content-center text-center">
@@ -16,29 +17,25 @@
                             </label>
                             <label class="btn">
                                 <input type="radio" value="eCommerce" class="btn-filter-item">
-                                <span>eCommerce</span>
+                                <span>front-end</span>
                             </label>
                             <label class="btn">
                                 <input type="radio" value="brand" class="btn-filter-item">
-                                <span>brand</span>
+                                <span>back-end</span>
                             </label>
                             <label class="btn">
                                 <input type="radio" value="product" class="btn-filter-item">
-                                <span>product</span>
+                                <span>cloud</span>
                             </label>
                             <label class="btn">
                                 <input type="radio" value="mobile" class="btn-filter-item">
-                                <span>mobile</span>
-                            </label>
-                            <label class="btn">
-                                <input type="radio" value="web" class="btn-filter-item">
-                                <span>web</span>
+                                <span>design</span>
                             </label>
                         </div>
                     </div>
                 </div>
                 <div class="row items filter-items">
-                    <div class="col-12 col-md-6 col-lg-4 item filter-item" data-groups='["web","eCommerce","brand"]'>
+                    <div class="col-12 col-md-6 col-lg-4 item filter-item" data-groups='["front-end"]'>
                         <div class="row card p-0 text-center">
                             <div class="gallery">
                                 <a href="#" class="image-over">

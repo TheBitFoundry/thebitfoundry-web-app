@@ -142,7 +142,7 @@
                                     <h4 class="m-0">Quick</h4>
                                 </div>
                                 <div class="card-footer d-lg-flex align-items-center justify-content-center">
-                                    <p>We built web application for the energy and construction industry. Using .NET we delivered a user-friendly project management app. We implemented features to capture project information, manage data and generate reports for effective project management.</p>
+                                    <p>We built a cross-platform web application for the energy and construction industry. Using .NET we delivered a user-friendly project management app. We implemented features to capture project information, manage data and generate reports for effective project management.</p>
                                 </div>
                             </div>
                         </div>
@@ -160,7 +160,7 @@
                                     <h4 class="m-0">Forms Control</h4>
                                 </div>
                                 <div class="card-footer d-lg-flex align-items-center justify-content-center">
-                                    <p>We build a simple professional responsive WordPress website for Forms Control and the On Form brand.</p>
+                                    <p>We built a simple professional responsive WordPress website for Forms Control and the On Form brand.</p>
                                 </div>
                             </div>
                         </div>

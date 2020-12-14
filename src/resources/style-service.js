@@ -6,6 +6,10 @@ export default {
             theme: "theme-white"
         },
         {
+            routeSlug: "tyre-dev",
+            theme: "theme-white"
+        },
+        {
             routeSlug: "creative-services",
             theme: "theme-light-blue"
         },

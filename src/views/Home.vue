@@ -14,6 +14,7 @@
 <script>
   import Slider from "@/components/slider.vue";
   import Skills from "@/components/skills.vue";
+  import RecentProjectsStatic from "@/components/recent-projects-static.vue";
   // import VideoComponent from "@/components/video-component.vue";
   // import Portfolio from "@/components/portfolio.vue";
   import FoundryCards from "@/components/foundry-cards.vue";
@@ -21,7 +22,6 @@
   // import Contact from "@/components/contact.vue";
   import BlogSection from "@/components/blog-section.vue";
   import styleService from "@/resources/style-service";
-  import RecentProjectsStatic from "@/components/recent-projects-static.vue";
   //
   export default {
     name: 'Home',

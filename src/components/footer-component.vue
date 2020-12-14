@@ -32,9 +32,6 @@
                                     <li class="nav-item">
                                         <a href="https://www.twitter.com/realbitfoundry/" class="nav-link" target="_blank"><i class="icon-social-twitter"></i></a>
                                     </li>
-                                      <li class="nav-item">
-                                        <a href="https://www.github.com/thebitfoundry/" class="nav-link" target="_blank"><i class="icon-social-github"></i></a>
-                                    </li>
                                 </ul>
                             </div>
                         </div>

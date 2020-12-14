@@ -41,14 +41,11 @@
                             </ul>
                     </li>
                     <li class="nav-item dropdown">
-                        <a href="#" class="nav-link">products <i class="icon-arrow-down"></i></a>
+                        <a href="#" class="nav-link">products<i class="icon-arrow-down"></i></a>
                         <ul class="dropdown-menu">
-                            <li class="nav-item"><a href="#" class="nav-link">_quickconstruct</a></li>
-                            <li class="nav-item"><a href="#" class="nav-link">_riserware</a></li>
-                            <li class="nav-item"><a href="#" class="nav-link">_bluesight </a></li>
-                            <li class="nav-item"><a href="#" class="nav-link">_tyredev </a></li>
-                            <li class="nav-item"><a href="#" class="nav-link">_instantecommerce</a></li>
-                            <li class="nav-item"><a href="#" class="nav-link">_omnidesk </a></li>
+                            <li class="nav-item"><router-link to="/portfolio/quick" onclick="makeItJazzy();"  class="nav-link">_quick</router-link></li>
+                            <li class="nav-item"><router-link to="/portfolio/tyre-dev" onclick="makeItJazzy();"  class="nav-link">_tyredev</router-link></li>
+                            <li class="nav-item"><router-link to="/portfolio/instant-ecommerce" onclick="makeItJazzy();"  class="nav-link">_iCommerce</router-link></li>
                             <!-- <li class="nav-item"><a href="#" class="nav-link">_futuristedu </a></li>
                             <li class="nav-item"><a href="#" class="nav-link">_radioworks </a></li>
                             <li class="nav-item"><a href="#" class="nav-link">_payroute</a></li> -->

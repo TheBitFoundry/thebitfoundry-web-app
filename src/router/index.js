@@ -13,34 +13,36 @@ import FoundryScaleUp from '../views/Foundry-Scale-Up'
 import FoundrySoftware from '../views/Foundry-Software'
 import PortfolioPage from '../views/Portfolio'
 import PortfolioItemTemplate from '../views/portfolio-items/Portfolio-Item-Template'
-import AgapeLuxury from '../views/portfolio-items/Agape-Luxury';
+import AgapeLuxury from '../views/portfolio-items/Agape-Luxury'
+import TyreDev from '../views/portfolio-items/Tyre-Dev';
+
 
 Vue.use(VueRouter)
 
 const routes = [
   {
     path: '/',
-    name: 'Home',
+    name: 'home',
     component: Home
   },
   {
     path: '/portfolio',
-    name: 'Portfolio',
+    name: 'portfolio',
     component: PortfolioPage
   },
   {
     path: '/blog',
-    name: 'Blog',
+    name: 'blog',
     component: Blog
   },
   {
     path: '/blogs/:slug',
-    name: 'Blogs',
+    name: 'blogs',
     component: BlogSingle
   },
   {
     path: '/about',
-    name: 'About',
+    name: 'about',
     // route level code-splitting
     // this generates a separate chunk (about.[hash].js) for this route
     // which is lazy-loaded when the route is visited.
@@ -48,53 +50,58 @@ const routes = [
   },
   {
     path: '/creative-services',
-    name: 'Creative',
+    name: 'creative',
     component: ServicesCreative
   },
   {
     path: '/technical-services',
-    name: 'Technical',
+    name: 'technical',
     component: ServicesTechnical
   },
   {
     path: '/aerotechnical-foundry',
-    name: 'Aerotechnical',
+    name: 'aerotechnical',
     component: FoundryAerotechnical
   },
   {
     path: '/blockchain-foundry',
-    name: 'Blockchain',
+    name: 'blockchain',
     component: FoundryBlockchain,
   },
   {
     path: '/clean-tech-foundry',
-    name: 'Clean Tech',
+    name: 'clean tech',
     component: FoundryCleanTech
   },
   {
     path: '/creative-foundry',
-    name: 'Creative',
+    name: 'creative',
     component: FoundryCreative
   },
   {
     path: '/scale-up-foundry',
-    name: 'Scale Up',
+    name: 'scale up',
     component: FoundryScaleUp
   },
   {
     path: '/software-foundry',
-    name: 'Software',
+    name: 'software',
     component: FoundrySoftware
   },
   {
     path: '/portfolio/portfolio-item-template',
-    name: 'Portfolio Item Template',
+    name: 'portfolio item template',
     component: PortfolioItemTemplate
   },
   {
     path: '/portfolio/agape-luxury',
-    name: 'Agape Luxury',
+    name: 'agape luxury',
     component: AgapeLuxury
+  },
+  {
+    path: '/portfolio/tyre-dev',
+    name: 'tyre dev',
+    component: TyreDev
   }
 ]
 

@@ -4,7 +4,7 @@
             <div class="row intro">
                 <div class="col-12 col-md-9 align-self-center text-center text-md-left">
                     <h2 class="featured">Meet The Bit Foundry</h2>
-                    <p>With a focused on results we strive to level up with our partners, clients and customers. We are passionate about freedom, software, design, science, adventure &amp; clean technology.</p>
+                    <p>We don't just care about clean software architecture and development, we really care about the success of our projects and products. With a focused on ROI we strive for success with our partners, clients and customers. We have many interesteds but we really love freedom, software, smart design, data, science, adventure &amp; clean technology.</p>
                 </div>
                 <!-- <div class="col-12 col-md-3 align-self-end">
                     <a href="#" class="btn mx-auto mr-md-0 ml-md-auto primary-button"><i class="icon-grid"></i>VIEW ALL</a>
@@ -15,7 +15,7 @@
                     <div class="card featured">
                         <i class="icon icon-mustache"></i>
                         <h4>Bit Foundry</h4>
-                        <p>The Bit Foundry is home to various software products and services. The Bit Foundry is a software first foundry that supports products, clients and partners with their AI, data, software and technology requirements. We build APIs, mobile apps, professional responsive websites and Ecommerce solutions optimized for our clients needs.</p>
+                        <p>The Bit Foundry is home to various software products and services. The Bit Foundry is a software first foundry that supports products, clients and partners with their AI, data, software and technology requirements. We build APIs, mobile apps, professional responsive websites and eCommerce solutions optimized for our clients needs.</p>
                         <router-link to="/software-foundry" onclick="makeItJazzy();"><i class="btn-icon icon-arrow-right-circle"></i></router-link>
                     </div>
                 </div>

@@ -36,12 +36,12 @@
                         <div class="row intro mb-0">
                             <div class="col-12 p-0">
                                 <h2 class="featured">overview</h2>
-                                <p>With a goal to transform African cities through technology entrepreneurship and innovation Silicon Africa is an NPO we are proud to be working with.</p>
+                                <p>With a goal to transform African cities through technology, entrepreneurship and innovation Silicon Africa is an NPO we are proud to be working with.</p>
                                 <h2>scope</h2>
                                 <p class="featured breadcrumb-item active">
                                     <ul class="text-left">
                                         <li>consulting</li>
-                                        <li>blockchain development</li>
+                                        <li>brand identity</li>
                                         <li>application development</li>
                                         <li>custom integrations</li>
                                     </ul>

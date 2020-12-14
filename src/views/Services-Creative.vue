@@ -4,7 +4,7 @@
             <div class="row intro">
                 <div class="col-12 col-md-9 align-self-left text-left text-md-left">
                     <h2 class="featured">Creative Services</h2>
-                    <p>Our creative team thrives on producing compelling creative assets and engaging content. When we're not building software, we like playing at the nexus of Art and Science. The creative foundry is all about exploring the avant-garde, blue-sky and sublime of brands, business and individuals across mind, digital and physical.</p>
+                    <p>Our creative team thrives on producing compelling creative assets and engaging content. When we're not building software, we like playing at the nexus of art and science. The creative foundry is all about exploring the avant-garde, blue-sky and sublime of brands, business and individuals across mind, digital and physical.</p>
                 </div>
                 <!-- <div class="col-12 col-md-3 align-self-end">
                     <a href="#" class="btn mx-auto mr-md-0 ml-md-auto primary-button"><i class="icon-grid"></i>VIEW ALL</a>
@@ -15,7 +15,7 @@
                     <div class="card featured">
                         <i class="icon icon-chemistry"></i>
                            <h4>Brand Experience &amp; Creative</h4>
-                        <p>As a full-service digital and ROI focused creative team, we produces quality content for various platforms to fuel media campaigns with a focus on brand voice, message, engagement and objectives.</p>
+                        <p>As a full-service digital and ROI focused creative team, we produce quality content for various platforms to fuel media campaigns with a focus on brand voice, message, engagement and objectives.</p>
                           <ul>
                             <li>Brand Development and Storytelling</li>
                             <li>Digital Campaign Planning and Execution</li>

@@ -36,11 +36,11 @@
                         <div class="row intro mb-0">
                             <div class="col-12 p-0">
                                 <h2 class="featured">overview</h2>
-                                <p>Text goes here.</p>
+                                <p>We focus on monitoring systems and software for automotive, logistics & transport. Tyre Dev builds software and sells automotive TPMS products.</p>
                                 <h2>scope</h2>
                                 <p class="featured breadcrumb-item active">
                                     <ul class="text-left">
-                                        <li>eCommerce development</li>
+                                        <li>software development</li>
                                         <li>graphic design</li>
                                         <li>custom integrations</li>
                                     </ul>
