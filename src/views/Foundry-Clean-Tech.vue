@@ -1,5 +1,5 @@
 <template>
-    <section id="clean-tech-foundry" class="hero p-0 odd featured right">
+    <section id="clean-tech-foundry" class="hero p-0 pt-5 pb-5 odd featured right">
         <div class="swiper-container no-slider animation slider-h-100">
             <div class="swiper-wrapper">
 
