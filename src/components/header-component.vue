@@ -89,7 +89,7 @@
                 <!-- Navbar Action -->
                 <ul class="navbar-nav action">
                     <li class="nav-item ml-3">
-                        <a href="mailto:info@thebitfoundry.net" class="btn ml-lg-auto dark-button smooth-anchor" data-aos="zoom-out-up" data-aos-delay="1200"><i class="icon-rocket"></i>Contact</a>
+                        <a href="mailto:info@thebitfoundry.net" target="_blank" class="btn ml-lg-auto dark-button smooth-anchor" data-aos="zoom-out-up" data-aos-delay="1200"><i class="icon-rocket"></i>Contact</a>
                         <!--
                             Suggestion: Replace the purchase button above with a contact button.
 

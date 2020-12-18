@@ -70,10 +70,9 @@
                     <div class="col-12 col-md-6 pl-md-5 align-self-center text-center text-md-left">
                         <div class="row intro mb-0">
                             <div class="col-12 p-0">
-                                <h2 class="featured">the creative bit</h2>
+                                <h2 class="featured">future scope</h2>
                                 <p>We've entered a new era for the global auto industry.</p>
                                 <blockquote>"Musk was willing to launch technology that wasn’t perfect, and then repeatedly upgrade it, using smartphone style over-the-air updates, paying little regard to early profitability."</blockquote>
-                                <!-- <p>See the project: <a href="www.tyredev.co.za" target="_blank">Project</a></p> -->
                             </div>
                         </div>
                     </div>
@@ -90,8 +89,9 @@
                             <div class="col-12 p-0">
                                 <h2 class="featured">services</h2>
                                 <p>As IoT capabilities within the automotive industry evolve we aim to build services and features that make roads safer and embrace the next generation of automotive technology.</p>
-                                <blockquote>"Inspired by industry leaders like Tesla, Mercedes, Hyundai, Audi, Toyota and Volkswagen we are passionate about all things software and automotive"
+                                <blockquote>"Inspired by industry leaders like Tesla, Hyundai and Mercedes we are passionate about all things software and automotive"
                                 - Project Lead</blockquote>
+                                <p>Learn more about <a href="www.tyredev.co.za" target="_blank">Tyre Dev</a></p>
                             </div>
                         </div>
                     </div>
