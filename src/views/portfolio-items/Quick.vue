@@ -9,11 +9,11 @@
                     <!-- Item 1 -->
                     <div class="swiper-slide slide-center">
                         
-                        <img src="@/assets/img/brand/BitFoundry-Logo-thebitfoundry-www.thebitfoundry.net.png" class="full-image" data-mask="70">
+                        <img src="@/assets/img/portfolio/quick/q-quick-cover.png" class="full-image" data-mask="70">
                         
                         <div class="slide-content row text-center">
                             <div class="col-12 mx-auto inner">
-                                <h1 data-aos="zoom-out-up" data-aos-delay="400" class="title effect-static-text">agape</h1>
+                                <h1 data-aos="zoom-out-up" data-aos-delay="400" class="title effect-static-text">quick</h1>
                                 <nav data-aos="zoom-out-up" data-aos-delay="800" aria-label="breadcrumb">
                                     <ol class="breadcrumb">
                                         <li class="breadcrumb-item"><a href="/">home</a></li>
@@ -37,24 +37,26 @@
                             <div class="col-12 p-0">
                                 <h2 class="featured">overview</h2>
                                 <p>Quick is a mobile solution for Project and Product Managers who want to stay on top of their projects and ensure project schedule, budget and team members are on track.</p>
-                                <h2>scope</h2>
+                                <h2>technical scope</h2>
                                 <p class="featured breadcrumb-item active">
                                     <ul class="text-left">
                                         <li>mobile application development</li>
                                         <li>technical design</li>
+                                        <li>API development</li>
                                         <li>custom integrations</li>
-                                        <li>UX/UI design</li>
-                                        <li>brand identity</li>
                                         <li>cloud architecture</li>
                                         <li>cloud hosting</li>
+                                         <li>UX/UI design</li>
+                                        <li>app design</li>
+                                        <li>brand development</li>
                                     </ul>
                                 </p>
                             </div>
                         </div>
                     </div>
                     <div class="gallery col-12 col-md-6">
-                        <a href="@/assets/img/brand/BitFoundry-Logo-thebitfoundry-www.thebitfoundry.net.png">
-                            <img src="@/assets/img/brand/BitFoundry-Logo-thebitfoundry-www.thebitfoundry.net.png" class="fit-image" alt="About Us">
+                        <a href="#">
+                            <img src="@/assets/img/portfolio/quick/quick-logo.png" class="fit-image" alt="About Us">
                         </a>
                     </div>
                 </div>
@@ -66,19 +68,18 @@
             <div class="container">
                 <div class="row">
                     <div class="gallery col-12 col-md-6">
-                        <a data-poster="@/assets/img/brand/BitFoundry-Logo-thebitfoundry-www.thebitfoundry.net.png" href="https://www.youtube.com/channel/UCAb60rVrvVQVfSgrX1UWb0g">
-                            <i class="play-video icon-control-play"></i>
-                            <div class="mask-radius"></div>
-                            <img src="@/assets/img/brand/BitFoundry-Logo-thebitfoundry-www.thebitfoundry.net.png" class="fit-image" alt="The Bit Foundry">
+                        <a data-poster="@/assets/img/portfolio/quick/">
+                            <img src="@/assets/img/portfolio/quick/quick-solar-construction-app-The-Bit-Foundry.png" alt="The Bit Foundry">
                         </a>
                     </div>
                     <div class="col-12 col-md-6 pl-md-5 align-self-center text-center text-md-left">
                         <div class="row intro mb-0">
                             <div class="col-12 p-0">
-                                <h2 class="featured">the creative bit</h2>
-                                <p>Text goes here.</p>
-                                <blockquote>" A quote goes here."</blockquote>
-                                <p>See the project: <a href="www.urlgoeshere.com" target="_blank">Project</a></p>
+                                <h2 class="featured">services</h2>
+                                <p>We built a cross-platform web application for the energy and construction industry. Using .NET we delivered a user-friendly project management app. We implemented features to capture project information, manage data and generate reports for effective project management.</p>
+                                <blockquote>"We're excited to see how this solution can help African construction and energy companies increase their efficiency and lower their operating costs. Learn more about using the Quick app and joining our clean energy partner network."
+                                - Co-founder</blockquote>
+                                <p>Learn more about <a href="mailto:cleantech@thebitfoundry.net" target="_blank">Quick</a></p>
                             </div>
                         </div>
                     </div>
@@ -93,16 +94,15 @@
                     <div class="col-12 col-md-6 align-self-center text-center text-md-left">
                         <div class="row intro mb-0">
                             <div class="col-12 p-0">
-                                <h2 class="featured">services</h2>
-                                <p>We built the xxx for yyy to zzz.</p>
-                                <blockquote>"Comments go here."
-                                - Client</blockquote>
+                                <h2 class="featured">the creative bit</h2>
+                                <blockquote>"The creative bit look forward to working with Quick on their launch!"</blockquote>
+                                <p>We love wind and solar energy projects! The future of solar is bright and we love contributing to a more sustainable future.</p>
                             </div>
                         </div>
                     </div>
                     <div class="gallery col-12 col-md-6">
-                        <a href="@/assets/img/brand/BitFoundry-Logo-thebitfoundry-www.thebitfoundry.net.png">
-                            <img src="@/assets/img/brand/BitFoundry-Logo-thebitfoundry-www.thebitfoundry.net.png" class="fit-image" alt="The Bit Foundry">
+                        <a href="#">
+                            <img src="@/assets/img/portfolio/quick/quick-app-look-and-feel.png" alt="The Bit Foundry">
                         </a>
                     </div>
                 </div>
