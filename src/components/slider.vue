@@ -5,7 +5,7 @@
 
                 <!-- Item 1 -->
                 <div class="swiper-slide slide-center">
-                    <img data-aos="zoom-out-up" data-aos-delay="800" src="@/assets/img/brand/Xmas-PixelBot-The-Bit-Foundry.png" class="hero-image" alt="Hero Image">
+                    <img data-aos="zoom-out-up" data-aos-delay="800" src="@/assets/img/foundry pixel art\RealBitBot-The-Bit-Foundry-Digital-Consulting-1500.png" class="hero-image" alt="Hero Image">
                     <div class="slide-content row" data-mask-768="70">
                         <div class="col-12 d-flex inner">
                             <div class="left align-self-center text-center text-md-left">

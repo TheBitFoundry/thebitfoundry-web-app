@@ -3,8 +3,8 @@
     <Slider></Slider>
     <!-- <VideoComponent></VideoComponent> -->
     <Skills></Skills>
-    <RecentProjectsStatic></RecentProjectsStatic>
     <FoundryCards></FoundryCards>
+    <RecentProjectsStatic></RecentProjectsStatic>
     <Partner></Partner>
     <BlogSection></BlogSection>
     <!-- <Contact></Contact> -->

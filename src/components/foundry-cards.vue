@@ -4,7 +4,7 @@
             <div class="row intro">
                 <div class="col-12 col-md-9 align-self-center text-center text-md-left">
                     <h2 class="featured">Meet The Bit Foundry</h2>
-                    <p>With a focused on ROI we strive for success with our partners, clients and customers. We have many interests but we really love freedom, software, smart design, data, science, adventure &amp; clean technology.</p>
+                    <p>We care about building products that matter and strive for success with our products, project partners, clients and customers. We have many interests but we really love freedom, privacy, software, smart design, data, science, healthcare, clean technology &amp; adventure.</p>
                 </div>
                 <!-- <div class="col-12 col-md-3 align-self-end">
                     <a href="#" class="btn mx-auto mr-md-0 ml-md-auto primary-button"><i class="icon-grid"></i>VIEW ALL</a>
@@ -23,7 +23,7 @@
                     <div class="card">
                         <i class="icon icon-plane"></i>
                         <h4>Aerotechnical Foundry</h4>
-                        <p>The Aerotechical Foundry works with partners to explore and exibit aerosports opportunity, electric aircrafts and VTOL concepts and provide products and services pertaining to air freight logistics, aerosports and recreation. Some products include sports management systems, air transport logistics solutions, training and booking systems and indoor skydiving wind tunnel technology.</p>
+                        <p>The Aerotechical Foundry was founded to explore the humans spirit of adventure and our aspirations for flight and efficiency. We explore products and solutions in aerosports, aeromedicine, electric aircrafts and VTOL.</p>
                         <router-link to="/aerotechnical-foundry" onclick="makeItJazzy();"><i class="btn-icon icon-arrow-right-circle"></i></router-link>
                     </div>
                 </div>
@@ -47,7 +47,7 @@
                     <div class="card">
                         <i class="icon icon-chart"></i>
                         <h4>Scale Up Foundry</h4>
-                        <p>The Scale up Foundry supports entreprenuers and SMEs via strategic partnerships, cutting edge web and software solutions, hackathons and events. We help businesses scale.</p>
+                        <p>The Scale up Foundry supports entreprenuers and SMEs via strategic partnerships, cutting edge web and software solutions, hackathons and events. We strive to scale products and services that matter.</p>
                         <router-link to="/scale-up-foundry" onclick="makeItJazzy();"><i class="btn-icon icon-arrow-right-circle"></i></router-link>
                     </div>
                 </div>
@@ -55,7 +55,7 @@
                     <div class="card featured">
                         <i class="icon icon-docs"></i>
                         <h4>Blockchain Foundry</h4>
-                        <p>The Blockchain Foundry works with corporate, government and institutions to develop blockchain solutions that improve transparency, security and accessibility across various domains.</p>
+                        <p>The Blockchain Foundry works with corporates, governments and institutions to develop blockchain solutions that improve transparency, security and accessibility across various domains.</p>
                         <router-link to="/blockchain-foundry" onclick="makeItJazzy();"><i class="btn-icon icon-arrow-right-circle"></i></router-link>
                     </div>
                 </div>
