@@ -40,17 +40,17 @@
                                 <li class="nav-item"><router-link to="/scale-up-foundry" onclick="makeItJazzy();"  class="nav-link">_scaleup</router-link></li>
                             </ul>
                     </li>
-                    <li class="nav-item dropdown">
+                     <!-- <li class="nav-item dropdown">
                         <a href="#" class="nav-link">products<i class="icon-arrow-down"></i></a>
                         <ul class="dropdown-menu">
                             <li class="nav-item"><router-link to="/portfolio/quick" onclick="makeItJazzy();"  class="nav-link">_quick</router-link></li>
                             <li class="nav-item"><router-link to="/portfolio/tyre-dev" onclick="makeItJazzy();"  class="nav-link">_tyredev</router-link></li>
                             <li class="nav-item"><router-link to="/portfolio/instant-ecommerce" onclick="makeItJazzy();"  class="nav-link">_iCommerce</router-link></li>
-                            <!-- <li class="nav-item"><a href="#" class="nav-link">_futuristedu </a></li>
+                           <li class="nav-item"><a href="#" class="nav-link">_futuristedu </a></li>
                             <li class="nav-item"><a href="#" class="nav-link">_radioworks </a></li>
-                            <li class="nav-item"><a href="#" class="nav-link">_payroute</a></li> -->
+                            <li class="nav-item"><a href="#" class="nav-link">_payroute</a></li>
                         </ul>
-                    </li>
+                    </li> -->
                     <li class="nav-item">
                         <router-link to="/portfolio" onclick="makeItJazzy();" class="nav-link">portfolio</router-link>
                     </li>
