@@ -40,7 +40,7 @@
                                 <li class="nav-item"><router-link to="/scale-up-foundry" onclick="makeItJazzy();"  class="nav-link">_scaleup</router-link></li>
                             </ul>
                     </li>
-                     <!-- <li class="nav-item dropdown">
+                     <!--<li class="nav-item dropdown">
                         <a href="#" class="nav-link">products<i class="icon-arrow-down"></i></a>
                         <ul class="dropdown-menu">
                             <li class="nav-item"><router-link to="/portfolio/quick" onclick="makeItJazzy();"  class="nav-link">_quick</router-link></li>
