@@ -36,7 +36,7 @@
                         <h4>Platform Development</h4>
                         <p>We are currently developing a platform to enable NPO's to take control of their data and create a new way for corporates and individuals to invest in communities, clean technology and conservation.</p>
                         <div class="gallery">
-                            <img src="@/assets/img/logos/nb-earth.png" alt="NB Earth">
+                            <img src="@/assets/img/logos/aryablock.png" alt="NB Earth">
                         </div>
                         <p>Phase: Closed Beta Testing</p>
                     </div>
