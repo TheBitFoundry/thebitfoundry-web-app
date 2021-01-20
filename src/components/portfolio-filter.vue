@@ -120,7 +120,7 @@
                                     <h4 class="m-0">Translink Logistics</h4>
                                 </div>
                                 <div class="card-footer d-lg-flex align-items-center justify-content-center">
-                                    <p>We worked closely with a client to develop a custom logistics CRM solution for their business needs. We built the software to integrates with business operations allowing companies to operate more effectively, manage risk and save costs.</p>
+                                    <p>We worked closely with a client to develop a custom logistics CRM solution for their business needs. We built the software to integrate with business operations allowing companies to use data more effectively, manage risk and save costs.</p>
                                 </div>
                             </div>
                         </div>

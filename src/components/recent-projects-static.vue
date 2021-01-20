@@ -34,7 +34,7 @@
                 <div class="col-12 col-md-6 col-lg-4 item pb-4">
                     <div class="card featured">
                         <h4>Platform Development</h4>
-                        <p>We are currently developing a platform to enable NPO's to take control of their data and create a new way for corporates and individuals to invest in communities, clean technology and conservation.</p>
+                        <p>We are currently developing a platform that enable NPO's to take control of their data and create a new way for corporates and individuals to invest in their communities, clean technology and conservation.</p>
                         <div class="gallery">
                             <img src="@/assets/img/logos/aryablock.png" alt="NB Earth">
                         </div>
