@@ -14,14 +14,14 @@
                 <div class="col-12 col-md-6 col-lg-4 item">
                     <div class="card featured">
                         <i class="icon icon-chemistry"></i>
-                           <h4>Brand Experience &amp; Creative</h4>
-                        <p>As a full-service digital and ROI focused creative team, we produce quality content for various platforms to fuel media campaigns with a focus on brand voice, message, engagement and objectives.</p>
+                           <h4>Brand Experience &amp; Design Thinking</h4>
+                        <p>As a full-service creative team, we produce quality content for various platforms and objectives.</p>
                           <ul>
-                            <li>Brand Development and Storytelling</li>
-                            <li>Digital Campaign Planning and Execution</li>
+                            <li>Brand Strategy</li>
+                            <li>Visual Identity Systems</li>
                             <li>Creative Direction</li>
-                            <li>Graphic Design</li>
-                            <li>Motion Graphics</li>
+                            <li>Illustration &amp; Graphic Design</li>
+                            <li>Events &amp; Environmental Experiences</li>
                         </ul>
                         <!-- <a href="#"><i class="btn-icon icon-arrow-right-circle"></i></a> -->
                     </div>
@@ -45,15 +45,14 @@
                 <div class="col-12 col-md-6 col-lg-4 item">
                     <div class="card">
                         <i class="icon icon-camera"></i>
-                        <h4>Content &amp; Production</h4>
-                        <p>We work with teams and brands to develop brand strategy, brand positioning, product marketing strategies, brand identity, user experience design, communication strategies, logo design and art direction and help establish creativity consistency at the touchpoints that matter.</p>
+                        <h4>Media &amp; Production</h4>
+                        <p>We work with teams and brands to develop brand strategies, product positioning, product marketing strategies, brand identity, user experience design, communication strategies and help establish creativity consistency at the touchpoints that matter.</p>
                         <ul>
-                            <li>Photography and Retouching</li>
-                            <li>Videography</li>
+                            <li>Animation &amp; Film</li>
+                            <li>Videography &amp; Video Editing</li>
+                            <li>Brand Content Production</li>
                             <li>Sound Design and Production</li>
-                            <li>VFX, 3D and Animation</li>
-                            <li>Video Editing</li>
-                            <li>Content Production</li>
+                            <li>3D Modelling &amp; VFX</li>
                         </ul>
                         <!-- <a href="#"><i class="btn-icon icon-arrow-right-circle"></i></a> -->
                     </div>

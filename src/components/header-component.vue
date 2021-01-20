@@ -20,7 +20,7 @@
                 <!-- Navbar Items -->
                 <ul class="navbar-nav items">
                     <li class="nav-item dropdown">
-                        <a href="#" class="nav-link">services <i class="icon-arrow-down"></i></a>
+                        <a href="#" class="nav-link">services<i class="icon-arrow-down"></i></a>
                         <ul class="dropdown-menu">
 
                             <li class="nav-item"><router-link to="/technical-services" onclick="makeItJazzy();" v-on:click="reloadFunc()" class="nav-link">_technical</router-link></li>
@@ -30,7 +30,7 @@
                         </ul>
                     </li>
                     <li class="nav-item dropdown">
-                        <a href="#" class="nav-link">foundries <i class="icon-arrow-down"></i></a>
+                        <a href="#" class="nav-link">foundries<i class="icon-arrow-down"></i></a>
                             <ul class="dropdown-menu">
                                 <li class="nav-item"><router-link to="/software-foundry" onclick="makeItJazzy();"  class="nav-link">_software</router-link></li>
                                 <li class="nav-item"><router-link to="aerotechnical-foundry" onclick="makeItJazzy();" class="nav-link">_aerotechnical</router-link></li>

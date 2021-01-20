@@ -17,16 +17,10 @@
                             <img src="@/assets/img/logos/silicon-africa.png" class="fit-image w-85" alt="Fit Image">
                         </div>
                         <div class="swiper-slide slide-center item">
-                            <img src="@/assets/img/logos/merge.png" class="fit-image w-85" alt="Fit Image">
-                        </div>
-                        <div class="swiper-slide slide-center item">
                             <img src="@/assets/img/logos/indoor-skydiving-academy.png" class="fit-image w-85" alt="Fit Image">
                         </div>
                         <div class="swiper-slide slide-center item">
                             <img src="@/assets/img/logos/tyredev.png" class="fit-image w-85" alt="Fit Image">
-                        </div>
-                        <div class="swiper-slide slide-center item">
-                            <img src="@/assets/img/logos/agape.png" class="fit-image w-85" alt="Fit Image">
                         </div>
                         <div class="swiper-slide slide-center item">
                             <img src="@/assets/img/logos/thecreativebit.png" class="fit-image w-85" alt="Fit Image">
