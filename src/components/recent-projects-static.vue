@@ -26,7 +26,7 @@
                         <h4>Tracking Solution</h4>
                         <p>We worked closely with a partner and client to develop a custom tracking CRM solution for their business needs. We built software that integrates with their business operation allowing them to operate more effectively, manage risk and save costs.</p>
                         <div class="gallery">
-                            <img src="@/assets/img/portfolio/bluesight.png" alt="BlueSight">
+                            <img src="@/assets/img/logos/bluesight.png" alt="BlueSight">
                         </div>
                         <p>Phase: Closed Beta Testing</p>
                     </div>
@@ -34,9 +34,9 @@
                 <div class="col-12 col-md-6 col-lg-4 item pb-4">
                     <div class="card featured">
                         <h4>Platform Development</h4>
-                        <p>We are currently developing a platform to enable NPO's to take control of their data and create a new way for corporates and individuals to invest in communities, cleantech and conservation.</p>
+                        <p>We are currently developing a platform to enable NPO's to take control of their data and create a new way for corporates and individuals to invest in communities, clean technology and conservation.</p>
                         <div class="gallery">
-                            <img src="@/assets/img/portfolio/nb-earth.png" alt="NB Earth">
+                            <img src="@/assets/img/logos/nb-earth.png" alt="NB Earth">
                         </div>
                         <p>Phase: Closed Beta Testing</p>
                     </div>

@@ -4,7 +4,7 @@
             <div class="row intro">
                 <div class="col-12 col-md-9 align-self-center text-center text-md-left">
                     <h2 class="featured">Meet The Bit Foundry</h2>
-                    <p>We care about building products that matter and strive for success with our products, project partners, clients and customers. We have many interests but we really love freedom, privacy, software, smart design, data, science, healthcare, clean technology &amp; adventure.</p>
+                    <p>We care about building products that matter and strive for success with our products, project partners and customers. We have many interests but we really love freedom, privacy, software, smart design, data, science, healthcare, clean technology, blockchain &amp; adventure.</p>
                 </div>
                 <!-- <div class="col-12 col-md-3 align-self-end">
                     <a href="#" class="btn mx-auto mr-md-0 ml-md-auto primary-button"><i class="icon-grid"></i>VIEW ALL</a>

@@ -4,7 +4,7 @@
             <div class="row intro">
                 <div class="col-12 col-md-9 align-self-left text-left text-md-left">
                     <h2 class="featured">Creative Services</h2>
-                    <p>Our creative team thrives on producing compelling creative assets and engaging content. When we're not building software, we like playing at the nexus of art and science. The creative foundry is all about exploring the avant-garde, blue-sky and sublime of brands, business and individuals across mind, digital and physical.</p>
+                    <p>Our creative team thrives on producing compelling creative assets and engaging content. When we're not building software, we like playing at the nexus of art and science. The creative foundry is all about exploring the avant-garde, bluesky and sublime of brands, business and individuals across mind, digital and physical.</p>
                 </div>
                 <!-- <div class="col-12 col-md-3 align-self-end">
                     <a href="#" class="btn mx-auto mr-md-0 ml-md-auto primary-button"><i class="icon-grid"></i>VIEW ALL</a>
