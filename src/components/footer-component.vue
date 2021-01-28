@@ -74,19 +74,17 @@
                                 </ul>
                             </div>
                             <div class="col-12 col-lg-4 p-3 text-center text-lg-left item">
-                                <h4 class="title">popular tags</h4>
-                                <a href="#" class="badge tag">Mobile</a>
+                                <h4 class="title">industries</h4>
+                                <a href="#" class="badge tag">IoT</a>
                                 <a href="#" class="badge tag">Agriculture</a>
-                                <a href="#" class="badge tag">Software</a>
+                                <a href="#" class="badge tag">SaaS</a>
                                 <a href="#" class="badge tag">Automation</a>
                                 <a href="#" class="badge tag">Machine Intelligence</a>
                                 <a href="#" class="badge tag">Education</a>
                                 <a href="#" class="badge tag">Health</a>
                                 <a href="#" class="badge tag">Clean Technology</a>
                                 <a href="#" class="badge tag">Aerospace</a>
-                                <a href="#" class="badge tag">Design</a>
                                 <a href="#" class="badge tag">Finance</a>
-                                <a href="#" class="badge tag">Blockchain</a>
                                 <a href="#" class="badge tag">Sports &amp; Recreation</a>
                                 <a href="#" class="badge tag">Environment</a>
                             </div>

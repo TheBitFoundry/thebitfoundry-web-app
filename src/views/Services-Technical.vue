@@ -3,8 +3,7 @@
         <div class="container">
             <div class="row intro">
                 <div class="col-12 col-md-9 align-self-left text-left text-md-left">
-                    <h2 class="featured">Technical Services</h2>
-                    <p>The Bit Foundry, lead by Caybo &amp; Jess, is a team of highly skilled creative technologists and engineers that specialize in digital strategy consulting, software product development, design and data management.</p>
+                    <h2 class="featured pb-3 pt-3">Technical Services</h2>
                 </div>
                 <!-- <div class="col-12 col-md-3 align-self-end">
                     <a href="#" class="btn mx-auto mr-md-0 ml-md-auto primary-button"><i class="icon-grid"></i>VIEW ALL</a>

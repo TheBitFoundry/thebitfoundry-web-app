@@ -5,7 +5,7 @@
             <div class="row intro">
                 <div class="col-12 col-md-9 align-self-center text-center text-md-left pb-5">
                     <h2 class="featured">Team favourites</h2>
-                    <p>It's not just about development for us, our engineers are passionate about product success. We work with clients on projects and products we care to invest in. Here are a few of our favourites. </p>
+                    <p>It's not just about development for us, we work with clients on projects and products that we care to invest in. Here are a few of our favourites. </p>
                 </div>
             <div class="col-12 col-md-3 align-self-end pb-5">
                    <router-link to="/portfolio" class="btn mx-auto mr-md-0 ml-md-auto primary-button" onclick="makeItJazzy();"><i class="icon-grid"></i>view all</router-link>
@@ -15,8 +15,8 @@
                     <div class="card">
                         <h4>API &amp; Application Development</h4>
                         <p>The Bit Foundry worked on UI/UX and data integration for a aerospace platform. We used .NET to deliver a user-friendly interface and a flexible data integration solution. We developed the platform’s front-end and implemented technology to capture aerotechnical information, organize data, and generate reports and rich functionality to the UI.</p>
-                        <div class="gallery">
-                                <img src="@/assets/img/logos/riserware.png" alt="Riserware">
+                        <div class="gallery pb-2">
+                                <img src="@/assets/img/logos/riserware-square-logo.png" alt="Aerospace">
                         </div>
                         <p>Phase: Private Use</p>
                     </div>

@@ -18,19 +18,19 @@
                     <div data-percent="95" class="radial">
                         <span></span>
                     </div>
-                    <h4>Product</h4>
+                    <h4>Data</h4>
                 </div>
                 <div class="col-12 col-md-6 col-lg-3 item">
                     <div data-percent="92" class="radial">
                         <span></span>
                     </div>
-                    <h4>Design</h4>
+                    <h4>Product</h4>
                 </div>
                 <div class="col-12 col-md-6 col-lg-3 item">
                     <div data-percent="90" class="radial">
                         <span></span>
                     </div>
-                    <h4>Marketing</h4>
+                    <h4>Design</h4>
                 </div>
             </div>
         </div>

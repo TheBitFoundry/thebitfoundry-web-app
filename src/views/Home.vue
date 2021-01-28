@@ -2,11 +2,11 @@
   <div>
     <Slider></Slider>
     <!-- <VideoComponent></VideoComponent> -->
-    <Skills></Skills>
     <FoundryCards></FoundryCards>
+    <Skills></Skills>
     <RecentProjectsStatic></RecentProjectsStatic>
     <Partner></Partner>
-    <BlogSection></BlogSection>
+    <!-- <BlogSection></BlogSection> -->
     <!-- <Contact></Contact> -->
   </div>
 </template>
@@ -20,7 +20,7 @@
   import FoundryCards from "@/components/foundry-cards.vue";
   import Partner from "@/components/partner.vue";
   // import Contact from "@/components/contact.vue";
-  import BlogSection from "@/components/blog-section.vue";
+  // import BlogSection from "@/components/blog-section.vue";
   import styleService from "@/resources/style-service";
   //
   export default {
@@ -33,7 +33,7 @@
       FoundryCards,
       Partner,
       // Contact,
-      BlogSection,
+      // BlogSection,
       RecentProjectsStatic,
     },
     mounted() {

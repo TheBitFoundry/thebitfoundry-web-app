@@ -54,9 +54,9 @@
                     <li class="nav-item">
                         <router-link to="/portfolio" onclick="makeItJazzy();" class="nav-link">portfolio</router-link>
                     </li>
-                     <li class="nav-item">
+                     <!-- <li class="nav-item">
                          <router-link to="/blog" class="nav-link" onclick="makeItJazzy();" data-dismiss="modal">blog</router-link>
-                    </li>
+                    </li> -->
                 </ul>
 
                 <!-- Navbar Icons -->
