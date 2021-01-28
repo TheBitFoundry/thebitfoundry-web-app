@@ -4,7 +4,7 @@
             <div class="row intro">
                 <div class="col-12 col-md-9 align-self-center text-center text-md-left">
                     <h2 class="featured">Meet The Bit Foundry</h2>
-                    <p>The Bit Foundry, lead by Jess &amp; Caybo, is a team of highly skilled creative technologists and engineers that specialize in digital strategy consulting, software product development, design and data management. We care about building products that matter and strive for success with our products, project partners and customers.</p>
+                    <p>The Bit Foundry, lead by Jess &amp; Caybo, is a team of creative technologists and engineers that specialize in digital strategy consulting, software product development, design and data management. We care about building products that matter and strive for success with our products, project partners and customers.</p>
                 </div>
                 <!-- <div class="col-12 col-md-3 align-self-end">
                     <a href="#" class="btn mx-auto mr-md-0 ml-md-auto primary-button"><i class="icon-grid"></i>VIEW ALL</a>
