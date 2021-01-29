@@ -56,15 +56,15 @@
                         <div class="row card p-0 text-center">
                             <div class="gallery">
                                 <a href="#" class="image-over">
-                                    <img src="@/assets/img/portfolio/nb-earth-project.png" alt="Lorem ipsum">
+                                    <img src="@/assets/img/logos/aryablock.png" alt="Lorem ipsum">
                                 </a>
                             </div>
                             <div class="card-caption col-12 p-0">
                                 <div class="card-body">
-                                    <h4 class="m-0">NB Earth</h4>
+                                    <h4 class="m-0">Aryablock</h4>
                                 </div>
                                 <div class="card-footer d-lg-flex align-items-center justify-content-center">
-                                    <p>The Bit Foundry is working closely with NGO's to build a blockchain solution that builds trust and transparency into conservation, education and clean technology investment initiatives for corpoarte and government.</p>
+                                    <p>The Bit Foundry is working closely with NGO's to build a blockchain solution that builds trust and transparency into conservation, and clean technology investment initiatives for corpoarte and government.</p>
                                 </div>
                             </div>
                         </div>
@@ -108,16 +108,16 @@
                         </div>
                     </div> -->
 
-                    <div class="col-12 col-md-6 col-lg-4 item filter-item" data-groups='["mobile", "web", "brand", "product"]'>
+                    <div class="col-12 col-md-6 col-lg-4 item filter-item" data-groups='["mobile", "web", "product"]'>
                         <div class="row card p-0 text-center">
                             <div class="gallery">
                                 <a href="#" class="image-over">
-                                    <img src="@/assets/img/portfolio/translink-custom-crm.png" alt="Translink">
+                                    <img src="@/assets/img/logos/bluesight.png" alt="Translink">
                                 </a>
                             </div>
                             <div class="card-caption col-12 p-0">
                                 <div class="card-body">
-                                    <h4 class="m-0">Translink Logistics</h4>
+                                    <h4 class="m-0">BlueSight</h4>
                                 </div>
                                 <div class="card-footer d-lg-flex align-items-center justify-content-center">
                                     <p>We worked closely with a client to develop a custom logistics CRM solution for their business needs. We built the software to integrate with business operations allowing companies to use data more effectively, manage risk and save costs.</p>

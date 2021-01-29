@@ -10,10 +10,8 @@
                         <div class="col-12 d-flex inner">
                             <div class="left align-self-center text-center text-md-left">
                                 <h1 data-aos="zoom-out-up" data-aos-delay="400" class="title effect-static-text">clean tech</h1>
-                                <p data-aos="zoom-out-up" data-aos-delay="800" class="description">The Clean Technology Foundry is a team dedicated to using software and machine intelligence to improve efficiency, accessibility and adoption of sustainable solutions and renewable energy. The team works closely with companies in construction, solar and commercial project management to design and build software and support project objectives effectively.</p>
+                                <p data-aos="zoom-out-up" data-aos-delay="800" class="description">As a team we are dedicated to using software and machine intelligence to improve efficiency, accessibility, and adoption of sustainable solutions, and renewable energy. The team works closely with companies in construction, solar, and commercial project management, to design and build systems that support renewable energy, and sustainable engineering projects effectively.</p>
                                 <a href="mailto:cleantech@thebitfoundry.net" data-aos="zoom-out-up" data-aos-delay="1200" class="ml-auto mr-auto ml-md-0 mt-4 btn dark-button"><i class="icon-power"></i>Build with us</a>
-                                <a href="https://www.instagram.com/cleantechfoundry/" target="_blank" data-aos="zoom-out-up" data-aos-delay="1200" class="ml-auto mr-auto ml-md-0 mt-4 btn dark-button"><i class="icon-social-instagram"></i> @cleantechfoundry</a>
-                                <a href="https://www.facebook.com/cleantechfoundry/" target="_blank" data-aos="zoom-out-up" data-aos-delay="1200" class="ml-auto mr-auto ml-md-0 mt-4 btn dark-button"><i class="icon-social-facebook"></i> @cleantechfoundry</a>
                             </div>
                         </div>
                     </div>

@@ -4,7 +4,7 @@
             <div class="row intro">
                 <div class="col-12 col-md-9 align-self-center text-center text-md-left">
                     <h2 class="featured">Meet The Bit Foundry</h2>
-                    <p>The Bit Foundry, lead by Jess &amp; Caybo, is a team of creative technologists and engineers that specialize in digital strategy consulting, software product development, design and data management. We care about building products that matter and strive for success with our products, project partners and customers.</p>
+                    <p>The Bit Foundry, lead by Jess &amp; Caybo, is a team of creative technologists and engineers that specialize in digital strategy consulting, software product development, design, and data management. We care about building products that matter, and strive for success with our products, project partners, and customers.</p>
                 </div>
                 <!-- <div class="col-12 col-md-3 align-self-end">
                     <a href="#" class="btn mx-auto mr-md-0 ml-md-auto primary-button"><i class="icon-grid"></i>VIEW ALL</a>
@@ -15,7 +15,7 @@
                     <div class="card featured">
                         <i class="icon icon-mustache"></i>
                         <h4>Software</h4>
-                        <p>The Bit Foundry is home to various software products and services. As a software first company we support products, clients and partners with their AI, data, software and technology requirements. We build APIs, mobile apps, professional responsive websites and eCommerce solutions optimized for our clients needs.</p>
+                        <p>The Bit Foundry is home to various software products and services. As a software first company we support products, clients and partners with their AI, data, software, and technology requirements. We build APIs, mobile apps, professional responsive websites, and eCommerce solutions optimized for our clients needs.</p>
                         <router-link to="/software-foundry" onclick="makeItJazzy();"><i class="btn-icon icon-arrow-right-circle"></i></router-link>
                     </div>
                 </div>
@@ -23,7 +23,7 @@
                     <div class="card">
                         <i class="icon icon-plane"></i>
                         <h4>Aerotechnical</h4>
-                        <p>The Aerotechical Foundry was founded to explore the humans spirit of adventure and our aspirations for flight and efficiency. We explore products and solutions in aerosports, aeromedicine, electric aircrafts and VTOL.</p>
+                        <p>The Aerotechical Foundry was founded to explore the humans spirit of adventure, and our aspirations for flight and efficiency. We explore products and solutions in aerosports, aeromedicine and electric aviation.</p>
                         <router-link to="/aerotechnical-foundry" onclick="makeItJazzy();"><i class="btn-icon icon-arrow-right-circle"></i></router-link>
                     </div>
                 </div>
@@ -31,7 +31,7 @@
                     <div class="card">
                         <i class="icon icon-power"></i>
                         <h4>Clean Technology</h4>
-                        <p>The Clean Tech Foundry is passionate about clean energy innovation, sustainable design and building systems and solutions that optimize agriculture, health and energy efficiency. Together with our partners we work on solar, construction automation, private and commercial projects.</p>
+                        <p>The Clean Tech Foundry is passionate about clean energy innovation, sustainable design, and building systems and solutions that optimize agriculture, health and energy efficiency. Together with our partners we work on solar, construction automation, private, and commercial projects.</p>
                         <router-link to="/clean-tech-foundry" onclick="makeItJazzy();"><i class="btn-icon icon-arrow-right-circle"></i></router-link>
                     </div>
                 </div>

@@ -11,10 +11,7 @@
                             <div class="left align-self-center text-center text-md-left">
                                 <h2 data-aos="zoom-out-up" data-aos-delay="400" class="title effect-static-text">the creative bit</h2>
                                 <p data-aos="zoom-out-up" data-aos-delay="800" class="description">Working in the realm where logic and creativity meet our creative team thrive with ✖️ ideas ✖️ brand ✖️ swag ✖️ creative direction ✖️ design ✖️ art ✖️ production ✖️ film ✖️ editorial</p>
-                                <a href="mailto:info@thebitfoundry.net" data-aos="zoom-out-up" data-aos-delay="1200" class="ml-auto mr-auto ml-md-0 mt-4 btn dark-button"><i class="icon-cup"></i>Create with us</a>
-                                <a href="https://www.instagram.com/thecreativebit/" target="_blank" data-aos="zoom-out-up" data-aos-delay="1200" class="ml-auto mr-auto ml-md-0 mt-4 btn dark-button"><i class="icon-social-instagram"></i> @thecreativebit</a>
-                                <a href="https://www.facebook.com/thecreativebit/" target="_blank" data-aos="zoom-out-up" data-aos-delay="1200" class="ml-auto mr-auto ml-md-0 mt-4 btn dark-button"><i class="icon-social-facebook"></i> @thecreativebit</a>
-                                <a href="https://www.twitter.com/thecreativebit/" target="_blank" data-aos="zoom-out-up" data-aos-delay="1200" class="ml-auto mr-auto ml-md-0 mt-4 btn dark-button"><i class="icon-social-twitter"></i> @thecreativebit</a>
+                                <a href="mailto:info@thebitfoundry.net" data-aos="zoom-out-up" data-aos-delay="1200" class="ml-auto mr-auto ml-md-0 mt-4 btn dark-button"><i class="icon-pen"></i>Create with us</a>
                                 <a href="https://www.linkedin.com/company/the-bit-foundry/" target="_blank" data-aos="zoom-out-up" data-aos-delay="1200" class="ml-auto mr-auto ml-md-0 mt-4 btn dark-button"><i class="icon-social-linkedin"></i> The Bit Foundry</a>
                             </div>
                         </div>

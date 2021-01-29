@@ -17,7 +17,7 @@
                                        
                                     </a>
                                 </div>
-                                <p>We are both creative and technical and strive to build beautiful and functional solutions for brands, business and industry. We design, build and scale software solutions with a focus on reusability, optimization and performance.</p>
+                                <p>We are both creative and technical and strive to build beautiful and functional solutions for brands, business and industry. We design, build and scale software solutions with a focus on reusability, optimization, and performance.</p>
 
                                 <ul class="navbar-nav social share-list mt-0 ml-auto">
                                     <li class="nav-item">
@@ -82,9 +82,10 @@
                                 <a href="#" class="badge tag">Machine Intelligence</a>
                                 <a href="#" class="badge tag">Education</a>
                                 <a href="#" class="badge tag">Health</a>
-                                <a href="#" class="badge tag">Clean Technology</a>
+                                <a href="#" class="badge tag">Energy</a>
                                 <a href="#" class="badge tag">Aerospace</a>
                                 <a href="#" class="badge tag">Finance</a>
+                                <a href="#" class="badge tag">Entertainment</a>
                                 <a href="#" class="badge tag">Sports &amp; Recreation</a>
                                 <a href="#" class="badge tag">Environment</a>
                             </div>
