@@ -64,7 +64,7 @@
                                     <h4 class="m-0">Aryablock</h4>
                                 </div>
                                 <div class="card-footer d-lg-flex align-items-center justify-content-center">
-                                    <p>The Bit Foundry is working closely with NPO's and private companies to build blockchain solutions that work trust and transparency into asset management, conservation, and clean technology investment in South Africa for corpoartes and governments.</p>
+                                    <p>The Bit Foundry is working closely with private companies to build trust and transparency into asset management. Aryablock facilitates a new way for companies and individuals to invest in assets, communities, clean technology, conservation and more.</p>
                                 </div>
                             </div>
                         </div>
