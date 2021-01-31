@@ -36,8 +36,8 @@
 
                                 <!-- Step Title -->
                                 <div class="step-title">
-                                    <h2 class="featured alt">Let's Talk?</h2>
-                                    <p>Don't wait until tomorrow. Get in touch today. Connect with the left &amp; right brain duo behind The Bit Foundry, Jess &amp; Caybo.<br/> Use the form or email <strong>team@thebitfoundry.net</strong></p>
+                                    <h2 class="featured alt">Let's Talk</h2>
+                                    <p>Don't wait until tomorrow. Connect with the left &amp; right brain duo behind The Bit Foundry, Jess &amp; Caybo.<br/> Use the form or email <strong>team@thebitfoundry.net</strong></p>
                                 </div>
 
                                 <!-- Step Title -->
