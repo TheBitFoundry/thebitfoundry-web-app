@@ -67,7 +67,7 @@
                         </a>
                     </li> -->
                     <li class="nav-item social">
-                        <a href="https://www.twitter.com/realbitfoundry" class="nav-link" target="_blank"><i class="icon-social-twitter"></i></a>
+                        <a href="https://www.twitter.com/bitfoundrygroup" class="nav-link" target="_blank"><i class="icon-social-twitter"></i></a>
                     </li>
                     <li class="nav-item social">
                         <a href="https://www.linkedin.com/company/the-bit-foundry/" class="nav-link" target="_blank"><i class="icon-social-linkedin"></i></a>
@@ -89,7 +89,7 @@
                 <!-- Navbar Action -->
                 <ul class="navbar-nav action">
                     <li class="nav-item ml-3">
-                        <a href="mailto:info@thebitfoundry.net" target="_blank" class="btn ml-lg-auto dark-button smooth-anchor" data-aos="zoom-out-up" data-aos-delay="1200"><i class="icon-rocket"></i>Contact</a>
+                        <a href="#footer-component" target="_blank" class="btn ml-lg-auto dark-button smooth-anchor" data-aos="zoom-out-up" data-aos-delay="1200"><i class="icon-rocket"></i>Contact</a>
                         <!--
                             Suggestion: Replace the purchase button above with a contact button.
 
