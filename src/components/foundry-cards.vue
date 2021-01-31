@@ -39,7 +39,7 @@
                     <div class="card">
                         <i class="icon icon-chemistry"></i>
                         <h4>Creative</h4>
-                        <p>The Creative Foundry is a collective playing at the nexus of Art &amp; Science. Working in the realm where logic and creativity meet the creative foundry takes the lead on all things brand, design, marketing and media.</p>
+                        <p>The Creative Foundry is a collective playing at the nexus of Art &amp; Science. Working in the realm where logic and creativity meet, the creative foundry takes the lead on all things brand, design, marketing, and media.</p>
                         <router-link to="/creative-foundry" onclick="makeItJazzy();"><i class="btn-icon icon-arrow-right-circle"></i></router-link>
                     </div>
                 </div>
@@ -47,7 +47,7 @@
                     <div class="card">
                         <i class="icon icon-chart"></i>
                         <h4>Scale Up</h4>
-                        <p>The Scale up Foundry supports entreprenuers and SMEs via strategic partnerships, cutting edge web and software solutions, hackathons and events. We strive to scale products and services that matter.</p>
+                        <p>The Scale up Foundry supports entreprenuers and SMEs via strategic partnerships, cutting edge web and software solutions, hackathons, and events. We strive to scale products and services that matter.</p>
                         <router-link to="/scale-up-foundry" onclick="makeItJazzy();"><i class="btn-icon icon-arrow-right-circle"></i></router-link>
                     </div>
                 </div>
@@ -55,7 +55,7 @@
                     <div class="card featured">
                         <i class="icon icon-docs"></i>
                         <h4>Blockchain</h4>
-                        <p>The Blockchain Foundry works with corporates, governments and institutions to develop blockchain solutions that improve transparency, security and accessibility across various domains.</p>
+                        <p>The Blockchain Foundry works with private companies, governments, and institutions to develop blockchain solutions that improve transparency, security and accessibility across various domains.</p>
                         <router-link to="/blockchain-foundry" onclick="makeItJazzy();"><i class="btn-icon icon-arrow-right-circle"></i></router-link>
                     </div>
                 </div>

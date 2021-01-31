@@ -17,7 +17,7 @@
                                        
                                     </a>
                                 </div>
-                                <p>We are both creative and technical and strive to build beautiful and functional solutions for brands, business and industry. We design, build and scale software solutions with a focus on reusability, optimization, and performance.</p>
+                                <p>We are both creative and technical and strive to build beautiful and functional solutions for brands, business, and industry. We design, build and scale software solutions with a focus on reusability, optimization, and performance.</p>
 
                                 <ul class="navbar-nav social share-list mt-0 ml-auto">
                                     <li class="nav-item">
@@ -30,7 +30,7 @@
                                         <a href="https://www.linkedin.com/company/the-bit-foundry/" class="nav-link" target="_blank"><i class="icon-social-linkedin"></i></a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="https://www.twitter.com/realbitfoundry/" class="nav-link" target="_blank"><i class="icon-social-twitter"></i></a>
+                                        <a href="https://www.twitter.com/bitfoundrygroup/" class="nav-link" target="_blank"><i class="icon-social-twitter"></i></a>
                                     </li>
                                 </ul>
                             </div>
