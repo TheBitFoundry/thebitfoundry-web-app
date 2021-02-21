@@ -30,7 +30,7 @@
                                         <a href="https://www.linkedin.com/company/the-bit-foundry/" class="nav-link" target="_blank"><i class="icon-social-linkedin"></i></a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="https://www.twitter.com/bitfoundrygroup/" class="nav-link" target="_blank"><i class="icon-social-twitter"></i></a>
+                                        <a href="https://www.twitter.com/thebitgroup/" class="nav-link" target="_blank"><i class="icon-social-twitter"></i></a>
                                     </li>
                                 </ul>
                             </div>
@@ -100,7 +100,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-12 col-md-6 p-3 text-center text-lg-left">
-                        <p>© 2020 The Bit Foundry</p>
+                        <p>© 2021 The Bit Foundry</p>
 
                         
                         <!--

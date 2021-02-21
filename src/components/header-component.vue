@@ -67,7 +67,7 @@
                         </a>
                     </li> -->
                     <li class="nav-item social">
-                        <a href="https://www.twitter.com/bitfoundrygroup" class="nav-link" target="_blank"><i class="icon-social-twitter"></i></a>
+                        <a href="https://www.twitter.com/thebitgroup" class="nav-link" target="_blank"><i class="icon-social-twitter"></i></a>
                     </li>
                     <li class="nav-item social">
                         <a href="https://www.linkedin.com/company/the-bit-foundry/" class="nav-link" target="_blank"><i class="icon-social-linkedin"></i></a>

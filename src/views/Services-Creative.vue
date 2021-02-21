@@ -14,7 +14,7 @@
                 <div class="col-12 col-md-6 col-lg-4 item">
                     <div class="card featured">
                         <i class="icon icon-chemistry"></i>
-                           <h4>Brand Experience &amp; Design Thinking</h4>
+                           <h4>Brand &amp; Experience Design</h4>
                         <p>As a full-service creative team, we produce quality content for various platforms and objectives.</p>
                           <ul>
                             <li>Brand Strategy</li>
@@ -29,13 +29,12 @@
                 <div class="col-12 col-md-6 col-lg-4 item">
                     <div class="card">
                         <i class="icon icon-chart"></i>
-                        <h4>Social Media &amp; Campaign Marketing</h4>
+                        <h4>Exposure &amp; Campaign Marketing</h4>
                         <p>We are experts in the field of SEO, Google ranking and Google advertising. We help businesses and brands target their ideal clients and generate leads through optimized account and campaign management solutions.</p>
                         <ul>
                             <li>Targeted and Paid Advertising</li>
-                            <li>Social Media Management</li>
                             <li>Display Advertising</li>
-                            <li>Copywriting</li>
+                            <li>Storytelling</li>
                             <li>Search Engine Optimization</li>
                             <li>Search Engine Marketing</li>
                         </ul>
