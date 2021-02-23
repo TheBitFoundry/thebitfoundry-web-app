@@ -11,7 +11,7 @@
                             <div class="left align-self-center text-center text-md-left pt-5">
                                 <h5 data-aos="zoom-out-up" data-aos-delay="400" class="title effect-static-text">aero-technical</h5>
                                 <p data-aos="zoom-out-up" data-aos-delay="800" class="description">The Flight Foundry aka The Adventure Foundry is all about our spirit of adventure. We work on projects and products with industry leaders in aero-sport, aerospace, indoor skydiving, and electric aviation. Join our<strong> #odysseytoflight</strong></p>
-                                <a href="mailto:aerotechnical@thebitfoundry.net" target="_black" data-aos="zoom-out-up" data-aos-delay="1200" class="ml-auto mr-auto ml-md-0 mt-4 btn dark-button"><i class="icon-plane"></i>Email us</a>
+                                <a data-aos="zoom-out-up" data-aos-delay="1200" class="ml-auto mr-auto ml-md-0 mt-4 btn dark-button" href="mailto:aerotechnical@thebitfoundry.net"><i class="icon-plane"></i>Email us</a>
                             </div>
                         </div>
                     </div>

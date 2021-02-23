@@ -62,7 +62,7 @@
                                         </a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="mailto:info@thebitfoundry.net" class="mt-4 mr-auto ml-auto ml-lg-0 btn dark-button smooth-anchor"><i class="icon-speech"></i>email us</a>
+                                        <a href="mailto:info@thebitfoundry.net" class="mt-4 mr-auto ml-auto ml-lg-0 btn dark-button"><i class="icon-speech"></i>email us</a>
                                     </li>
                                 </ul>
                             </div>
