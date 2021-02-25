@@ -6,16 +6,13 @@
           <div class="col-12">
             <h2>Caybo &amp; Jess</h2>
             <p class="text-max-800">
-              We help our clients and partners design, build and optimize their
-              websites, ystems, apps and products with cutting-edge design.
+              We design, build and optimize systems, apps and digital experiences with love, enthusiasm and cutting-edge design.
             </p>
           </div>
         </div>
-        <div class="swiper-container items pt-4">
-          <div class="swiper-wrapper">
-            <div class="slide-center text-center item tex-center">
-              <div class="row col-12">
-                <div class="row card col-md-6 item card center">
+          <div class="row pt-4 col-6 ">
+            <div class="slide-center item">
+                <div class="row card col-md-6 item card mr-auto">
                   <img
                     src="@/assets/img/jess-kotze-thebitgroup.jpg"
                     alt="Jessica Kotze"
@@ -23,8 +20,8 @@
                   />
                   <h4>Jess Kotzé</h4>
                   <p>FOUNDER / SOFTWARE ENGINEER</p>
-                  <ul class="navbar-nav social share-list ml-auto text-center">
-                    <li class="nav-item  text-center">
+                  <ul class="navbar-nav social share-list ml-auto">
+                    <li class="nav-item">
                       <a href="https://www.linkedin.com/in/jessica-k/" class="nav-link"
                         ><i class="icon-social-linkedin"></i
                       ></a>
@@ -36,14 +33,14 @@
                     </li> -->
                   </ul>
                 </div>
-                <div class="row card col-md-6 item text-center">
+                <div class="row card col-md-6 item ml-auto">
                   <img
                     src="@/assets/img/caybo-kotze-thebitgroup.png"
                     alt="Caybo Kotze"
                     class="person"/>
                   <h4>Caybo Kotzé</h4>
                   <p>FOUNDER / SYSTEM ARCHITECT</p>
-                  <ul class="navbar-nav social share-list ml-auto  text-center">
+                  <ul class="navbar-nav social share-list ml-auto">
                     <li class="nav-item  text-center">
                       <a href="https://www.linkedin.com/in/caybo-kotze/" class="nav-link"
                         ><i class="icon-social-linkedin"></i ></a>
@@ -55,9 +52,7 @@
                   </ul>
                 </div>
               </div>
-            </div>
           </div>
-        </div>
       </div>
     </div>
   </section>

@@ -2696,7 +2696,7 @@ header .navbar-expand .navbar-brand img {
 
 .person {
     width: 100%;
-    max-width: 100px;
+    max-width: 250px;
     border-radius: 100%;
 }
 
@@ -4286,3 +4286,12 @@ footer .copyright a:not(.btn) {
 }
 
 /* #endregion All Media Queries */
+
+.team-card-centered {
+    position: fixed;
+    margin: -25px 0 0 -25px;
+}
+
+.team-details {
+    text-align: center !important;
+}
