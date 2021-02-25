@@ -1,5 +1,5 @@
 <template>
-  <section id="team" class="section-5 odd carousel">
+  <section id="team" class="section-5 odd">
     <div class="overflow-holder">
       <div class="container">
         <div class="row text-center intro">

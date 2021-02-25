@@ -1,6 +1,6 @@
 <template>
     <!-- Fun Facts -->
-        <section id="funfacts" class="section-4 odd counter funfacts featured">
+        <section id="funfacts" class="section-4 odd counter funfacts">
             <div class="container">
                 <div class="row text-center intro">
                     <div class="col-12">
