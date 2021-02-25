@@ -1,6 +1,6 @@
 <template>
     <!-- Fun Facts -->
-        <section id="funfacts" class="section-4 odd counter funfacts">
+        <section id="funfacts" class="section-4 odd counter funfacts featured">
             <div class="container">
                 <div class="row text-center intro">
                     <div class="col-12">
@@ -22,10 +22,10 @@
                         <h4>Software Babies</h4>
                     </div>
                     <div class="col-12 col-md-6 col-lg-3 item">
-                        <div data-percent="56" class="radial">
+                        <div data-percent="0" class="radial">
                             <span></span>
                         </div>
-                        <h4>Websites</h4>
+                        <h4>YouTube Videos</h4>
                     </div>
                     <div class="col-12 col-md-6 col-lg-3 item">
                         <div data-percent="45" class="radial">

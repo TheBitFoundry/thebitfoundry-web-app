@@ -29,11 +29,11 @@
                         ><i class="icon-social-linkedin"></i
                       ></a>
                     </li>
-                    <li class="nav-item">
+                    <!-- <li class="nav-item">
                       <a href="https://twitter.com/jessicajaneorg" class="nav-link"
                         ><i class="icon-social-twitter"></i
                       ></a>
-                    </li>
+                    </li> -->
                   </ul>
                 </div>
                 <div class="row card col-md-6 item text-center">
@@ -48,10 +48,10 @@
                       <a href="https://www.linkedin.com/in/caybo-kotze/" class="nav-link"
                         ><i class="icon-social-linkedin"></i ></a>
                     </li>
-                    <li class="nav-item">
+                    <!-- <li class="nav-item">
                       <a href="https://twitter.com/caybokotze" class="nav-link"
                         ><i class="icon-social-twitter"></i></a>
-                    </li>
+                    </li> -->
                   </ul>
                 </div>
               </div>

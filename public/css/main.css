@@ -2700,8 +2700,8 @@ header .navbar-expand .navbar-brand img {
     border-radius: 100%;
 }
 
-#profile {
-    size: 70px !important;
+.image-person img {
+    size: 100px !important;
 }
 
 
