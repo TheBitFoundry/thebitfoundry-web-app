@@ -7,9 +7,9 @@
                     <h2 class="featured">Team favourites</h2>
                     <p>It's not just about development for us, we work with clients on projects and products that we care to invest in. Here are a few of our favourites. </p>
                 </div>
-            <div class="col-12 col-md-3 align-self-end pb-5">
+            <!-- <div class="col-12 col-md-3 align-self-end pb-5">
                    <router-link to="/portfolio" class="btn mx-auto mr-md-0 ml-md-auto primary-button" onclick="makeItJazzy();"><i class="icon-grid"></i>view all</router-link>
-             </div>
+             </div> -->
             
                 <div class="col-12 col-md-6 col-lg-4 item pb-4">
                     <div class="card">

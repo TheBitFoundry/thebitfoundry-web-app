@@ -108,7 +108,7 @@
                          -->
                     </div>
                     <div class="col-12 col-md-6 p-3 text-center text-lg-right">
-                        <p>coded with ♥ by <a href="https://www.linkedin.com/in/jessica-k/" target="_blank">Jess &amp; Caybo</a></p>
+                        <p>coded with ♥ by <a href="mailto:jessica@thebitfoundry.net" target="_blank">Jess</a> &amp; <a href="mailto:caybo@thebitfoundry.net" target="_blank">Caybo</a></p>
                     </div>
                 </div>
             </div>

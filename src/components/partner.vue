@@ -4,12 +4,12 @@
             <div class="container">
                 <div class="swiper-container min-slider">
                     <div class="swiper-wrapper">
-                        <div class="swiper-slide slide-center item">
+                        <!-- <div class="swiper-slide slide-center item">
                             <img src="@/assets/img/logos/invade.png" class="fit-image w-85" alt="Fit Image">
-                        </div>
-                        <div class="swiper-slide slide-center item">
+                        </div> -->
+                        <!-- <div class="swiper-slide slide-center item">
                             <img src="@/assets/img/logos/riserware.png" class="fit-image w-85" alt="Fit Image">
-                        </div>
+                        </div> -->
                         <div class="swiper-slide slide-center item">
                             <img src="@/assets/img/logos/roag.png" class="fit-image w-85" alt="Fit Image">
                         </div>

@@ -40,6 +40,9 @@
                                 <li class="nav-item"><router-link to="/scale-up-foundry" onclick="makeItJazzy();"  class="nav-link">_scaleup</router-link></li>
                             </ul>
                     </li>
+                    <li class="nav-item">
+                        <router-link to="/software-foundry" onclick="makeItJazzy();" class="nav-link">team</router-link>
+                    </li>
                      <!--<li class="nav-item dropdown">
                         <a href="#" class="nav-link">products<i class="icon-arrow-down"></i></a>
                         <ul class="dropdown-menu">
@@ -51,12 +54,13 @@
                             <li class="nav-item"><a href="#" class="nav-link">_payroute</a></li>
                         </ul>
                     </li> -->
-                    <li class="nav-item">
+                    <!-- <li class="nav-item">
                         <router-link to="/portfolio" onclick="makeItJazzy();" class="nav-link">portfolio</router-link>
-                    </li>
+                    </li> -->
                      <!-- <li class="nav-item">
                          <router-link to="/blog" class="nav-link" onclick="makeItJazzy();" data-dismiss="modal">blog</router-link>
                     </li> -->
+                    
                 </ul>
 
                 <!-- Navbar Icons -->
@@ -89,8 +93,10 @@
                 <!-- Navbar Action -->
                 <ul class="navbar-nav action">
                     <li class="nav-item ml-3">
-                        <a href="#" target="_blank" class="btn ml-lg-auto dark-button smooth-anchor" data-aos="zoom-out-up" data-aos-delay="1200"><i class="icon-rocket"></i>Contact</a>
-                        <!--
+                        <a href="mailto:info@thebitfoundry.net" class="mt-2 mr-auto ml-auto ml-lg-0 btn dark-button"><i class="icon-rocket"></i>Contact</a>
+                
+                         <!-- <a href="#" target="_blank" class="btn ml-lg-auto dark-button smooth-anchor" data-aos="zoom-out-up" data-aos-delay="1200"><i class="icon-rocket"></i>Contact</a> -->
+                         <!--
                             Suggestion: Replace the purchase button above with a contact button.
 
                             <a href="#contact" class="smooth-anchor btn ml-lg-auto dark-button"><i class="icon-rocket"></i>CONTACT US</a>
