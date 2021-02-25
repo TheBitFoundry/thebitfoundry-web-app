@@ -1,58 +1,65 @@
 <template>
-  <section id="team" class="section-5 odd">
+  <section id="team" class="section-5 odd carousel">
     <div class="overflow-holder">
       <div class="container">
         <div class="row text-center intro">
           <div class="col-12">
-            <h2>Caybo &amp; Jess</h2>
-            <p class="text-max-800">
-              We design, build and optimize systems, apps and digital experiences with love, enthusiasm and cutting-edge design.
-            </p>
+            <h2>Team of Experts</h2>
+            <p class="text-max-800">Our team will help you define a stand-out creative direction and will translate it
+              into visual assets that will resonate with your audience.</p>
           </div>
         </div>
-          <div class="row pt-4 col-6 ">
-            <div class="slide-center item">
-                <div class="row card col-md-6 item card mr-auto">
-                  <img
-                    src="@/assets/img/jess-kotze-thebitgroup.jpg"
-                    alt="Jessica Kotze"
-                    class="person" id="profile"
-                  />
-                  <h4>Jess Kotzé</h4>
-                  <p>FOUNDER / SOFTWARE ENGINEER</p>
+        <div class="swiper-container mid-slider-simple items">
+          <div class="swiper-wrapper">
+            <div class="swiper-slide slide-center text-center item">
+              <div class="row card">
+                <div class="col-12">
+                  <img src="@/assets/img/jess-kotze-thebitgroup.jpg" alt="Adams Baker" class="person">
+                  <h4>Adams Baker</h4>
+                  <p>CEO / CO-FOUNDER</p>
                   <ul class="navbar-nav social share-list ml-auto">
                     <li class="nav-item">
-                      <a href="https://www.linkedin.com/in/jessica-k/" class="nav-link"
-                        ><i class="icon-social-linkedin"></i
-                      ></a>
+                      <a href="#" class="nav-link"><i class="icon-social-instagram"></i></a>
                     </li>
-                    <!-- <li class="nav-item">
-                      <a href="https://twitter.com/jessicajaneorg" class="nav-link"
-                        ><i class="icon-social-twitter"></i
-                      ></a>
-                    </li> -->
-                  </ul>
-                </div>
-                <div class="row card col-md-6 item ml-auto">
-                  <img
-                    src="@/assets/img/caybo-kotze-thebitgroup.png"
-                    alt="Caybo Kotze"
-                    class="person"/>
-                  <h4>Caybo Kotzé</h4>
-                  <p>FOUNDER / SYSTEM ARCHITECT</p>
-                  <ul class="navbar-nav social share-list ml-auto">
-                    <li class="nav-item  text-center">
-                      <a href="https://www.linkedin.com/in/caybo-kotze/" class="nav-link"
-                        ><i class="icon-social-linkedin"></i ></a>
+                    <li class="nav-item">
+                      <a href="#" class="nav-link"><i class="icon-social-facebook"></i></a>
                     </li>
-                    <!-- <li class="nav-item">
-                      <a href="https://twitter.com/caybokotze" class="nav-link"
-                        ><i class="icon-social-twitter"></i></a>
-                    </li> -->
+                    <li class="nav-item">
+                      <a href="#" class="nav-link"><i class="icon-social-linkedin"></i></a>
+                    </li>
+                    <li class="nav-item">
+                      <a href="#" class="nav-link"><i class="icon-social-twitter"></i></a>
+                    </li>
                   </ul>
                 </div>
               </div>
+            </div>
+            <div class="swiper-slide slide-center text-center item">
+              <div class="row card">
+                <div class="col-12">
+                  <img src="@/assets/img/caybo-kotze-thebitgroup.png" alt="Mary Evans" class="person">
+                  <h4>Mary Evans</h4>
+                  <p>CONTROLLING / FOUNDER</p>
+                  <ul class="navbar-nav social share-list ml-auto">
+                    <li class="nav-item">
+                      <a href="#" class="nav-link"><i class="icon-social-instagram"></i></a>
+                    </li>
+                    <li class="nav-item">
+                      <a href="#" class="nav-link"><i class="icon-social-facebook"></i></a>
+                    </li>
+                    <li class="nav-item">
+                      <a href="#" class="nav-link"><i class="icon-social-linkedin"></i></a>
+                    </li>
+                    <li class="nav-item">
+                      <a href="#" class="nav-link"><i class="icon-social-twitter"></i></a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
           </div>
+          <div class="swiper-pagination"></div>
+        </div>
       </div>
     </div>
   </section>
@@ -64,4 +71,7 @@ export default {
 };
 </script>
 
+<style>
+
+</style>
 
