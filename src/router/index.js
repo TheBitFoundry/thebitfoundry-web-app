@@ -1,6 +1,7 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
 import Home from '../views/Home.vue'
+import Team from '../views/Team.vue'
 import Blog from '../views/Blog'
 import BlogSingle from '../views/BlogSingle'
 import ServicesCreative from '../views/Services-Creative'
@@ -26,6 +27,11 @@ const routes = [
     path: '/',
     name: 'home',
     component: Home
+  },
+  {
+    path: '/team',
+    name: 'team',
+    component: Team
   },
   {
     path: '/portfolio',

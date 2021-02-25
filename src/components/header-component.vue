@@ -41,7 +41,7 @@
                             </ul>
                     </li>
                     <li class="nav-item">
-                        <router-link to="/software-foundry" onclick="makeItJazzy();" class="nav-link">team</router-link>
+                        <router-link to="/team" onclick="makeItJazzy();" class="nav-link">team</router-link>
                     </li>
                      <!--<li class="nav-item dropdown">
                         <a href="#" class="nav-link">products<i class="icon-arrow-down"></i></a>
