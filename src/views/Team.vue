@@ -3,6 +3,7 @@
     <TeamSlider></TeamSlider>
     <TeamCards></TeamCards>
     <FunFacts></FunFacts>
+    <StackFilterStatic></StackFilterStatic>
     <!-- <VideoComponent></VideoComponent> -->
     <!-- <FoundryCards></FoundryCards>
     <Skills></Skills>
@@ -27,6 +28,7 @@ import FunFacts from "@/components/fun-facts.vue";
   // import Contact from "@/components/contact.vue";
   // import BlogSection from "@/components/blog-section.vue";
   import styleService from "@/resources/style-service";
+  import StackFilterStatic from '../components/stack-filter-static.vue';
   //
   export default {
     name: 'Team',
@@ -34,6 +36,7 @@ import FunFacts from "@/components/fun-facts.vue";
       TeamSlider,
       TeamCards,
       FunFacts,
+      StackFilterStatic
       // Skills,
       // VideoComponent,
       // Portfolio,

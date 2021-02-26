@@ -19,7 +19,7 @@
                         <div data-percent="4" class="radial">
                             <span></span>
                         </div>
-                        <h4>Software Babies</h4>
+                        <h4>Products</h4>
                     </div>
                     <div class="col-12 col-md-6 col-lg-3 item">
                         <div data-percent="19999" class="radial">
@@ -31,7 +31,7 @@
                         <div data-percent="45" class="radial">
                             <span></span>
                         </div>
-                        <h4>Happy Customers</h4>
+                        <h4>Happy Clients</h4>
                     </div>
                 </div>
             </div>
