@@ -5,7 +5,7 @@
                 <div class="row text-center intro">
                     <div class="col-12">
                         <h2>Fun Facts</h2>
-                        <p class="text-max-800">Over the past few years we have done many things that we are proud of, and we celebrate both our success, and failures. Our mission to build impactful software and create reputable open-source educational and professional networks motivates us to continue innovating, doing what we love and improving products, experiences, and approaches along the way.</p>
+                        <p class="text-max-800">Over the past few years we have done many things that we are proud of and we celebrate both our success, and failures. Our mission to build impactful software and create reputable open-source educational streams and professional networks motivates us to continue innovating, doing what we love and improving products, experiences, and approaches along the way.</p>
                     </div>
                 </div>
                 <div data-aos-id="counter" data-aos="fade-up" data-aos-delay="200" class="row justify-content-center text-center items">
@@ -13,7 +13,7 @@
                         <div data-percent="8" class="radial">
                             <span></span>
                         </div>
-                        <h4>Team Size</h4>
+                        <h4>Team Size</h4>npm run 
                     </div>
                     <div class="col-12 col-md-6 col-lg-3 item">
                         <div data-percent="4" class="radial">

@@ -125,7 +125,7 @@
                         </div>
                     </div>
 
-                    <div class="col-12 col-md-6 col-lg-4 item filter-item" data-groups='["backend"]'>
+                    <div class="col-12 col-md-6 col-lg-4 item filter-item" data-groups='["frontend"]'>
                         <div class="row card text-center">
                             <div class="gallery">
                                 <img src="@/assets/img/stack/javascript-thebitfoundry.net-The Bit Foundry.png" alt="Javascript">

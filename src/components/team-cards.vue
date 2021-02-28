@@ -24,10 +24,10 @@
                       <a href="#" class="nav-link"><i class="icon-social-facebook"></i></a>
                     </li> -->
                     <li class="nav-item">
-                      <a href="https://www.linkedin.com/in/jessica-k/" class="nav-link"><i class="icon-envelope"></i></a>
+                      <a href="mailto:jessica@thebitfoundry.net" target="_blank" class="nav-link"><i class="icon-envelope"></i></a>
                     </li>
                     <li class="nav-item">
-                      <a href="https://www.linkedin.com/in/jessica-k/" class="nav-link"><i class="icon-social-linkedin"></i></a>
+                      <a href="https://www.linkedin.com/in/jessica-k/" target="_blank" class="nav-link"><i class="icon-social-linkedin"></i></a>
                     </li>
                     <!-- <li class="nav-item">
                       <a href="https://twitter.com/jessicajaneorg" class="nav-link"><i class="icon-social-twitter"></i></a>
@@ -47,13 +47,13 @@
                       <a href="#" class="nav-link"><i class="icon-social-instagram"></i></a>
                     </li> -->
                     <li class="nav-item">
-                      <a href="mailto:caybo@thebitfoundry.net" class="nav-link"><i class="icon-envelope"></i></a>
+                      <a href="mailto:caybo@thebitfoundry.net" target="_blank" class="nav-link"><i class="icon-envelope"></i></a>
                     </li>
                     <!-- <li class="nav-item">
                       <a href="#" class="nav-link"><i class="icon-social-facebook"></i></a>
                     </li> -->
                     <li class="nav-item">
-                      <a href="https://www.linkedin.com/in/caybo-kotze/" class="nav-link"><i class="icon-social-linkedin"></i></a>
+                      <a href="https://www.linkedin.com/in/caybo-kotze/" target="_blank" class="nav-link"><i class="icon-social-linkedin"></i></a>
                     </li>
                     <!-- <li class="nav-item">
                       <a href="#" class="nav-link"><i class="icon-social-twitter"></i></a>
