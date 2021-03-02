@@ -34,7 +34,7 @@
                 <div class="col-12 col-md-6 col-lg-4 item pb-4">
                     <div class="card featured">
                         <h4>Platform Development</h4>
-                        <p>We are currently developing a system that enables NPO's, individuals, and private companies to take control of their data. Aryablock facilitates a new way for companies and individuals to invest in assets, communities, clean technology, conservation, and more.</p>
+                        <p>We are currently developing a system that enables NPO's, individuals, and private companies to take control of their data. The solution is designed to facilitate a new way for companies and individuals to invest in assets, communities, clean technology, conservation, and more.</p>
                         <div class="gallery">
                             <img src="@/assets/img/logos/aryablock.png" alt="NB Earth">
                         </div>

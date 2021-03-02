@@ -13,7 +13,7 @@
                         <div data-percent="8" class="radial">
                             <span></span>
                         </div>
-                        <h4>Team Size</h4>npm run 
+                        <h4>Team Size</h4>
                     </div>
                     <div class="col-12 col-md-6 col-lg-3 item">
                         <div data-percent="4" class="radial">
