@@ -16,7 +16,7 @@
                         <h4>API &amp; Application Development</h4>
                         <p>The Bit Foundry worked on UI/UX and data integration for a aerospace platform. We used .NET to deliver a user-friendly interface and a flexible data integration solution. We developed the platform’s front-end and implemented technology to capture aerotechnical information, organize data, and generate reports and rich functionality to the UI.</p>
                         <div class="gallery pb-2">
-                                <img src="@/assets/img/logos/riserware-square-logo.png" alt="Aerospace">
+                                <img src="@/assets/img/logos/riserware-square-logo.png" alt="Aerotech">
                         </div>
                         <p>Phase: Private Use</p>
                     </div>
@@ -36,7 +36,7 @@
                         <h4>Platform Development</h4>
                         <p>We are currently developing a system that enables NPO's, individuals, and private companies to take control of their data. The solution is designed to facilitate a new way for companies and individuals to invest in assets, communities, clean technology, conservation, and more.</p>
                         <div class="gallery">
-                            <img src="@/assets/img/logos/aryablock.png" alt="NB Earth">
+                            <img src="@/assets/img/logos/aryablock.png" alt="Biosphere">
                         </div>
                         <p>Phase: Closed Beta Testing</p>
                     </div>
