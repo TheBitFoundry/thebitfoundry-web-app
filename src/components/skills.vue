@@ -15,19 +15,19 @@
                     <h4>Software</h4>
                 </div>
                 <div class="col-12 col-md-6 col-lg-3 item">
-                    <div data-percent="95" class="radial">
+                    <div data-percent="99" class="radial">
                         <span></span>
                     </div>
                     <h4>Data</h4>
                 </div>
                 <div class="col-12 col-md-6 col-lg-3 item">
-                    <div data-percent="92" class="radial">
+                    <div data-percent="99" class="radial">
                         <span></span>
                     </div>
                     <h4>Product</h4>
                 </div>
                 <div class="col-12 col-md-6 col-lg-3 item">
-                    <div data-percent="90" class="radial">
+                    <div data-percent="99" class="radial">
                         <span></span>
                     </div>
                     <h4>Design</h4>

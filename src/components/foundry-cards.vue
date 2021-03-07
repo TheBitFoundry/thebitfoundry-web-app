@@ -15,7 +15,7 @@
                     <div class="card featured">
                         <i class="icon icon-mustache"></i>
                         <h4>Software</h4>
-                        <p>The Bit Foundry is home to various software products and services. As a software first company we support products, clients and partners with their AI, data, software, and technology requirements. We build APIs, mobile apps, professional responsive websites, and eCommerce solutions optimized for our clients needs.</p>
+                        <p>The Bit Foundry is a software first company. We support products, clients and partners with their AI, data, software, and technology requirements. We build APIs, mobile apps, eCommerce solutions, professional responsive websites and technology optimized for our clients needs.</p>
                         <router-link to="/software-foundry" onclick="makeItJazzy();"><i class="btn-icon icon-arrow-right-circle"></i></router-link>
                     </div>
                 </div>
@@ -23,7 +23,7 @@
                     <div class="card">
                         <i class="icon icon-plane"></i>
                         <h4>Aerotechnical</h4>
-                        <p>The Aerotechical Foundry was founded to explore the humans spirit of adventure, and our aspirations for flight and efficiency. We explore products and solutions in aerosports, recreation and aviation.</p>
+                        <p>The Aerotechical Foundry is where we let our our spirit of adventure and our aspirations for fun, flight and efficiency take the lead. This is the place where man meets machine, where we explore products and solutions in aerosports, entertainment, recreation and aviation.</p>
                         <router-link to="/aerotechnical-foundry" onclick="makeItJazzy();"><i class="btn-icon icon-arrow-right-circle"></i></router-link>
                     </div>
                 </div>
@@ -31,7 +31,7 @@
                     <div class="card">
                         <i class="icon icon-power"></i>
                         <h4>Clean Technology</h4>
-                        <p>The Clean Tech Foundry is passionate about clean energy innovation, sustainable design, and building systems and solutions that optimize agriculture, health and energy efficiency. Together with our partners we work on solar, construction automation, as well as private and commercial projects.</p>
+                        <p>The Clean Tech Foundry is dedicated to clean energy innovation, sustainable design, and building systems and solutions that optimize agriculture, health and energy efficiency. Together with our partners we work on solar, construction automation, as well as private and commercial projects.</p>
                         <router-link to="/clean-tech-foundry" onclick="makeItJazzy();"><i class="btn-icon icon-arrow-right-circle"></i></router-link>
                     </div>
                 </div>

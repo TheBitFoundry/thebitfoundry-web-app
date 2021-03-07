@@ -14,14 +14,14 @@
                 <div class="col-12 col-md-6 col-lg-4 item pb-4">
                     <div class="card">
                         <h4>API &amp; Application Development</h4>
-                        <p>The Bit Foundry worked on UI/UX and data integration for a aerospace platform. We used .NET to deliver a user-friendly interface and a flexible data integration solution. We developed the platform’s front-end and implemented technology to capture aerotechnical information, organize data, and generate reports and rich functionality to the UI.</p>
+                        <p>We built the front-end, back-end and data integration layer for a aerospace platform. We used .NET to deliver a fast, user-friendly experience and data management solution. We implemented technology to capture aerotechnical information, organize data, and generate reports and rich functionality to the UI.</p>
                         <div class="gallery pb-2">
-                                <img src="@/assets/img/logos/riserware-square-logo.png" alt="Aerotech">
+                                <img src="@/assets/img/logos/rware.png" alt="RWARE">
                         </div>
                         <p>Phase: Private Use</p>
                     </div>
                 </div>
-                <div class="col-12 col-md-6 col-lg-4 item pb-4">
+                <!-- <div class="col-12 col-md-6 col-lg-4 item pb-4">
                     <div class="card featured">
                         <h4>Tracking Solution</h4>
                         <p>We worked closely with a partner and client to develop a custom tracking CRM solution for their business needs. We built software that integrates with their business operation allowing them to operate more effectively, manage risk and save costs.</p>
@@ -30,15 +30,15 @@
                         </div>
                         <p>Phase: Closed Beta Testing</p>
                     </div>
-                </div>
+                </div> -->
                 <div class="col-12 col-md-6 col-lg-4 item pb-4">
                     <div class="card featured">
                         <h4>Platform Development</h4>
-                        <p>We are currently developing a system that enables NPO's, individuals, and private companies to take control of their data. The solution is designed to facilitate a new way for companies and individuals to invest in assets, communities, clean technology, conservation, and more.</p>
+                        <p>We are currently developing a system that facilitates a new way for NPO's, individuals, and private companies to invest in assets, communities, clean technology, conservation, and more.</p>
                         <div class="gallery">
-                            <img src="@/assets/img/logos/aryablock.png" alt="Biosphere">
+                            <img src="@/assets/img/logos/aryablock.png" alt="Arya">
                         </div>
-                        <p>Phase: Closed Beta Testing</p>
+                        <p>Phase: Closed Alpha Testing</p>
                     </div>
                 </div>
             </div>
