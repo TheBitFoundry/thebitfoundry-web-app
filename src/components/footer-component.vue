@@ -80,14 +80,12 @@
                                 <a href="#" class="badge tag">SaaS</a>
                                 <a href="#" class="badge tag">Automation</a>
                                 <a href="#" class="badge tag">Machine Intelligence</a>
-                                <a href="#" class="badge tag">Education</a>
                                 <a href="#" class="badge tag">Health</a>
                                 <a href="#" class="badge tag">Energy</a>
-                                <a href="#" class="badge tag">Aerospace</a>
                                 <a href="#" class="badge tag">Finance</a>
+                                <a href="#" class="badge tag">Aerospace</a>
                                 <a href="#" class="badge tag">Entertainment</a>
                                 <a href="#" class="badge tag">Sports &amp; Recreation</a>
-                                <a href="#" class="badge tag">Environment</a>
                             </div>
                         </div>
                     </div>

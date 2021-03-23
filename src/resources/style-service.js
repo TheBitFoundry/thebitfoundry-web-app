@@ -22,7 +22,7 @@ export default {
             theme: "theme-blue"
         },
         {
-            routeSlug: "clean-tech-foundry",
+            routeSlug: "electric-foundry",
             theme: "theme-yellow"
         },
         {

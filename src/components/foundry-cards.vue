@@ -30,8 +30,8 @@
                 <div class="col-12 col-md-6 col-lg-4 item">
                     <div class="card">
                         <i class="icon icon-power"></i>
-                        <h4>Clean Technology</h4>
-                        <p>The Clean Tech Foundry is dedicated to clean energy innovation, sustainable design, and building systems and solutions that optimize agriculture, health and energy efficiency. Together with our partners we work on solar, construction automation, as well as private and commercial projects.</p>
+                        <h4>Electronic</h4>
+                        <p>The Electric Foundry is where we power some big, and small ideas. Caybo loves electronics and exploring practical solutions that optimize and balance resources and requirements. We have a special interest in battery technology, storage, solar, off-grid and permaculture related projects.</p>
                         <router-link to="/clean-tech-foundry" onclick="makeItJazzy();"><i class="btn-icon icon-arrow-right-circle"></i></router-link>
                     </div>
                 </div>

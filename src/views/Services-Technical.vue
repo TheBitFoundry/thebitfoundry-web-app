@@ -16,9 +16,10 @@
                         <h4>Full-stack Software Engineering</h4>
                         <p>Our engineering team is based in Durban, South Africa and provide comprehensive technical services.</p>
                          <ul>
-                            <li>Website and Mobile Development</li>
-                            <li>Native, Hybrid and Cross-platform Development</li>
+                            <li>Responsive Web Development</li>
+                            <li>Native, Hybrid and Cross-platform Mobile Development</li>
                             <li>eCommerce Website Development</li>
+                            <li>System Development</li>
                             <li>Application Support</li>
                         </ul>
                         <!-- <a href="#"><i class="btn-icon icon-arrow-right-circle"></i></a> -->

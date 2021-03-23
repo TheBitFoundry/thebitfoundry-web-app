@@ -34,9 +34,9 @@
                             <ul class="dropdown-menu">
                                 <li class="nav-item"><router-link to="/software-foundry" onclick="makeItJazzy();"  class="nav-link">_software</router-link></li>
                                 <li class="nav-item"><router-link to="aerotechnical-foundry" onclick="makeItJazzy();" class="nav-link">_aerotechnical</router-link></li>
-                                <li class="nav-item"><router-link to="/clean-tech-foundry" onclick="makeItJazzy();"  class="nav-link">_cleantech</router-link></li>
+                                <li class="nav-item"><router-link to="/electric-foundry" onclick="makeItJazzy();"  class="nav-link">_electric</router-link></li>
                                 <li class="nav-item"><router-link to="/blockchain-foundry" onclick="makeItJazzy();"  class="nav-link">_blockchain</router-link></li>
-                                <li class="nav-item"><router-link to="/creative-foundry" onclick="makeItJazzy();"  class="nav-link">_thecreativebit</router-link></li>
+                                <li class="nav-item"><router-link to="/creative-foundry" onclick="makeItJazzy();"  class="nav-link">_creative</router-link></li>
                                 <li class="nav-item"><router-link to="/scale-up-foundry" onclick="makeItJazzy();"  class="nav-link">_scaleup</router-link></li>
                             </ul>
                     </li>

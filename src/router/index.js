@@ -8,7 +8,7 @@ import ServicesCreative from '../views/Services-Creative'
 import ServicesTechnical from '../views/Services-Technical'
 import FoundryAerotechnical from '../views/Foundry-Aerotechnical'
 import FoundryBlockchain from '../views/Foundry-Blockchain'
-import FoundryCleanTech from '../views/Foundry-Clean-Tech'
+import FoundryElectric from '../views/Foundry-Electric'
 import FoundryCreative from '../views/Foundry-Creative'
 import FoundryScaleUp from '../views/Foundry-Scale-Up'
 import FoundrySoftware from '../views/Foundry-Software'
@@ -77,9 +77,9 @@ const routes = [
     component: FoundryBlockchain,
   },
   {
-    path: '/clean-tech-foundry',
-    name: 'clean tech',
-    component: FoundryCleanTech
+    path: '/electric-foundry',
+    name: 'electric',
+    component: FoundryElectric
   },
   {
     path: '/creative-foundry',
